@@ -1,0 +1,266 @@
+{
+  "delayTime": 7612,
+  "executionTime": 751738,
+  "id": "52981ed7-ab7b-4516-bb8d-8056868b3971-u1",
+  "output": {
+    "n_candidates": 5000,
+    "n_val_pass": 3,
+    "n_viable": 25,
+    "preload_sec": 7.1,
+    "profile": "listed_highvol",
+    "seed": 2002,
+    "status": "ok",
+    "timings": {
+      "data_download_sec": 5.2,
+      "total_sec": 751.6
+    },
+    "top_results": [
+      {
+        "genes": {
+          "confirmation_params": {},
+          "confirmation_type": "red_bar",
+          "direction": "short",
+          "earliest_entry_min": 10,
+          "entry_delay_bars": 0,
+          "entry_params": {
+            "min_gap_pct": 100,
+            "require_red_bar": false,
+            "wait_bars": 1
+          },
+          "entry_type": "gap_fill_entry",
+          "eod_exit": true,
+          "latest_entry_min": 390,
+          "max_hold_minutes": 390,
+          "max_spread_pct": 999,
+          "min_first_bar_ret_pct": 0,
+          "min_vol_spike": 1,
+          "partial_exit": false,
+          "partial_pct": 0,
+          "partial_target_r": 0,
+          "require_vol_accel": false,
+          "sl_atr_mult": 0,
+          "sl_atr_period": 5,
+          "sl_buffer_pct": 0.25,
+          "sl_fixed_pct": 8,
+          "sl_type": "fixed_pct",
+          "tp_r": 1.5,
+          "trail_activation_r": 1,
+          "trail_distance_pct": 0.08,
+          "trail_ema_period": 8,
+          "trail_type": "fixed_pct"
+        },
+        "genes_desc": "S gap-fill(>100%) | TP=1.5R | SL=fixed_pct | +red_bar | trail=fixed_pct@1.0R",
+        "train_fitness": {
+          "avg_r": 0.0765,
+          "cum_r": 13.07,
+          "fitness": 0.3313,
+          "max_dd_r": 12.64,
+          "n_trades": 171,
+          "profit_factor": 1.149,
+          "sharpe": 0.84,
+          "win_rate": 0.4912
+        },
+        "train_summary": {
+          "avg_r": 0.0765,
+          "cum_r": 13.07,
+          "max_dd_r": 12.64,
+          "n_trades": 171,
+          "n_wins": 84,
+          "profit_factor": 1.149,
+          "sharpe": 0.84,
+          "win_rate": 49.1
+        },
+        "val_fitness": {
+          "avg_r": 0.1136,
+          "cum_r": 5.45,
+          "fitness": 0.3052,
+          "max_dd_r": 8.08,
+          "n_trades": 48,
+          "profit_factor": 1.201,
+          "sharpe": 0.584,
+          "win_rate": 0.5208
+        },
+        "val_summary": {
+          "avg_r": 0.1136,
+          "cum_r": 5.45,
+          "max_dd_r": 8.08,
+          "n_trades": 48,
+          "n_wins": 25,
+          "profit_factor": 1.201,
+          "sharpe": 0.584,
+          "win_rate": 52.1
+        }
+      },
+      {
+        "genes": {
+          "confirmation_params": {},
+          "confirmation_type": "red_bar",
+          "direction": "short",
+          "earliest_entry_min": 0,
+          "entry_delay_bars": 2,
+          "entry_params": {
+            "cross_direction": "below",
+            "min_distance_pct": 0
+          },
+          "entry_type": "vwap_cross",
+          "eod_exit": true,
+          "latest_entry_min": 390,
+          "max_hold_minutes": 120,
+          "max_spread_pct": 5,
+          "min_first_bar_ret_pct": 1,
+          "min_vol_spike": 1,
+          "partial_exit": true,
+          "partial_pct": 0.25,
+          "partial_target_r": 0.5,
+          "require_vol_accel": false,
+          "sl_atr_mult": 0,
+          "sl_atr_period": 10,
+          "sl_buffer_pct": 0.5,
+          "sl_fixed_pct": 15,
+          "sl_type": "fixed_pct",
+          "tp_r": 1.5,
+          "trail_activation_r": 2,
+          "trail_distance_pct": 0.08,
+          "trail_ema_period": 8,
+          "trail_type": "fixed_pct"
+        },
+        "genes_desc": "S VWAP-x(below) | TP=1.5R | SL=fixed_pct | +red_bar | trail=fixed_pct@2.0R | hold<=120m | partial=25%@0.5R",
+        "train_fitness": {
+          "avg_r": -0.057,
+          "cum_r": -3.02,
+          "fitness": 0.06,
+          "max_dd_r": 5.56,
+          "n_trades": 53,
+          "profit_factor": 0.835,
+          "sharpe": -0.561,
+          "win_rate": 0.5094
+        },
+        "train_summary": {
+          "avg_r": -0.057,
+          "cum_r": -3.02,
+          "max_dd_r": 5.56,
+          "n_trades": 53,
+          "n_wins": 27,
+          "profit_factor": 0.835,
+          "sharpe": -0.561,
+          "win_rate": 50.9
+        },
+        "val_fitness": {
+          "avg_r": 0.0003,
+          "cum_r": 0.01,
+          "fitness": 0.0486,
+          "max_dd_r": 3.91,
+          "n_trades": 25,
+          "profit_factor": 1.001,
+          "sharpe": 0.002,
+          "win_rate": 0.56
+        },
+        "val_summary": {
+          "avg_r": 0.0003,
+          "cum_r": 0.01,
+          "max_dd_r": 3.91,
+          "n_trades": 25,
+          "n_wins": 14,
+          "profit_factor": 1.001,
+          "sharpe": 0.002,
+          "win_rate": 56
+        }
+      },
+      {
+        "genes": {
+          "confirmation_params": {},
+          "confirmation_type": "none",
+          "direction": "short",
+          "earliest_entry_min": 5,
+          "entry_delay_bars": 3,
+          "entry_params": {
+            "entry_on": "overbought",
+            "overbought_level": 70,
+            "oversold_level": 25,
+            "rsi_period": 5
+          },
+          "entry_type": "rsi_extreme",
+          "eod_exit": true,
+          "latest_entry_min": 390,
+          "max_hold_minutes": 15,
+          "max_spread_pct": 999,
+          "min_first_bar_ret_pct": 3,
+          "min_vol_spike": 1.5,
+          "partial_exit": true,
+          "partial_pct": 0.25,
+          "partial_target_r": 0.25,
+          "require_vol_accel": false,
+          "sl_atr_mult": 0,
+          "sl_atr_period": 10,
+          "sl_buffer_pct": 0.5,
+          "sl_fixed_pct": 0,
+          "sl_type": "ramp_low",
+          "tp_r": 0.5,
+          "trail_activation_r": 0.25,
+          "trail_distance_pct": 0.02,
+          "trail_ema_period": 13,
+          "trail_type": "ema_trail"
+        },
+        "genes_desc": "S RSI(overbought,5) | TP=0.5R | SL=ramp_low | trail=ema_trail@0.25R | hold<=15m | partial=25%@0.25R",
+        "train_fitness": {
+          "avg_r": -0.5179,
+          "cum_r": -35.74,
+          "fitness": 0.0533,
+          "max_dd_r": 36.54,
+          "n_trades": 69,
+          "profit_factor": 0.274,
+          "sharpe": -3.02,
+          "win_rate": 0.5652
+        },
+        "train_summary": {
+          "avg_r": -0.5179,
+          "cum_r": -35.74,
+          "max_dd_r": 36.54,
+          "n_trades": 69,
+          "n_wins": 39,
+          "profit_factor": 0.274,
+          "sharpe": -3.02,
+          "win_rate": 56.5
+        },
+        "val_fitness": {
+          "avg_r": -0.3698,
+          "cum_r": -8.14,
+          "fitness": 0.0379,
+          "max_dd_r": 8.24,
+          "n_trades": 22,
+          "profit_factor": 0.378,
+          "sharpe": -1.667,
+          "win_rate": 0.6364
+        },
+        "val_summary": {
+          "avg_r": -0.3698,
+          "cum_r": -8.14,
+          "max_dd_r": 8.24,
+          "n_trades": 22,
+          "n_wins": 14,
+          "profit_factor": 0.378,
+          "sharpe": -1.667,
+          "win_rate": 63.6
+        }
+      }
+    ],
+    "train_date_range": [
+      "2025-03-18",
+      "2025-11-19"
+    ],
+    "train_eval_sec": 735.3,
+    "train_ticker_days": 879,
+    "val_date_range": [
+      "2025-11-20",
+      "2026-03-10"
+    ],
+    "val_eval_sec": 2.5,
+    "val_ticker_days": 357,
+    "worker": {
+      "cpu_count": 128,
+      "workers_used": 128
+    }
+  },
+  "status": "COMPLETED",
+  "workerId": "4th5y16jgyb2xa"
+}

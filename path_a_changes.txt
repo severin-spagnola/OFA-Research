@@ -1,0 +1,46 @@
+PATH A CHANGE LOG
+=================
+Date: 2026-03-19
+Base commit: 62b0cb3
+Change commit: 64a9f2e
+
+FILES MODIFIED
+--------------
+
+1. current/options_wf/wf_runner.py (+27 lines)
+   - KillConfig dataclass: added `skip_all_kills: bool = False` field (line 89)
+   - check_kill(): added early return `if config.skip_all_kills: return False, ""` (lines 133-134)
+   - evaluate_window(): added raw_trades list comprehension serializing 10 fields per
+     OptionsTrade (lines 635-648), added "raw_trades" key to output record dict (line 682)
+   - main(): added --skip-all-kills CLI arg, constructs KillConfig with flag, passes to
+     run_walkforward (lines 874-875, 881, 894)
+
+2. infra/options_runpod_handler.py (+8 lines, -1 line)
+   - _handle_wf_window(): reads `skip_all_kills` from job payload, passes to KillConfig
+     constructor (lines 667-672, 681)
+
+3. infra/wf_orchestrator.py (+7 lines, -1 line)
+   - main(): added --skip-all-kills CLI arg (lines 182-183)
+   - _build_payload(): conditionally adds `skip_all_kills: True` to job payload (lines 338-339)
+
+4. Dockerfile (+2 lines, -2 lines)
+   - CACHE_BUST bumped from 17 to 18
+
+RAW_TRADES FIELDS (10 per trade)
+--------------------------------
+trade_num (int, 1-indexed), trade_date (str), direction (str), pnl_net (float),
+result (str), exit_reason (str), mfe_pct (float), mae_pct (float),
+long_strike (float), short_strike (float)
+
+BEHAVIORAL CHANGES
+------------------
+- skip_all_kills=False (default): NO change to existing behavior
+- skip_all_kills=True: check_kill always returns (False, ""), forward runs to data_end
+- raw_trades: ALWAYS included in output records (both kill-gated and skip-kills modes)
+
+RUNPOD SUBMISSION
+-----------------
+- 153 windows, max 8 concurrent, seed=42, candidates=2000/window
+- Endpoint: 5vpdn34inq2tty (CACHE_BUST=18)
+- Output: regime_db_raw_v3.jsonl
+- Settings: --skip-all-kills (all kills disabled)

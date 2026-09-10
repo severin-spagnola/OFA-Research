@@ -1,0 +1,8 @@
+data/
+__pycache__/
+*.pyc
+.env
+results/*.jsonl
+current/options_vrp/results/
+results/runpod_*.json
+results/overnight_*.json

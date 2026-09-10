@@ -1,0 +1,12 @@
+[vrp7] Starting exhaustive walk-forward run7
+[wf] Loading available days...
+[wf] 471 trading days: 2024-03-13 to 2026-03-12
+[wf] Generated 41 walk-forward windows (train=45, val=15, step=10, forward=kill-gated)
+[wf] First window: train 2024-03-13→2024-05-17, val 2024-05-20→2024-06-13, fwd 411d avail
+[wf] Last window:  train 2025-11-19→2026-01-29, val 2026-01-30→2026-02-25, fwd 11d avail
+  [W0] train: 252 candidates, best_fitness=-1.157 best_n_trades=44 viable=0 min_train_trades=3
+[wf] Window 1/41 | train 2024-03-13→2024-05-17 | 0 val-tested, 0 fwd-profitable | 10s | ~381s remaining
+  [W1] train: 252 candidates, best_fitness=-1.537 best_n_trades=45 viable=0 min_train_trades=3
+[wf] Window 2/41 | train 2024-04-01→2024-06-06 | 0 val-tested, 0 fwd-profitable | 11s | ~408s remaining
+  [W2] train: 252 candidates, best_fitness=0.069 best_n_trades=45 viable=2 min_train_trades=3
+[wf] Window 3/41 | train 2024-04-15→2024-06-21 | 1 val-tested, 0 fwd-profitable | 11s | ~404s remaining

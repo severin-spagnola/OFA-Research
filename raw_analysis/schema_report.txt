@@ -1,0 +1,27 @@
+SCHEMA REPORT — regime_db_raw_v3.jsonl
+========================================
+Generated: 2026-03-19
+
+Total records: 768
+All records have non-empty raw_trades: YES (768/768)
+
+Fields in each record:
+  archetype, direction, forward_days, forward_exit_reason, forward_profitable,
+  forward_source, fwd_cum_pnl, fwd_max_dd, fwd_n_trades, fwd_sharpe,
+  fwd_win_rate, genes, genes_desc, n_train_days, n_val_days, raw_trades,
+  robustness, trade_type, train_end, train_fitness, train_start, val_cum_pnl,
+  val_end, val_fitness, val_n_trades, val_sharpe, val_start, val_win_rate,
+  window_id
+
+raw_trades field:
+  Present: YES
+  Trades in first record: 416
+  Fields per trade: direction, exit_reason, long_strike, mae_pct, mfe_pct,
+                     pnl_net, result, short_strike, trade_date, trade_num
+
+Consistency check (first record):
+  fwd_cum_pnl:             -2801.80
+  sum(raw_trades.pnl_net): -2801.80
+  Match: YES
+
+Val date range: 2024-05-15 to 2026-02-12

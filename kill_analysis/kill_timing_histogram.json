@@ -1,0 +1,14 @@
+{
+  "histogram": {
+    "1": 2,
+    "5": 1,
+    "6": 4,
+    "10": 4,
+    "12": 1,
+    "15": 1
+  },
+  "n_killed_strategies": 13,
+  "median_trades_before_kill": 6,
+  "mean_trades_before_kill": 7.5,
+  "pct_killed_within_1_2_trades": 0.1538
+}

@@ -1,0 +1,23 @@
+{
+  "delayTime": 179001,
+  "executionTime": 233250,
+  "id": "97117f09-be3c-40e2-ae21-560687cba2d5-u1",
+  "output": {
+    "n_candidates": 5000,
+    "n_viable": 0,
+    "profile": "listed_highvol",
+    "seed": 1001,
+    "status": "ok",
+    "timings": {
+      "data_download_sec": 0,
+      "total_sec": 232.7
+    },
+    "top_results": [],
+    "worker": {
+      "cpu_count": 32,
+      "workers_used": 32
+    }
+  },
+  "status": "COMPLETED",
+  "workerId": "3u57f8sv5kjq74"
+}

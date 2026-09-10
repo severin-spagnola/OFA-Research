@@ -1,0 +1,52 @@
+[wf_runner] Auto-generated seed: 60596
+[wf] --overwrite: clearing results/options_vrp/regime_db.jsonl
+[wf] Loading available days...
+[wf] 471 trading days: 2024-03-13 to 2026-03-12
+[wf] Generated 41 walk-forward windows (train=45, val=15, step=10, forward=kill-gated)
+[wf] First window: train 2024-03-13→2024-05-17, val 2024-05-20→2024-06-13, fwd 411d avail
+[wf] Last window:  train 2025-11-19→2026-01-29, val 2026-01-30→2026-02-25, fwd 11d avail
+[wf] Window 1/41 | train 2024-03-13→2024-05-17 | 0 val-tested, 0 fwd-profitable | 52s | ~2064s remaining
+[wf] Window 2/41 | train 2024-04-01→2024-06-06 | 0 val-tested, 0 fwd-profitable | 50s | ~1978s remaining
+[wf] Window 3/41 | train 2024-04-15→2024-06-21 | 15 val-tested, 0 fwd-profitable | 51s | ~1926s remaining
+[wf] Window 4/41 | train 2024-04-29→2024-07-08 | 0 val-tested, 0 fwd-profitable | 48s | ~1848s remaining
+[wf] Window 5/41 | train 2024-05-13→2024-07-22 | 20 val-tested, 0 fwd-profitable | 44s | ~1758s remaining
+[wf] Window 6/41 | train 2024-05-31→2024-08-05 | 15 val-tested, 0 fwd-profitable | 43s | ~1677s remaining
+[wf] Window 7/41 | train 2024-06-14→2024-08-19 | 0 val-tested, 0 fwd-profitable | 36s | ~1569s remaining
+[wf] Window 8/41 | train 2024-07-01→2024-09-06 | 0 val-tested, 0 fwd-profitable | 38s | ~1491s remaining
+[wf] Window 9/41 | train 2024-07-16→2024-09-20 | 0 val-tested, 0 fwd-profitable | 39s | ~1424s remaining
+[wf] Window 10/41 | train 2024-07-30→2024-10-04 | 0 val-tested, 0 fwd-profitable | 39s | ~1361s remaining
+[wf] Window 11/41 | train 2024-08-13→2024-10-18 | 0 val-tested, 0 fwd-profitable | 46s | ~1322s remaining
+[wf] Window 12/41 | train 2024-08-27→2024-11-01 | 0 val-tested, 0 fwd-profitable | 63s | ~1323s remaining
+[wf] Window 13/41 | train 2024-09-16→2024-11-15 | 0 val-tested, 0 fwd-profitable | 59s | ~1306s remaining
+[wf] Window 14/41 | train 2024-09-30→2024-12-02 | 0 val-tested, 0 fwd-profitable | 66s | ~1297s remaining
+[wf] Window 15/41 | train 2024-10-14→2024-12-16 | 0 val-tested, 0 fwd-profitable | 67s | ~1282s remaining
+[wf] Window 16/41 | train 2024-10-28→2024-12-31 | 0 val-tested, 0 fwd-profitable | 57s | ~1244s remaining
+[wf] Window 17/41 | train 2024-11-11→2025-01-22 | 0 val-tested, 0 fwd-profitable | 64s | ~1214s remaining
+[wf] Window 18/41 | train 2024-11-25→2025-02-05 | 0 val-tested, 0 fwd-profitable | 51s | ~1164s remaining
+[wf] Window 19/41 | train 2024-12-10→2025-02-25 | 14 val-tested, 14 fwd-profitable | 52s | ~1115s remaining
+[wf] Window 20/41 | train 2024-12-24→2025-03-11 | 10 val-tested, 7 fwd-profitable | 55s | ~1068s remaining
+[wf] Window 21/41 | train 2025-01-10→2025-03-25 | 20 val-tested, 18 fwd-profitable | 48s | ~1015s remaining
+[wf] Window 22/41 | train 2025-01-30→2025-04-08 | 20 val-tested, 20 fwd-profitable | 51s | ~965s remaining
+[wf] Window 23/41 | train 2025-02-19→2025-04-25 | 12 val-tested, 6 fwd-profitable | 46s | ~910s remaining
+[wf] Window 24/41 | train 2025-03-05→2025-05-09 | 20 val-tested, 4 fwd-profitable | 46s | ~856s remaining
+[wf] Window 25/41 | train 2025-03-19→2025-05-29 | 5 val-tested, 0 fwd-profitable | 43s | ~801s remaining
+[wf] Window 26/41 | train 2025-04-02→2025-06-12 | 0 val-tested, 0 fwd-profitable | 45s | ~749s remaining
+[wf] Window 27/41 | train 2025-04-21→2025-06-27 | 0 val-tested, 0 fwd-profitable | 44s | ~696s remaining
+[wf] Window 28/41 | train 2025-05-05→2025-07-16 | 0 val-tested, 0 fwd-profitable | 51s | ~647s remaining
+[wf] Window 29/41 | train 2025-05-19→2025-07-30 | 0 val-tested, 0 fwd-profitable | 50s | ~597s remaining
+[wf] Window 30/41 | train 2025-06-06→2025-08-13 | 0 val-tested, 0 fwd-profitable | 52s | ~548s remaining
+[wf] Window 31/41 | train 2025-06-23→2025-09-02 | 0 val-tested, 0 fwd-profitable | 58s | ~501s remaining
+[wf] Window 32/41 | train 2025-07-10→2025-09-16 | 0 val-tested, 0 fwd-profitable | 53s | ~452s remaining
+[wf] Window 33/41 | train 2025-07-24→2025-09-30 | 0 val-tested, 0 fwd-profitable | 57s | ~403s remaining
+[wf] Window 34/41 | train 2025-08-07→2025-10-14 | 0 val-tested, 0 fwd-profitable | 49s | ~353s remaining
+[wf] Window 35/41 | train 2025-08-21→2025-10-28 | 12 val-tested, 12 fwd-profitable | 44s | ~301s remaining
+[wf] Window 36/41 | train 2025-09-10→2025-11-11 | 20 val-tested, 20 fwd-profitable | 50s | ~251s remaining
+[wf] Window 37/41 | train 2025-09-24→2025-11-25 | 11 val-tested, 1 fwd-profitable | 41s | ~200s remaining
+[wf] Window 38/41 | train 2025-10-08→2025-12-10 | 0 val-tested, 0 fwd-profitable | 36s | ~149s remaining
+[wf] Window 39/41 | train 2025-10-22→2025-12-24 | 0 val-tested, 0 fwd-profitable | 40s | ~99s remaining
+[wf] Window 40/41 | train 2025-11-05→2026-01-09 | 9 val-tested, 6 fwd-profitable | 42s | ~49s remaining
+[wf] Window 41/41 | train 2025-11-19→2026-01-29 | 19 val-tested, 19 fwd-profitable | 45s | ~0s remaining
+
+[wf] DONE: 222 regime records, 127 forward-profitable (57.2%)
+[wf] Exit reasons: {'data_end': 136, 'drawdown': 51, 'rolling_wr': 25, 'early_wr': 6, 'consecutive_loss_days': 4}
+[wf] Saved to results/options_vrp/regime_db.jsonl

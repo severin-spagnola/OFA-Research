@@ -1,0 +1,141 @@
+{
+  "delayTime": 2269695,
+  "executionTime": 311934,
+  "id": "546739e5-dfad-4c18-802a-917df53e9853-u1",
+  "output": {
+    "diagnostic": {
+      "avg_trades": 0.5,
+      "best_fitness": 0.5556,
+      "max_trades": 290,
+      "n_negative_fitness": 216,
+      "n_positive_fitness": 2,
+      "n_with_trades": 218,
+      "n_zero_trades": 4782,
+      "preload_errors": 0,
+      "preload_files": 6291,
+      "preload_first_error": null,
+      "preload_sec": 7.1,
+      "train_eval_sec": 302.3,
+      "worst_fitness": -1
+    },
+    "n_candidates": 5000,
+    "n_killed_stress": 0,
+    "n_killed_train_gate": 0,
+    "n_val_pass": 1,
+    "n_viable": 2,
+    "preload_sec": 7.1,
+    "profile": "smallcap_volatile",
+    "seed": 14001,
+    "status": "ok",
+    "timings": {
+      "data_download_sec": 0,
+      "total_sec": 311.8
+    },
+    "top_results": [
+      {
+        "genes": {
+          "confirmation_params": {},
+          "confirmation_type": "none",
+          "direction": "short",
+          "earliest_entry_min": 30,
+          "entry_delay_bars": 1,
+          "entry_params": {
+            "interaction": "break_below",
+            "level_type": "premarket_high",
+            "proximity_pct": 1
+          },
+          "entry_type": "price_level",
+          "eod_exit": true,
+          "latest_entry_min": 390,
+          "max_hold_minutes": 60,
+          "max_spread_pct": 999,
+          "min_first_bar_ret_pct": 0,
+          "min_vol_spike": 1,
+          "partial_exit": true,
+          "partial_pct": 0.25,
+          "partial_target_r": 2,
+          "require_vol_accel": false,
+          "sl_atr_mult": 0,
+          "sl_atr_period": 10,
+          "sl_buffer_pct": 0.25,
+          "sl_fixed_pct": 15,
+          "sl_type": "fixed_pct",
+          "tp_r": 8,
+          "trail_activation_r": 0,
+          "trail_distance_pct": 0,
+          "trail_ema_period": 0,
+          "trail_type": "none"
+        },
+        "genes_desc": "S level(premarket_high,break_below) | TP=8.0R | SL=fixed_pct | hold<=60m | partial=25%@2.0R",
+        "stress_val_fitness": {
+          "avg_r": 0.1436,
+          "cum_r": 7.76,
+          "fitness": 0.4957,
+          "max_dd_r": 2.53,
+          "n_trades": 54,
+          "profit_factor": 1.534,
+          "sharpe": 1.234,
+          "win_rate": 0.6111
+        },
+        "train_fitness": {
+          "avg_r": 0.079,
+          "cum_r": 15.01,
+          "fitness": 0.5556,
+          "max_dd_r": 7.65,
+          "n_trades": 190,
+          "profit_factor": 1.289,
+          "sharpe": 1.4,
+          "win_rate": 0.5526
+        },
+        "train_summary": {
+          "avg_r": 0.079,
+          "cum_r": 15.01,
+          "max_dd_r": 7.65,
+          "n_trades": 190,
+          "n_wins": 105,
+          "profit_factor": 1.289,
+          "sharpe": 1.4,
+          "win_rate": 55.3
+        },
+        "val_fitness": {
+          "avg_r": 0.1849,
+          "cum_r": 9.98,
+          "fitness": 0.6166,
+          "max_dd_r": 2.14,
+          "n_trades": 54,
+          "profit_factor": 1.72,
+          "sharpe": 1.569,
+          "win_rate": 0.6111
+        },
+        "val_summary": {
+          "avg_r": 0.1849,
+          "cum_r": 9.98,
+          "max_dd_r": 2.14,
+          "n_trades": 54,
+          "n_wins": 33,
+          "profit_factor": 1.72,
+          "sharpe": 1.569,
+          "win_rate": 61.1
+        }
+      }
+    ],
+    "train_date_range": [
+      "2025-03-19",
+      "2025-11-21"
+    ],
+    "train_eval_sec": 302.3,
+    "train_ticker_days": 310,
+    "val_date_range": [
+      "2025-11-24",
+      "2026-03-10"
+    ],
+    "val_eval_sec": 0.7,
+    "val_ticker_days": 103,
+    "worker": {
+      "cpu_count": 128,
+      "workers_used": 128
+    }
+  },
+  "status": "COMPLETED",
+  "workerId": "2ttc4b7l6v5urt"
+}

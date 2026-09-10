@@ -1,0 +1,38 @@
+{
+  "delayTime": 1906591,
+  "executionTime": 419881,
+  "id": "0d916107-a6c1-47cf-bfb3-2b11f6de0fee-u1",
+  "output": {
+    "diagnostic": {
+      "avg_trades": 0.5,
+      "best_fitness": 0,
+      "max_trades": 121,
+      "n_negative_fitness": 233,
+      "n_positive_fitness": 0,
+      "n_with_trades": 233,
+      "n_zero_trades": 4767,
+      "preload_errors": 0,
+      "preload_files": 6291,
+      "preload_first_error": null,
+      "preload_sec": 7.4,
+      "train_eval_sec": 410.8,
+      "worst_fitness": -1
+    },
+    "n_candidates": 5000,
+    "n_viable": 0,
+    "profile": "nasdaq_highvol",
+    "seed": 13003,
+    "status": "ok",
+    "timings": {
+      "data_download_sec": 0,
+      "total_sec": 419.8
+    },
+    "top_results": [],
+    "worker": {
+      "cpu_count": 128,
+      "workers_used": 128
+    }
+  },
+  "status": "COMPLETED",
+  "workerId": "dcfp2423tkcp1l"
+}

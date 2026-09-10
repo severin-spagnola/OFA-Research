@@ -1,0 +1,520 @@
+{
+  "chunk_end": 20,
+  "chunk_start": 0,
+  "n_positive": 5,
+  "n_regimes": 10,
+  "regimes": [
+    {
+      "death_reason": "time_limit (365d, 110 trades, $7985)",
+      "forward_avg_pnl": 72.59,
+      "forward_days": 365,
+      "forward_end": "2025-09-09",
+      "forward_max_dd": 184.8,
+      "forward_pnl": 7984.7,
+      "forward_start": "2024-09-09",
+      "forward_trades": 110,
+      "forward_wr": 0.6727,
+      "genes": {
+        "archetype": "candle_signal",
+        "direction": "long",
+        "entry_conditions": [
+          {
+            "type": "candle_bullish"
+          },
+          {
+            "minutes": 30,
+            "type": "first_n_minutes_up"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 90,
+          "sl_pct": 0.8,
+          "tp_pct": 1,
+          "tsl_pct": 0.1
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "15:30",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm3"
+        }
+      },
+      "genes_desc": "LONG naked_itm3 | candle_bullish | first_n_minutes_up | TSL10% SL80% 90m",
+      "regime_id": 8,
+      "train_end": "2024-08-05",
+      "train_fitness": 3.2601,
+      "train_n_trades": 38,
+      "train_pf": 2.7277,
+      "train_pnl": 989.1,
+      "train_sharpe": 5.7991,
+      "train_start": "2024-05-06",
+      "train_wr": 0.4211
+    },
+    {
+      "death_reason": "early_wr 20.0% < 35% after 10 trades",
+      "forward_avg_pnl": -12.27,
+      "forward_days": 14,
+      "forward_end": "2024-09-30",
+      "forward_max_dd": 207.4,
+      "forward_pnl": -122.7,
+      "forward_start": "2024-09-16",
+      "forward_trades": 10,
+      "forward_wr": 0.2,
+      "genes": {
+        "archetype": "vol_skew",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "threshold": 1.2,
+            "type": "skew_elevated"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 240,
+          "sl_pct": 0.3,
+          "tp_pct": 1,
+          "tsl_pct": 0.15
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "14:30",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm3"
+        }
+      },
+      "genes_desc": "SHORT naked_itm3 | skew_elevated | TSL15% SL30% 240m",
+      "regime_id": 9,
+      "train_end": "2024-08-12",
+      "train_fitness": 3.2335,
+      "train_n_trades": 35,
+      "train_pf": 3.2515,
+      "train_pnl": 2616.4,
+      "train_sharpe": 5.5463,
+      "train_start": "2024-05-13",
+      "train_wr": 0.4
+    },
+    {
+      "death_reason": "drawdown $534 >= $500 after 24 trades",
+      "forward_avg_pnl": 7.93,
+      "forward_days": 57,
+      "forward_end": "2024-11-26",
+      "forward_max_dd": 534,
+      "forward_pnl": 190.3,
+      "forward_start": "2024-09-30",
+      "forward_trades": 24,
+      "forward_wr": 0.4167,
+      "genes": {
+        "archetype": "vol_skew",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "threshold": 1.2,
+            "type": "skew_elevated"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 390,
+          "sl_pct": 0.3,
+          "tp_pct": 0.5,
+          "tsl_pct": 0.2
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "12:00",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm3"
+        }
+      },
+      "genes_desc": "SHORT naked_itm3 | skew_elevated | TSL20% SL30% 390m",
+      "regime_id": 11,
+      "train_end": "2024-08-26",
+      "train_fitness": 3.7711,
+      "train_n_trades": 32,
+      "train_pf": 4.0334,
+      "train_pnl": 3204.5,
+      "train_sharpe": 6.8321,
+      "train_start": "2024-05-31",
+      "train_wr": 0.5312
+    },
+    {
+      "death_reason": "flat_regime $198 after 22 trades",
+      "forward_avg_pnl": 9,
+      "forward_days": 46,
+      "forward_end": "2024-11-22",
+      "forward_max_dd": 239,
+      "forward_pnl": 198,
+      "forward_start": "2024-10-07",
+      "forward_trades": 22,
+      "forward_wr": 0.5,
+      "genes": {
+        "archetype": "vol_skew",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "threshold": 1.2,
+            "type": "skew_elevated"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 120,
+          "sl_pct": 0.8,
+          "tp_pct": 1,
+          "tsl_pct": 0.1
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "14:30",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm1"
+        }
+      },
+      "genes_desc": "SHORT naked_itm1 | skew_elevated | TSL10% SL80% 120m",
+      "regime_id": 12,
+      "train_end": "2024-09-06",
+      "train_fitness": 3.378,
+      "train_n_trades": 34,
+      "train_pf": 5.1556,
+      "train_pnl": 1740.8,
+      "train_sharpe": 5.8452,
+      "train_start": "2024-06-07",
+      "train_wr": 0.5294
+    },
+    {
+      "death_reason": "drawdown $516 >= $500 after 20 trades",
+      "forward_avg_pnl": 3.26,
+      "forward_days": 51,
+      "forward_end": "2024-12-04",
+      "forward_max_dd": 516.4,
+      "forward_pnl": 65.2,
+      "forward_start": "2024-10-14",
+      "forward_trades": 20,
+      "forward_wr": 0.55,
+      "genes": {
+        "archetype": "breakout",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "lookback_bars": 15,
+            "type": "price_broke_low"
+          },
+          {
+            "threshold": 1.2,
+            "type": "skew_elevated"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 120,
+          "sl_pct": 0.3,
+          "tp_pct": 0.3,
+          "tsl_pct": 0.1
+        },
+        "filter_condition": {
+          "type": "bar_index_gte",
+          "value": 15
+        },
+        "regime_filters": [],
+        "time_window": {
+          "end": "12:00",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm3"
+        }
+      },
+      "genes_desc": "SHORT naked_itm3 | price_broke_low | skew_elevated | [bar_index_gte] | TSL10% SL30% 120m",
+      "regime_id": 13,
+      "train_end": "2024-09-13",
+      "train_fitness": 4.1286,
+      "train_n_trades": 32,
+      "train_pf": 5.1668,
+      "train_pnl": 2960.9,
+      "train_sharpe": 7.6946,
+      "train_start": "2024-06-14",
+      "train_wr": 0.5938
+    },
+    {
+      "death_reason": "drawdown $530 >= $500 after 17 trades",
+      "forward_avg_pnl": -21.31,
+      "forward_days": 31,
+      "forward_end": "2024-11-21",
+      "forward_max_dd": 530.3,
+      "forward_pnl": -362.2,
+      "forward_start": "2024-10-21",
+      "forward_trades": 17,
+      "forward_wr": 0.4706,
+      "genes": {
+        "archetype": "vol_skew",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "threshold": 1.2,
+            "type": "skew_elevated"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 180,
+          "sl_pct": 0.8,
+          "tp_pct": 0.3,
+          "tsl_pct": 0.1
+        },
+        "filter_condition": {
+          "min_range_pct": 1,
+          "type": "range_wide"
+        },
+        "regime_filters": [],
+        "time_window": {
+          "end": "14:30",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm3"
+        }
+      },
+      "genes_desc": "SHORT naked_itm3 | skew_elevated | [range_wide] | TSL10% SL80% 180m",
+      "regime_id": 14,
+      "train_end": "2024-09-20",
+      "train_fitness": 4.2494,
+      "train_n_trades": 37,
+      "train_pf": 7.7381,
+      "train_pnl": 3838.7,
+      "train_sharpe": 7.9836,
+      "train_start": "2024-06-24",
+      "train_wr": 0.5946
+    },
+    {
+      "death_reason": "early_wr 30.0% < 35% after 10 trades",
+      "forward_avg_pnl": -18.39,
+      "forward_days": 17,
+      "forward_end": "2024-11-14",
+      "forward_max_dd": 190.2,
+      "forward_pnl": -183.9,
+      "forward_start": "2024-10-28",
+      "forward_trades": 10,
+      "forward_wr": 0.3,
+      "genes": {
+        "archetype": "vwap_trend",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "type": "price_below_vwap"
+          },
+          {
+            "threshold": 1.2,
+            "type": "skew_elevated"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 60,
+          "sl_pct": 0.5,
+          "tp_pct": 1,
+          "tsl_pct": 0.1
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "14:30",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm3"
+        }
+      },
+      "genes_desc": "SHORT naked_itm3 | price_below_vwap | skew_elevated | TSL10% SL50% 60m",
+      "regime_id": 15,
+      "train_end": "2024-09-27",
+      "train_fitness": 4.1315,
+      "train_n_trades": 39,
+      "train_pf": 5.8257,
+      "train_pnl": 3056.6,
+      "train_sharpe": 7.6864,
+      "train_start": "2024-07-01",
+      "train_wr": 0.5897
+    },
+    {
+      "death_reason": "drawdown $554 >= $500 after 10 trades",
+      "forward_avg_pnl": -56.09,
+      "forward_days": 17,
+      "forward_end": "2024-11-21",
+      "forward_max_dd": 554.5,
+      "forward_pnl": -560.9,
+      "forward_start": "2024-11-04",
+      "forward_trades": 10,
+      "forward_wr": 0.3,
+      "genes": {
+        "archetype": "unconditional",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "type": "always"
+          },
+          {
+            "threshold": 1.2,
+            "type": "skew_elevated"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 240,
+          "sl_pct": 0.8,
+          "tp_pct": 0.6,
+          "tsl_pct": 0.1
+        },
+        "filter_condition": {
+          "type": "bar_index_lte",
+          "value": 120
+        },
+        "regime_filters": [],
+        "time_window": {
+          "end": "12:00",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm3"
+        }
+      },
+      "genes_desc": "SHORT naked_itm3 | always | skew_elevated | [bar_index_lte] | TSL10% SL80% 240m",
+      "regime_id": 16,
+      "train_end": "2024-10-04",
+      "train_fitness": 4.484,
+      "train_n_trades": 38,
+      "train_pf": 5.9556,
+      "train_pnl": 3762.8,
+      "train_sharpe": 8.536,
+      "train_start": "2024-07-09",
+      "train_wr": 0.6579
+    },
+    {
+      "death_reason": "early_wr 10.0% < 35% after 10 trades",
+      "forward_avg_pnl": -21.82,
+      "forward_days": 15,
+      "forward_end": "2024-11-26",
+      "forward_max_dd": 181,
+      "forward_pnl": -218.2,
+      "forward_start": "2024-11-11",
+      "forward_trades": 10,
+      "forward_wr": 0.1,
+      "genes": {
+        "archetype": "vol_skew",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "threshold": 1.2,
+            "type": "skew_elevated"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 390,
+          "sl_pct": 0.3,
+          "tp_pct": 1,
+          "tsl_pct": 0.1
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "14:30",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm2"
+        }
+      },
+      "genes_desc": "SHORT naked_itm2 | skew_elevated | TSL10% SL30% 390m",
+      "regime_id": 17,
+      "train_end": "2024-10-11",
+      "train_fitness": 3.8834,
+      "train_n_trades": 41,
+      "train_pf": 5.0396,
+      "train_pnl": 2649.6,
+      "train_sharpe": 7.0756,
+      "train_start": "2024-07-16",
+      "train_wr": 0.561
+    },
+    {
+      "death_reason": "time_limit (365d, 116 trades, $4973)",
+      "forward_avg_pnl": 42.87,
+      "forward_days": 365,
+      "forward_end": "2025-11-18",
+      "forward_max_dd": 283.95,
+      "forward_pnl": 4972.9,
+      "forward_start": "2024-11-18",
+      "forward_trades": 116,
+      "forward_wr": 0.6638,
+      "genes": {
+        "archetype": "opening_trend",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "minutes": 30,
+            "type": "first_n_minutes_down"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 30,
+          "sl_pct": 0.5,
+          "tp_pct": 1,
+          "tsl_pct": 0.15
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "14:30",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "atm"
+        }
+      },
+      "genes_desc": "SHORT naked_atm | first_n_minutes_down | TSL15% SL50% 30m",
+      "regime_id": 18,
+      "train_end": "2024-10-18",
+      "train_fitness": 4.4641,
+      "train_n_trades": 30,
+      "train_pf": 4.4214,
+      "train_pnl": 1584.8,
+      "train_sharpe": 8.5019,
+      "train_start": "2024-07-23",
+      "train_wr": 0.6667
+    }
+  ],
+  "status": "ok",
+  "timings": {
+    "data_download_sec": 4.8,
+    "total_sec": 2592.7
+  },
+  "total_forward_pnl": 11963.2,
+  "worker": {
+    "cpu_count": 32,
+    "workers_used": 32
+  }
+}

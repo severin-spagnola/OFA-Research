@@ -1,0 +1,20 @@
+OOS RAW ANALYSIS REPORT
+============================================================
+OOS windows: 150 (val_start >= 2025-10-01)
+Date range: 2025-10-01 to 2026-02-12
+Window IDs: 120 to 152
+
+RAW BASE METRICS (no classifier, no kills):
+  Windows profitable: 19/150 = 12.7%
+  Total raw PnL: $-142,869.90
+  Avg PnL/deploy: $-952.47
+
+CLASSIFIER-GATED RESULTS (classifier_v3_new.pkl on raw PnL):
+  t=0.55: 46 selected, 10 wins, WR=21.7%, PnL=$-29,413.90, Avg=$-639.43
+  t=0.60: 29 selected, 6 wins, WR=20.7%, PnL=$-17,378.90, Avg=$-599.27
+  t=0.65: 16 selected, 4 wins, WR=25.0%, PnL=$-8,822.20, Avg=$-551.39
+
+COMPARISON TO KILL-GATED OOS:
+  Kill-gated OOS WR at t=0.60: 15.4%
+  Raw OOS base WR:             12.7%
+  Raw OOS WR at t=0.60:        20.7%

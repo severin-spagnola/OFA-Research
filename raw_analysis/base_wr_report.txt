@@ -1,0 +1,19 @@
+BASE WIN RATE REPORT — Raw Trades (No Kills)
+=============================================
+Generated: 2026-03-19
+
+Total windows in dataset: 768
+
+Windows where raw_profitable (cum PnL > 0):
+  Count: 103
+  Pct:   13.4%
+
+Average raw trade-level WR across all windows: 36.8%
+Average raw_fwd_cum_pnl per window: $-1,776.79
+Total PnL across all windows: $-1,364,571.50
+
+Comparison to kill-gated data:
+  IS base WR (kill-gated):  24.9%
+  OOS base WR (kill-gated): 23.1%
+  RAW base WR (no kills):   13.4%
+  Delta vs IS kill-gated:   -11.5 pp

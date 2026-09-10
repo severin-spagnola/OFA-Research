@@ -1,0 +1,34 @@
+{
+  "delayTime": 3611,
+  "executionTime": 12927,
+  "id": "42f05a44-ff9d-4f5f-83c4-b4866cafc5ab-u1",
+  "output": {
+    "diagnostic": {
+      "avg_trades": 0,
+      "max_trades": 0,
+      "n_with_trades": 0,
+      "n_zero_trades": 100,
+      "preload_errors": 6291,
+      "preload_files": 0,
+      "preload_first_error": "NRBT_2025-08-21.parquet: 'No time zone found with key US/Eastern'",
+      "preload_sec": 4.9,
+      "train_eval_sec": 4.3
+    },
+    "n_candidates": 100,
+    "n_viable": 0,
+    "profile": "listed_highvol",
+    "seed": 1000,
+    "status": "ok",
+    "timings": {
+      "data_download_sec": 3.5,
+      "total_sec": 12.9
+    },
+    "top_results": [],
+    "worker": {
+      "cpu_count": 32,
+      "workers_used": 32
+    }
+  },
+  "status": "COMPLETED",
+  "workerId": "erqo29cf0mzb7i"
+}

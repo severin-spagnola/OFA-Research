@@ -1,0 +1,54 @@
+{
+  "delayTime": 1710301,
+  "executionTime": 952590,
+  "id": "7e1e168a-8992-4020-af8d-cdb10b3626a4-u1",
+  "output": {
+    "diagnostic": {
+      "avg_trades": 1.3,
+      "best_fitness": 0.6154,
+      "max_trades": 739,
+      "n_negative_fitness": 302,
+      "n_positive_fitness": 7,
+      "n_with_trades": 309,
+      "n_zero_trades": 4691,
+      "preload_errors": 20821,
+      "preload_files": 20708,
+      "preload_first_error": "._NRBT_2025-08-21.parquet: Could not open Parquet input source '<Buffer>': Parquet magic bytes not found in footer. Either the file is corrupted or this is not a parquet file.",
+      "preload_sec": 18.2,
+      "train_eval_sec": 920.9,
+      "worst_fitness": -1
+    },
+    "n_candidates": 5000,
+    "n_killed_stress": 0,
+    "n_killed_train_gate": 1,
+    "n_val_pass": 0,
+    "n_viable": 7,
+    "preload_sec": 18.2,
+    "profile": "smallcap_volatile",
+    "seed": 23001,
+    "status": "ok",
+    "timings": {
+      "data_download_sec": 0.1,
+      "total_sec": 952.3
+    },
+    "top_results": [],
+    "train_date_range": [
+      "2025-03-18",
+      "2025-11-20"
+    ],
+    "train_eval_sec": 920.9,
+    "train_ticker_days": 823,
+    "val_date_range": [
+      "2025-11-21",
+      "2026-03-11"
+    ],
+    "val_eval_sec": 7.3,
+    "val_ticker_days": 303,
+    "worker": {
+      "cpu_count": 32,
+      "workers_used": 32
+    }
+  },
+  "status": "COMPLETED",
+  "workerId": "qjyqoh93cpw392"
+}

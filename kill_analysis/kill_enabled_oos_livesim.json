@@ -1,0 +1,46 @@
+{
+  "0.55": {
+    "n_deployments": 20,
+    "wins": 0,
+    "win_rate": 0.0,
+    "total_pnl": -5186.8,
+    "avg_pnl_per_deploy": -259.34,
+    "kills_triggered": 20,
+    "kill_rate": 1.0,
+    "kill_reasons": {
+      "early_wr": 9,
+      "emergency_wr": 4,
+      "drawdown": 3,
+      "single_trade_loss": 3,
+      "flat_regime": 1
+    }
+  },
+  "0.6": {
+    "n_deployments": 13,
+    "wins": 0,
+    "win_rate": 0.0,
+    "total_pnl": -3313.4,
+    "avg_pnl_per_deploy": -254.88,
+    "kills_triggered": 13,
+    "kill_rate": 1.0,
+    "kill_reasons": {
+      "early_wr": 6,
+      "emergency_wr": 4,
+      "single_trade_loss": 3
+    }
+  },
+  "0.65": {
+    "n_deployments": 6,
+    "wins": 0,
+    "win_rate": 0.0,
+    "total_pnl": -1143.2,
+    "avg_pnl_per_deploy": -190.53,
+    "kills_triggered": 6,
+    "kill_rate": 1.0,
+    "kill_reasons": {
+      "early_wr": 4,
+      "single_trade_loss": 1,
+      "emergency_wr": 1
+    }
+  }
+}

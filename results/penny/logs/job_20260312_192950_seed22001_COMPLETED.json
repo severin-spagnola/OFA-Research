@@ -1,0 +1,38 @@
+{
+  "delayTime": 1516481,
+  "executionTime": 194000,
+  "id": "551b5e2f-28b2-4113-b438-d4c5930e3c4b-u2",
+  "output": {
+    "diagnostic": {
+      "avg_trades": 0.3,
+      "best_fitness": 0,
+      "max_trades": 111,
+      "n_negative_fitness": 178,
+      "n_positive_fitness": 0,
+      "n_with_trades": 178,
+      "n_zero_trades": 4822,
+      "preload_errors": 20821,
+      "preload_files": 20708,
+      "preload_first_error": "._NRBT_2025-08-21.parquet: Could not open Parquet input source '<Buffer>': Parquet magic bytes not found in footer. Either the file is corrupted or this is not a parquet file.",
+      "preload_sec": 18.2,
+      "train_eval_sec": 169.3,
+      "worst_fitness": -1
+    },
+    "n_candidates": 5000,
+    "n_viable": 0,
+    "profile": "otc_highvol",
+    "seed": 22001,
+    "status": "ok",
+    "timings": {
+      "data_download_sec": 0.1,
+      "total_sec": 193.8
+    },
+    "top_results": [],
+    "worker": {
+      "cpu_count": 32,
+      "workers_used": 32
+    }
+  },
+  "status": "COMPLETED",
+  "workerId": "qjyqoh93cpw392"
+}

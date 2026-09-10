@@ -1,0 +1,139 @@
+PATH A CODE INSPECTION — Walk-Forward Runner Codebase
+======================================================
+Generated: 2026-03-19
+Purpose: Understand what changes are needed to generate raw trade-by-trade data
+         (i.e., forward period trades WITHOUT kill truncation)
+
+================================================================================
+FILE 1: current/options_wf/wf_runner.py  (PRIMARY — local runner)
+================================================================================
+
+- FILE: /Users/severinspagnola/Desktop/OFA-Research/current/options_wf/wf_runner.py
+- KILL LOGIC LOCATION: wf_runner.py:64-232
+  - KillConfig dataclass: lines 64-89 (10+ kill condition thresholds)
+  - _live_score_multiplier(): lines 91-109
+  - _get_contracts(): lines 112-116
+  - check_kill(): lines 119-232 (the actual kill check, called after each day)
+- FORWARD LOOP LOCATION: wf_runner.py:585-666
+  - Phase 3 "Kill-gated forward evaluation": lines 585-666
+  - Day-by-day loop: lines 592-616
+  - Aggregate stats computed: lines 618-627
+  - Regime record assembled: lines 631-663
+- PER-TRADE LOOP: YES
+  Description: The forward loop (line 592) iterates over each day in valid_fwd.
+  For each day, evaluate_day() returns an OptionsTrade or None. Trades are
+  accumulated in fwd_trades list. After each day, check_kill(fwd_trades, ...) is
+  called and if it returns True, the loop breaks. The fwd_trades list contains
+  full OptionsTrade objects with per-trade PnL (pnl_net), result ("win"/"loss"),
+  timestamps, strike prices, and MFE/MAE. This per-trade data IS computed at an
+  intermediate step — it's just NOT saved to the JSONL output.
+- MODIFICATION SCOPE: small (<50 lines)
+- KEY CHANGE NEEDED:
+  To save raw trade-by-trade data, add ~15-25 lines after line 627 to serialize
+  fwd_trades into a list of dicts (trade_date, direction, pnl_net, result,
+  entry_time, exit_time, exit_reason, etc.) and include it in the regime record
+  dict (line 631). To optionally skip kills during generation, add a boolean
+  flag to evaluate_window() (e.g., skip_kills=False) and wrap the check_kill
+  call at line 610-616 in `if not skip_kills:`. This is a ~5-line change.
+  Total estimated: 20-30 lines. The fwd_trades list already exists and is fully
+  populated — the data just needs to be serialized before it's discarded.
+
+  Specific changes:
+  (a) Save raw trade array (~15 lines):
+      After line 627, add:
+        fwd_trade_details = [
+            {"date": t.trade_date, "pnl_net": t.pnl_net, "result": t.result,
+             "direction": t.direction, "exit_reason": t.exit_reason, ...}
+            for t in fwd_trades
+        ]
+      Then add "fwd_trades_raw": fwd_trade_details to the record dict at line 631.
+
+  (b) Optionally skip kills (~5 lines):
+      Add parameter: def evaluate_window(..., skip_kills: bool = False)
+      Change lines 610-616 to:
+        if not skip_kills:
+            killed, reason = check_kill(fwd_trades, kill_config, valid_fwd[0], d)
+            if killed:
+                fwd_exit_reason = reason
+                break
+      This allows generating "raw" forward data where the loop runs to data_end.
+
+================================================================================
+FILE 2: infra/wf_orchestrator.py  (orchestrator — dispatches to RunPod)
+================================================================================
+
+- FILE: /Users/severinspagnola/Desktop/OFA-Research/infra/wf_orchestrator.py
+- KILL LOGIC LOCATION: N/A — orchestrator does not contain kill logic; it submits
+  jobs to RunPod which execute wf_runner.py remotely
+- PER-TRADE LOOP: No — orchestrator only receives completed regime records from
+  RunPod jobs and appends them to JSONL
+- MODIFICATION SCOPE: small (<50 lines)
+- KEY CHANGE NEEDED:
+  To propagate the skip_kills flag: add it to the job payload sent to RunPod
+  (submit_job(), line 59) and ensure the RunPod handler passes it through to
+  evaluate_window(). Also need to handle the larger JSONL records if fwd_trades_raw
+  is included (may significantly increase file sizes — 108 records x ~10 trades
+  each = ~1080 trade records). The orchestrator's _process_completed_window()
+  (line 448) would need no changes as it just writes the received dict as JSON.
+
+================================================================================
+FILE 3: current/options_wf/options_backtest.py  (trade execution engine)
+================================================================================
+
+- FILE: /Users/severinspagnola/Desktop/OFA-Research/current/options_wf/options_backtest.py
+- KILL LOGIC LOCATION: N/A — this file handles trade construction and evaluation,
+  not kill conditions
+- PER-TRADE LOOP: YES — evaluate_day() (around line 1265) constructs and evaluates
+  individual OptionsTrade objects. The OptionsTrade dataclass (lines 114-136) has:
+  trade_date, direction, spread_type, long_strike, short_strike, expiry_date, dte,
+  entry_time, entry_debit, exit_time, exit_value, exit_reason, pnl_per_contract,
+  pnl_net, max_gain, mfe_pct, mae_pct, result, spy_entry_price, spy_exit_price
+- MODIFICATION SCOPE: none (no changes needed)
+- KEY CHANGE NEEDED: None. The OptionsTrade dataclass already contains all fields
+  needed for trade-by-trade analysis. The data flows correctly to wf_runner.py's
+  fwd_trades list. No changes to this file are needed.
+
+================================================================================
+FILE 4: current/options_research/options_walkforward.py  (original livesim)
+================================================================================
+
+- FILE: /Users/severinspagnola/Desktop/OFA-Research/current/options_research/options_walkforward.py
+- KILL LOGIC LOCATION: lines 114-249 (check_kill) — original version of kill logic
+  that wf_runner.py was ported from
+- PER-TRADE LOOP: YES — similar day-by-day forward loop as wf_runner.py
+- MODIFICATION SCOPE: N/A (not used for regime_db generation)
+- KEY CHANGE NEEDED: None for Path A. This file's kill logic is the reference
+  implementation but wf_runner.py is the one that generates regime_db output.
+  Any changes should be made to wf_runner.py and kept in sync.
+
+================================================================================
+SUMMARY
+================================================================================
+
+PRIMARY FILE TO MODIFY: current/options_wf/wf_runner.py
+TOTAL ESTIMATED CHANGES: ~25-30 lines (small scope)
+
+Change (a) — Save raw trade-by-trade array: ~15-20 lines
+  - Serialize fwd_trades list to dicts after line 627
+  - Add to regime record dict
+  - Already has all per-trade data (pnl_net, result, trade_date, etc.)
+
+Change (b) — Skip kills during generation: ~5-10 lines
+  - Add skip_kills parameter to evaluate_window()
+  - Wrap check_kill call in conditional
+  - If skip_kills=True, forward loop runs to data exhaustion
+
+RISKS:
+  - File size: Adding raw trades to JSONL will increase file size ~5-10x
+  - RunPod sync: If running on RunPod, the orchestrator payload/response
+    may need size adjustments
+  - Data volume: 108 records x avg 7.5 trades = ~810 trade records (manageable)
+  - Backward compatibility: Existing analysis scripts expect current schema;
+    adding new fields is additive and won't break them
+
+RECOMMENDATION:
+  Both changes are straightforward. The per-trade data already exists in memory
+  during the forward loop — it's just not persisted. The kill skip is a simple
+  conditional wrap. Suggest implementing (a) first to get raw trade data from
+  kill-gated runs, then (b) to generate un-killed forward data for true
+  no-kill analysis.

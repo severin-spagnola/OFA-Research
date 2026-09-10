@@ -1,0 +1,59 @@
+{
+  "description": "Path D: No-classifier OOS livesim on regime_db_short3mo.jsonl",
+  "data_file": "/Users/severinspagnola/Desktop/OFA-Research/results/options_wf/regime_db_short3mo.jsonl",
+  "total_records": 108,
+  "fundamental_filter": "val_sharpe >= 0.5 AND val_n_trades >= 10",
+  "n_passing_filter": 108,
+  "filter_pass_rate": 1.0,
+  "windows_covered": "420-457 (35 unique)",
+  "direction_breakdown": {
+    "short": 91,
+    "long": 17
+  },
+  "limitation": "Forward data is kill_gated at source. fwd_cum_pnl reflects PnL at kill point, not at period end. 'No kills' variant uses PnL at the moment tracking stopped. DD-only variants re-classify which kills would fire under a DD-only regime, but cannot extend the forward period past the original kill point. For strategies killed by non-DD reasons, we check if fwd_max_dd >= threshold to determine if DD kill would have fired independently.",
+  "variants": {
+    "NO_KILLS": {
+      "variant": "NO_KILLS",
+      "n_qualifying": 108,
+      "n_deployed": 108,
+      "wins": 25,
+      "win_rate": 0.2315,
+      "total_pnl": -26258.2,
+      "avg_pnl_per_deploy": -243.13,
+      "kills_triggered": 0,
+      "kill_reasons": {}
+    },
+    "DD_ONLY_0.20": {
+      "variant": "DD_ONLY_0.20",
+      "n_qualifying": 108,
+      "n_deployed": 108,
+      "wins": 22,
+      "win_rate": 0.2037,
+      "total_pnl": -26258.2,
+      "avg_pnl_per_deploy": -243.13,
+      "kills_triggered": 41,
+      "kill_reasons": {
+        "drawdown": 38,
+        "single_trade_loss": 3
+      }
+    },
+    "DD_ONLY_0.15": {
+      "variant": "DD_ONLY_0.15",
+      "n_qualifying": 108,
+      "n_deployed": 108,
+      "wins": 21,
+      "win_rate": 0.1944,
+      "total_pnl": -26258.2,
+      "avg_pnl_per_deploy": -243.13,
+      "kills_triggered": 63,
+      "kill_reasons": {
+        "drawdown": 38,
+        "early_wr": 9,
+        "emergency_wr": 8,
+        "single_trade_loss": 6,
+        "flat_regime": 1,
+        "low_avg_pnl": 1
+      }
+    }
+  }
+}

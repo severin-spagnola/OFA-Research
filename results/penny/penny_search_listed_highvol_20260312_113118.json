@@ -1,0 +1,20 @@
+{
+  "profile": "listed_highvol",
+  "n_workers": 1,
+  "candidates_per_worker": 100,
+  "total_candidates": 100,
+  "total_viable": 0,
+  "total_val_pass": 0,
+  "total_time_min": 0.7,
+  "top_20": [],
+  "worker_results": [
+    {
+      "seed": 1000,
+      "n_candidates": 100,
+      "n_viable": 0,
+      "n_val_pass": null,
+      "train_eval_sec": null,
+      "val_eval_sec": null
+    }
+  ]
+}

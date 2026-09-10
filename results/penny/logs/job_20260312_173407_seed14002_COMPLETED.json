@@ -1,0 +1,54 @@
+{
+  "delayTime": 2296402,
+  "executionTime": 315527,
+  "id": "36d2614e-38a1-4f90-9120-9987936ec28c-u2",
+  "output": {
+    "diagnostic": {
+      "avg_trades": 0.5,
+      "best_fitness": 0.0609,
+      "max_trades": 298,
+      "n_negative_fitness": 207,
+      "n_positive_fitness": 1,
+      "n_with_trades": 208,
+      "n_zero_trades": 4792,
+      "preload_errors": 0,
+      "preload_files": 6291,
+      "preload_first_error": null,
+      "preload_sec": 7.3,
+      "train_eval_sec": 306.3,
+      "worst_fitness": -1
+    },
+    "n_candidates": 5000,
+    "n_killed_stress": 0,
+    "n_killed_train_gate": 0,
+    "n_val_pass": 0,
+    "n_viable": 1,
+    "preload_sec": 7.3,
+    "profile": "smallcap_volatile",
+    "seed": 14002,
+    "status": "ok",
+    "timings": {
+      "data_download_sec": 0,
+      "total_sec": 315.4
+    },
+    "top_results": [],
+    "train_date_range": [
+      "2025-03-19",
+      "2025-11-21"
+    ],
+    "train_eval_sec": 306.3,
+    "train_ticker_days": 310,
+    "val_date_range": [
+      "2025-11-24",
+      "2026-03-10"
+    ],
+    "val_eval_sec": 0.4,
+    "val_ticker_days": 103,
+    "worker": {
+      "cpu_count": 128,
+      "workers_used": 128
+    }
+  },
+  "status": "COMPLETED",
+  "workerId": "7vjkkv7q7bmyie"
+}

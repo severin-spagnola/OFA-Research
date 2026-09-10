@@ -1,0 +1,30 @@
+CLASSIFIER RETRAINING REPORT — Raw Labels, Time-Split CV
+============================================================
+Dataset: 768 windows, sorted by val_start
+Positive label rate (raw_profitable): 103/768 = 13.4%
+Features: 49
+
+Time-Ordered 5-Fold CV (expanding window):
+  Train on folds 1..N, validate on fold N+1
+
+  Fold 1: Train=153 (2024-05-15..2024-08-28), Test=153 (2024-08-28..2025-02-07)
+          AUC=0.5913, F1=0.2807, Test pos rate=14.4%
+  Fold 2: Train=306 (2024-05-15..2025-02-07), Test=153 (2025-02-07..2025-06-13)
+          AUC=0.5793, F1=0.0625, Test pos rate=5.2%
+  Fold 3: Train=459 (2024-05-15..2025-06-13), Test=153 (2025-06-13..2025-09-26)
+          AUC=0.5326, F1=0.1429, Test pos rate=15.7%
+  Fold 4: Train=612 (2024-05-15..2025-09-26), Test=153 (2025-09-26..2026-02-12)
+          AUC=0.5274, F1=0.0606, Test pos rate=14.4%
+
+AVERAGE TIME-SPLIT AUC: 0.5577
+AVERAGE TIME-SPLIT F1:  0.1367
+
+Comparison:
+  Random-fold AUC (kill-gated labels): 0.684
+  Time-split AUC (raw labels):         0.5577
+  Delta:                               -0.1263
+
+Threshold check: AUC >= 0.62? NO — below threshold
+
+Note: Positive label rate is 13.4% (vs ~25% in kill-gated data).
+Lower base rate means the classifier has a harder task with more imbalanced labels.

@@ -1,0 +1,13 @@
+[wf_runner] Auto-generated seed: 64534
+[wf] --overwrite: clearing results/options_vrp/regime_db.jsonl
+[wf] Loading available days...
+[wf] 504 trading days: 2024-03-01 to 2026-03-06
+[wf] Generated 44 walk-forward windows (train=45, val=15, step=10, forward=kill-gated)
+[wf] First window: train 2024-03-01→2024-05-03, val 2024-05-06→2024-05-24, fwd 444d avail
+[wf] Last window:  train 2025-11-17→2026-01-22, val 2026-01-23→2026-02-12, fwd 14d avail
+[wf] Window 1/44 | train 2024-03-01→2024-05-03 | 0 val-tested, 0 fwd-profitable | 1026s | ~44124s remaining
+[wf] Window 2/44 | train 2024-03-15→2024-05-17 | 0 val-tested, 0 fwd-profitable | 944s | ~41381s remaining
+[wf] Window 3/44 | train 2024-04-01→2024-06-03 | 0 val-tested, 0 fwd-profitable | 895s | ~39164s remaining
+[wf] Window 4/44 | train 2024-04-15→2024-06-17 | 0 val-tested, 0 fwd-profitable | 1030s | ~38956s remaining
+[wf] Window 5/44 | train 2024-04-29→2024-07-02 | 0 val-tested, 0 fwd-profitable | 1096s | ~38932s remaining
+[wf] Window 6/44 | train 2024-05-13→2024-07-17 | 0 val-tested, 0 fwd-profitable | 925s | ~37468s remaining

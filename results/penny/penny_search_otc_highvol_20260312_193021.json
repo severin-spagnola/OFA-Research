@@ -1,0 +1,44 @@
+{
+  "profile": "otc_highvol",
+  "n_workers": 4,
+  "candidates_per_worker": 5000,
+  "total_candidates": 20000,
+  "total_viable": 2,
+  "total_val_pass": 0,
+  "total_time_min": 29.2,
+  "top_20": [],
+  "worker_results": [
+    {
+      "seed": 22000,
+      "n_candidates": 5000,
+      "n_viable": 1,
+      "n_val_pass": 0,
+      "train_eval_sec": 172.5,
+      "val_eval_sec": 0.2
+    },
+    {
+      "seed": 22001,
+      "n_candidates": 5000,
+      "n_viable": 0,
+      "n_val_pass": null,
+      "train_eval_sec": null,
+      "val_eval_sec": null
+    },
+    {
+      "seed": 22002,
+      "n_candidates": 5000,
+      "n_viable": 0,
+      "n_val_pass": null,
+      "train_eval_sec": null,
+      "val_eval_sec": null
+    },
+    {
+      "seed": 22003,
+      "n_candidates": 5000,
+      "n_viable": 1,
+      "n_val_pass": 0,
+      "train_eval_sec": 176.2,
+      "val_eval_sec": 0.2
+    }
+  ]
+}

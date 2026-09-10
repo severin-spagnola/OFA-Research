@@ -1,0 +1,54 @@
+{
+  "delayTime": 1852529,
+  "executionTime": 417557,
+  "id": "63bb3354-88af-4bdd-8af4-4157a15ec60f-u2",
+  "output": {
+    "diagnostic": {
+      "avg_trades": 0.5,
+      "best_fitness": 0.0399,
+      "max_trades": 141,
+      "n_negative_fitness": 223,
+      "n_positive_fitness": 1,
+      "n_with_trades": 224,
+      "n_zero_trades": 4776,
+      "preload_errors": 0,
+      "preload_files": 6291,
+      "preload_first_error": null,
+      "preload_sec": 7,
+      "train_eval_sec": 407.9,
+      "worst_fitness": -1
+    },
+    "n_candidates": 5000,
+    "n_killed_stress": 0,
+    "n_killed_train_gate": 0,
+    "n_val_pass": 0,
+    "n_viable": 1,
+    "preload_sec": 7,
+    "profile": "nasdaq_highvol",
+    "seed": 13001,
+    "status": "ok",
+    "timings": {
+      "data_download_sec": 0,
+      "total_sec": 417.4
+    },
+    "top_results": [],
+    "train_date_range": [
+      "2025-03-18",
+      "2025-11-26"
+    ],
+    "train_eval_sec": 407.9,
+    "train_ticker_days": 449,
+    "val_date_range": [
+      "2025-11-28",
+      "2026-03-10"
+    ],
+    "val_eval_sec": 0.7,
+    "val_ticker_days": 217,
+    "worker": {
+      "cpu_count": 128,
+      "workers_used": 128
+    }
+  },
+  "status": "COMPLETED",
+  "workerId": "2ttc4b7l6v5urt"
+}

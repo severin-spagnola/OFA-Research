@@ -1,0 +1,32 @@
+{
+  "delayTime": 3829,
+  "executionTime": 52748,
+  "id": "bf06bd02-8673-4be7-99ec-93a261bf8ffa-u1",
+  "output": {
+    "diagnostic": {
+      "avg_trades": 0,
+      "max_trades": 0,
+      "n_with_trades": 0,
+      "n_zero_trades": 1000,
+      "preload_files": 0,
+      "preload_sec": 5.6,
+      "train_eval_sec": 43.2
+    },
+    "n_candidates": 1000,
+    "n_viable": 0,
+    "profile": "listed_highvol",
+    "seed": 1000,
+    "status": "ok",
+    "timings": {
+      "data_download_sec": 3.7,
+      "total_sec": 52.6
+    },
+    "top_results": [],
+    "worker": {
+      "cpu_count": 48,
+      "workers_used": 48
+    }
+  },
+  "status": "COMPLETED",
+  "workerId": "wid96qtzst11ia"
+}

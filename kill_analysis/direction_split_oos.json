@@ -1,0 +1,11 @@
+{
+  "short": {
+    "direction": "short",
+    "n_deployments": 13,
+    "wins": 0,
+    "win_rate": 0.0,
+    "total_pnl": -3313.4,
+    "avg_pnl_per_deploy": -254.88,
+    "kills_triggered": 13
+  }
+}

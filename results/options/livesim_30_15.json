@@ -1,0 +1,6149 @@
+{
+  "daily_equity": [
+    {
+      "cum_pnl": 0,
+      "date": "2024-05-20",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 0,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 0,
+      "date": "2024-05-21",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 0,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 0,
+      "date": "2024-05-28",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 0,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 0,
+      "date": "2024-05-29",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 0,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 0,
+      "date": "2024-05-30",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 0,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 0,
+      "date": "2024-05-31",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 0,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 0,
+      "date": "2024-06-03",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 0,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 0,
+      "date": "2024-06-04",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 0,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 0,
+      "date": "2024-06-05",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 0,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 0,
+      "date": "2024-06-06",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 0,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 0,
+      "date": "2024-06-07",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 0,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 0,
+      "date": "2024-06-10",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 0,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 0,
+      "date": "2024-06-11",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 0,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 0,
+      "date": "2024-06-12",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 0,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 0,
+      "date": "2024-06-13",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 0,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 0,
+      "date": "2024-06-14",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 0,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 0,
+      "date": "2024-06-17",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 0,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 0,
+      "date": "2024-06-18",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 0,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 0,
+      "date": "2024-06-20",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 0,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 0,
+      "date": "2024-06-21",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 0,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 0,
+      "date": "2024-06-24",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 1,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": -34.4,
+      "date": "2024-06-25",
+      "day_pnl": -34.4,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": -34.4,
+      "date": "2024-06-26",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": -34.4,
+      "date": "2024-06-27",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": -32.2,
+      "date": "2024-06-28",
+      "day_pnl": 2.2,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 146.25,
+      "date": "2024-07-01",
+      "day_pnl": 178.45,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 1,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 73.95,
+      "date": "2024-07-02",
+      "day_pnl": -72.3,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 43.65,
+      "date": "2024-07-03",
+      "day_pnl": -30.3,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": -61.65,
+      "date": "2024-07-05",
+      "day_pnl": -105.3,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 14.75,
+      "date": "2024-07-08",
+      "day_pnl": 76.4,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": -92.75,
+      "date": "2024-07-09",
+      "day_pnl": -107.5,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 1,
+      "strategies_killed": 0,
+      "trades_taken": 3
+    },
+    {
+      "cum_pnl": 90.65,
+      "date": "2024-07-10",
+      "day_pnl": 183.4,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 3
+    },
+    {
+      "cum_pnl": -12.45,
+      "date": "2024-07-11",
+      "day_pnl": -103.1,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 182,
+      "date": "2024-07-12",
+      "day_pnl": 194.45,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 3
+    },
+    {
+      "cum_pnl": 30.1,
+      "date": "2024-07-15",
+      "day_pnl": -151.9,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 3
+    },
+    {
+      "cum_pnl": 197.3,
+      "date": "2024-07-16",
+      "day_pnl": 167.2,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 3
+    },
+    {
+      "cum_pnl": 82.7,
+      "date": "2024-07-17",
+      "day_pnl": -114.6,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": -0.65,
+      "date": "2024-07-18",
+      "day_pnl": -83.35,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 3
+    },
+    {
+      "cum_pnl": 40,
+      "date": "2024-07-19",
+      "day_pnl": 40.65,
+      "kill_reasons": [
+        "drawdown $513 >= $500 after 8 trades"
+      ],
+      "n_active": 3,
+      "strategies_added": 1,
+      "strategies_killed": 1,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": -119.2,
+      "date": "2024-07-22",
+      "day_pnl": -159.2,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 3
+    },
+    {
+      "cum_pnl": -212.3,
+      "date": "2024-07-23",
+      "day_pnl": -93.1,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": -61.6,
+      "date": "2024-07-24",
+      "day_pnl": 150.7,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": -138,
+      "date": "2024-07-25",
+      "day_pnl": -76.4,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": -279.35,
+      "date": "2024-07-26",
+      "day_pnl": -141.35,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 3
+    },
+    {
+      "cum_pnl": -175.85,
+      "date": "2024-07-29",
+      "day_pnl": 103.5,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 3
+    },
+    {
+      "cum_pnl": 135.15,
+      "date": "2024-07-30",
+      "day_pnl": 311,
+      "kill_reasons": [
+        "flat_regime $107 after 20 trades"
+      ],
+      "n_active": 3,
+      "strategies_added": 1,
+      "strategies_killed": 1,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 104.85,
+      "date": "2024-07-31",
+      "day_pnl": -30.3,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 3
+    },
+    {
+      "cum_pnl": 399.45,
+      "date": "2024-08-01",
+      "day_pnl": 294.6,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 3
+    },
+    {
+      "cum_pnl": 399.45,
+      "date": "2024-08-02",
+      "day_pnl": 0,
+      "kill_reasons": [
+        "drawdown $618 >= $500 after 9 trades"
+      ],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 1,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 458.05,
+      "date": "2024-08-05",
+      "day_pnl": 58.6,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 515.45,
+      "date": "2024-08-06",
+      "day_pnl": 57.4,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 571.75,
+      "date": "2024-08-07",
+      "day_pnl": 56.3,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 275.45,
+      "date": "2024-08-08",
+      "day_pnl": -296.3,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 272.95,
+      "date": "2024-08-09",
+      "day_pnl": -2.5,
+      "kill_reasons": [
+        "drawdown $582 >= $500 after 19 trades"
+      ],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 1,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 329.65,
+      "date": "2024-08-12",
+      "day_pnl": 56.7,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 280.95,
+      "date": "2024-08-13",
+      "day_pnl": -48.7,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 280.95,
+      "date": "2024-08-14",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 287.15,
+      "date": "2024-08-15",
+      "day_pnl": 6.2,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 309.25,
+      "date": "2024-08-16",
+      "day_pnl": 22.1,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 274.75,
+      "date": "2024-08-19",
+      "day_pnl": -34.5,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 251.35,
+      "date": "2024-08-20",
+      "day_pnl": -23.4,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 1,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 298.45,
+      "date": "2024-08-21",
+      "day_pnl": 47.1,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 512.55,
+      "date": "2024-08-22",
+      "day_pnl": 214.1,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 700.65,
+      "date": "2024-08-23",
+      "day_pnl": 188.1,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 854.35,
+      "date": "2024-08-26",
+      "day_pnl": 153.7,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1043.75,
+      "date": "2024-08-27",
+      "day_pnl": 189.4,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1084.55,
+      "date": "2024-09-03",
+      "day_pnl": 40.8,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1099.95,
+      "date": "2024-09-04",
+      "day_pnl": 15.4,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1402.85,
+      "date": "2024-09-05",
+      "day_pnl": 302.9,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1479.05,
+      "date": "2024-09-06",
+      "day_pnl": 76.2,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1395.75,
+      "date": "2024-09-09",
+      "day_pnl": -83.3,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 1,
+      "strategies_killed": 0,
+      "trades_taken": 3
+    },
+    {
+      "cum_pnl": 1452.75,
+      "date": "2024-09-10",
+      "day_pnl": 57,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1392.75,
+      "date": "2024-09-11",
+      "day_pnl": -60,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1452.55,
+      "date": "2024-09-12",
+      "day_pnl": 59.8,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 3
+    },
+    {
+      "cum_pnl": 1292.35,
+      "date": "2024-09-13",
+      "day_pnl": -160.2,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 3
+    },
+    {
+      "cum_pnl": 1299.75,
+      "date": "2024-09-16",
+      "day_pnl": 7.4,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1181.85,
+      "date": "2024-09-17",
+      "day_pnl": -117.9,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 3
+    },
+    {
+      "cum_pnl": 1225.95,
+      "date": "2024-09-18",
+      "day_pnl": 44.1,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1187.25,
+      "date": "2024-09-19",
+      "day_pnl": -38.7,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 3
+    },
+    {
+      "cum_pnl": 1274.35,
+      "date": "2024-09-20",
+      "day_pnl": 87.1,
+      "kill_reasons": [
+        "rolling_wr 35.0% < 40% (last 20)"
+      ],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 1,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1239.75,
+      "date": "2024-09-23",
+      "day_pnl": -34.6,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1194.15,
+      "date": "2024-09-24",
+      "day_pnl": -45.6,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1266.55,
+      "date": "2024-09-25",
+      "day_pnl": 72.4,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1360.35,
+      "date": "2024-09-26",
+      "day_pnl": 93.8,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1476.75,
+      "date": "2024-09-27",
+      "day_pnl": 116.4,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1419.65,
+      "date": "2024-09-30",
+      "day_pnl": -57.1,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1340.05,
+      "date": "2024-10-01",
+      "day_pnl": -79.6,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1346.45,
+      "date": "2024-10-02",
+      "day_pnl": 6.4,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1180.35,
+      "date": "2024-10-03",
+      "day_pnl": -166.1,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1348.75,
+      "date": "2024-10-04",
+      "day_pnl": 168.4,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 1,
+      "strategies_killed": 0,
+      "trades_taken": 3
+    },
+    {
+      "cum_pnl": 1267.55,
+      "date": "2024-10-07",
+      "day_pnl": -81.2,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 3
+    },
+    {
+      "cum_pnl": 1175.95,
+      "date": "2024-10-08",
+      "day_pnl": -91.6,
+      "kill_reasons": [
+        "flat_regime $-67 after 20 trades"
+      ],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 1,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1157.95,
+      "date": "2024-10-09",
+      "day_pnl": -18,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1111.65,
+      "date": "2024-10-10",
+      "day_pnl": -46.3,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1086.25,
+      "date": "2024-10-11",
+      "day_pnl": -25.4,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1066.25,
+      "date": "2024-10-14",
+      "day_pnl": -20,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1280.65,
+      "date": "2024-10-15",
+      "day_pnl": 214.4,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1247.45,
+      "date": "2024-10-16",
+      "day_pnl": -33.2,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1151.45,
+      "date": "2024-10-17",
+      "day_pnl": -96,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1061.35,
+      "date": "2024-10-18",
+      "day_pnl": -90.1,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1061.35,
+      "date": "2024-10-21",
+      "day_pnl": 0,
+      "kill_reasons": [
+        "rolling_wr 35.0% < 40% (last 20)",
+        "early_wr 20.0% < 35% after 10 trades"
+      ],
+      "n_active": 0,
+      "strategies_added": 0,
+      "strategies_killed": 2,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 1061.35,
+      "date": "2024-10-22",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 0,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 1061.35,
+      "date": "2024-10-23",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 0,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 1061.35,
+      "date": "2024-10-24",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 0,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 1061.35,
+      "date": "2024-10-25",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 1,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 1079.05,
+      "date": "2024-10-28",
+      "day_pnl": 17.7,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1049.75,
+      "date": "2024-10-29",
+      "day_pnl": -29.3,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1049.75,
+      "date": "2024-10-30",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 1148.45,
+      "date": "2024-10-31",
+      "day_pnl": 98.7,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1109.45,
+      "date": "2024-11-01",
+      "day_pnl": -39,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 1,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1253.15,
+      "date": "2024-11-04",
+      "day_pnl": 143.7,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1273.85,
+      "date": "2024-11-05",
+      "day_pnl": 20.7,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1182.25,
+      "date": "2024-11-06",
+      "day_pnl": -91.6,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1202.95,
+      "date": "2024-11-07",
+      "day_pnl": 20.7,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1202.65,
+      "date": "2024-11-08",
+      "day_pnl": -0.3,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 1,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1077.75,
+      "date": "2024-11-11",
+      "day_pnl": -124.9,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 3
+    },
+    {
+      "cum_pnl": 1117.15,
+      "date": "2024-11-12",
+      "day_pnl": 39.4,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 880.1,
+      "date": "2024-11-13",
+      "day_pnl": -237.05,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 3
+    },
+    {
+      "cum_pnl": 723.2,
+      "date": "2024-11-14",
+      "day_pnl": -156.9,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 3
+    },
+    {
+      "cum_pnl": 1207.3,
+      "date": "2024-11-15",
+      "day_pnl": 484.1,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 3
+    },
+    {
+      "cum_pnl": 1234.7,
+      "date": "2024-11-18",
+      "day_pnl": 27.4,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1196.1,
+      "date": "2024-11-19",
+      "day_pnl": -38.6,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1391.2,
+      "date": "2024-11-20",
+      "day_pnl": 195.1,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 3
+    },
+    {
+      "cum_pnl": 812.3,
+      "date": "2024-11-21",
+      "day_pnl": -578.9,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 3
+    },
+    {
+      "cum_pnl": 768,
+      "date": "2024-11-22",
+      "day_pnl": -44.3,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 851.35,
+      "date": "2024-11-25",
+      "day_pnl": 83.35,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 3
+    },
+    {
+      "cum_pnl": 662.75,
+      "date": "2024-11-26",
+      "day_pnl": -188.6,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 716.85,
+      "date": "2024-11-27",
+      "day_pnl": 54.1,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 3
+    },
+    {
+      "cum_pnl": 713.55,
+      "date": "2024-11-29",
+      "day_pnl": -3.3,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 710.25,
+      "date": "2024-12-02",
+      "day_pnl": -3.3,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 726.95,
+      "date": "2024-12-03",
+      "day_pnl": 16.7,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 717.35,
+      "date": "2024-12-04",
+      "day_pnl": -9.6,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 717.35,
+      "date": "2024-12-05",
+      "day_pnl": 0,
+      "kill_reasons": [
+        "rolling_wr 35.0% < 40% (last 20)"
+      ],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 1,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 682.05,
+      "date": "2024-12-06",
+      "day_pnl": -35.3,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 791.45,
+      "date": "2024-12-09",
+      "day_pnl": 109.4,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 798.15,
+      "date": "2024-12-10",
+      "day_pnl": 6.7,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 798.15,
+      "date": "2024-12-11",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 777.8,
+      "date": "2024-12-12",
+      "day_pnl": -20.35,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 956.05,
+      "date": "2024-12-13",
+      "day_pnl": 178.25,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 847.75,
+      "date": "2024-12-16",
+      "day_pnl": -108.3,
+      "kill_reasons": [
+        "flat_regime $60 after 20 trades"
+      ],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 1,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 758.45,
+      "date": "2024-12-17",
+      "day_pnl": -89.3,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 758.45,
+      "date": "2024-12-18",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 764.85,
+      "date": "2024-12-19",
+      "day_pnl": 6.4,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 1,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 764.85,
+      "date": "2024-12-20",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 626.25,
+      "date": "2024-12-23",
+      "day_pnl": -138.6,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 626.25,
+      "date": "2024-12-24",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 626.25,
+      "date": "2024-12-26",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 664.65,
+      "date": "2024-12-27",
+      "day_pnl": 38.4,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 306.05,
+      "date": "2024-12-30",
+      "day_pnl": -358.6,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 434.45,
+      "date": "2024-12-31",
+      "day_pnl": 128.4,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 508.85,
+      "date": "2025-01-02",
+      "day_pnl": 74.4,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 508.85,
+      "date": "2025-01-03",
+      "day_pnl": 0,
+      "kill_reasons": [
+        "flat_regime $37 after 20 trades"
+      ],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 1,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 495.55,
+      "date": "2025-01-06",
+      "day_pnl": -13.3,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 1,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 759.95,
+      "date": "2025-01-07",
+      "day_pnl": 264.4,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 626.85,
+      "date": "2025-01-08",
+      "day_pnl": -133.1,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 844.55,
+      "date": "2025-01-10",
+      "day_pnl": 217.7,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 839.85,
+      "date": "2025-01-13",
+      "day_pnl": -4.7,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 976.15,
+      "date": "2025-01-14",
+      "day_pnl": 136.3,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1028.55,
+      "date": "2025-01-21",
+      "day_pnl": 52.4,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1017.25,
+      "date": "2025-01-22",
+      "day_pnl": -11.3,
+      "kill_reasons": [
+        "early_wr 30.0% < 35% after 10 trades"
+      ],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 1,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1038.95,
+      "date": "2025-01-23",
+      "day_pnl": 21.7,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1084.65,
+      "date": "2025-01-24",
+      "day_pnl": 45.7,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 996.95,
+      "date": "2025-01-27",
+      "day_pnl": -87.7,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 1,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1073.45,
+      "date": "2025-01-28",
+      "day_pnl": 76.5,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1144.15,
+      "date": "2025-01-29",
+      "day_pnl": 70.7,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1359.55,
+      "date": "2025-01-30",
+      "day_pnl": 215.4,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1346.85,
+      "date": "2025-01-31",
+      "day_pnl": -12.7,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1587.95,
+      "date": "2025-02-03",
+      "day_pnl": 241.1,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 1,
+      "strategies_killed": 0,
+      "trades_taken": 3
+    },
+    {
+      "cum_pnl": 1465.05,
+      "date": "2025-02-04",
+      "day_pnl": -122.9,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 3
+    },
+    {
+      "cum_pnl": 1720.15,
+      "date": "2025-02-05",
+      "day_pnl": 255.1,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 3
+    },
+    {
+      "cum_pnl": 1713.55,
+      "date": "2025-02-06",
+      "day_pnl": -6.6,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1812.05,
+      "date": "2025-02-07",
+      "day_pnl": 98.5,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1553.15,
+      "date": "2025-02-10",
+      "day_pnl": -258.9,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 3
+    },
+    {
+      "cum_pnl": 1521.25,
+      "date": "2025-02-11",
+      "day_pnl": -31.9,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 3
+    },
+    {
+      "cum_pnl": 1502.25,
+      "date": "2025-02-18",
+      "day_pnl": -19,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1672.35,
+      "date": "2025-02-19",
+      "day_pnl": 170.1,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 3
+    },
+    {
+      "cum_pnl": 1913.05,
+      "date": "2025-02-20",
+      "day_pnl": 240.7,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1953.95,
+      "date": "2025-02-21",
+      "day_pnl": 40.9,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 2157.05,
+      "date": "2025-02-24",
+      "day_pnl": 203.1,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 2172.55,
+      "date": "2025-02-25",
+      "day_pnl": 15.5,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 2013.55,
+      "date": "2025-02-26",
+      "day_pnl": -159,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 3
+    },
+    {
+      "cum_pnl": 2301.55,
+      "date": "2025-02-27",
+      "day_pnl": 288,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 2012.55,
+      "date": "2025-02-28",
+      "day_pnl": -289,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 3
+    },
+    {
+      "cum_pnl": 2101.65,
+      "date": "2025-03-03",
+      "day_pnl": 89.1,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 2879.75,
+      "date": "2025-03-04",
+      "day_pnl": 778.1,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 3
+    },
+    {
+      "cum_pnl": 3078.65,
+      "date": "2025-03-05",
+      "day_pnl": 198.9,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 3
+    },
+    {
+      "cum_pnl": 2434.35,
+      "date": "2025-03-06",
+      "day_pnl": -644.3,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 3
+    },
+    {
+      "cum_pnl": 2022.35,
+      "date": "2025-03-07",
+      "day_pnl": -412,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 3
+    },
+    {
+      "cum_pnl": 2128.05,
+      "date": "2025-03-10",
+      "day_pnl": 105.7,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1606.05,
+      "date": "2025-03-11",
+      "day_pnl": -522,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 3
+    },
+    {
+      "cum_pnl": 1802.85,
+      "date": "2025-03-12",
+      "day_pnl": 196.8,
+      "kill_reasons": [
+        "drawdown $728 >= $500 after 17 trades",
+        "drawdown $628 >= $500 after 13 trades"
+      ],
+      "n_active": 2,
+      "strategies_added": 1,
+      "strategies_killed": 2,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1856.25,
+      "date": "2025-03-13",
+      "day_pnl": 53.4,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1875.05,
+      "date": "2025-03-14",
+      "day_pnl": 18.8,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1886.95,
+      "date": "2025-03-17",
+      "day_pnl": 11.9,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1928.35,
+      "date": "2025-03-18",
+      "day_pnl": 41.4,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1875.25,
+      "date": "2025-03-19",
+      "day_pnl": -53.1,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 1,
+      "strategies_killed": 0,
+      "trades_taken": 3
+    },
+    {
+      "cum_pnl": 1408.35,
+      "date": "2025-03-20",
+      "day_pnl": -466.9,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 3
+    },
+    {
+      "cum_pnl": 1344.35,
+      "date": "2025-03-21",
+      "day_pnl": -64,
+      "kill_reasons": [
+        "drawdown $509 >= $500 after 7 trades"
+      ],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 1,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1270.75,
+      "date": "2025-03-24",
+      "day_pnl": -73.6,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1174.55,
+      "date": "2025-03-25",
+      "day_pnl": -96.2,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1529.35,
+      "date": "2025-03-26",
+      "day_pnl": 354.8,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 1,
+      "strategies_killed": 0,
+      "trades_taken": 3
+    },
+    {
+      "cum_pnl": 1455.35,
+      "date": "2025-03-27",
+      "day_pnl": -74,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 2162.15,
+      "date": "2025-03-28",
+      "day_pnl": 706.8,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 3
+    },
+    {
+      "cum_pnl": 1978.95,
+      "date": "2025-03-31",
+      "day_pnl": -183.2,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 2208.35,
+      "date": "2025-04-01",
+      "day_pnl": 229.4,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 2072.25,
+      "date": "2025-04-02",
+      "day_pnl": -136.1,
+      "kill_reasons": [
+        "early_wr 30.0% < 35% after 10 trades"
+      ],
+      "n_active": 3,
+      "strategies_added": 1,
+      "strategies_killed": 1,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1976.25,
+      "date": "2025-04-03",
+      "day_pnl": -96,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 3
+    },
+    {
+      "cum_pnl": 2146.65,
+      "date": "2025-04-04",
+      "day_pnl": 170.4,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 3
+    },
+    {
+      "cum_pnl": 1552.05,
+      "date": "2025-04-07",
+      "day_pnl": -594.6,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1406.15,
+      "date": "2025-04-08",
+      "day_pnl": -145.9,
+      "kill_reasons": [
+        "drawdown $1256 >= $500 after 4 trades"
+      ],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 1,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1271.35,
+      "date": "2025-04-09",
+      "day_pnl": -134.8,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1356.65,
+      "date": "2025-04-10",
+      "day_pnl": 85.3,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1317.35,
+      "date": "2025-04-11",
+      "day_pnl": -39.3,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1443.05,
+      "date": "2025-04-16",
+      "day_pnl": 125.7,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1362.15,
+      "date": "2025-04-17",
+      "day_pnl": -80.9,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1615.65,
+      "date": "2025-04-21",
+      "day_pnl": 253.5,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1562.35,
+      "date": "2025-04-22",
+      "day_pnl": -53.3,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1522.05,
+      "date": "2025-04-23",
+      "day_pnl": -40.3,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1466.05,
+      "date": "2025-04-24",
+      "day_pnl": -56,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1444.95,
+      "date": "2025-04-25",
+      "day_pnl": -21.1,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1512.95,
+      "date": "2025-04-28",
+      "day_pnl": 68,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1555.65,
+      "date": "2025-04-29",
+      "day_pnl": 42.7,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1539.55,
+      "date": "2025-04-30",
+      "day_pnl": -16.1,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1473.55,
+      "date": "2025-05-01",
+      "day_pnl": -66,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1471.25,
+      "date": "2025-05-02",
+      "day_pnl": -2.3,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1402.25,
+      "date": "2025-05-05",
+      "day_pnl": -69,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 1,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1423.35,
+      "date": "2025-05-06",
+      "day_pnl": 21.1,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1381.45,
+      "date": "2025-05-07",
+      "day_pnl": -41.9,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1467.55,
+      "date": "2025-05-08",
+      "day_pnl": 86.1,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1502.05,
+      "date": "2025-05-09",
+      "day_pnl": 34.5,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 3
+    },
+    {
+      "cum_pnl": 1568.05,
+      "date": "2025-05-12",
+      "day_pnl": 66,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1549.45,
+      "date": "2025-05-13",
+      "day_pnl": -18.6,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1532.65,
+      "date": "2025-05-14",
+      "day_pnl": -16.8,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1528.75,
+      "date": "2025-05-15",
+      "day_pnl": -3.9,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1455.85,
+      "date": "2025-05-16",
+      "day_pnl": -72.9,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1431.35,
+      "date": "2025-05-19",
+      "day_pnl": -24.5,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1370.85,
+      "date": "2025-05-20",
+      "day_pnl": -60.5,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1354.15,
+      "date": "2025-05-27",
+      "day_pnl": -16.7,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1382.75,
+      "date": "2025-05-28",
+      "day_pnl": 28.6,
+      "kill_reasons": [
+        "rolling_wr 35.0% < 40% (last 20)"
+      ],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 1,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1321.15,
+      "date": "2025-05-29",
+      "day_pnl": -61.6,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1286.55,
+      "date": "2025-05-30",
+      "day_pnl": -34.6,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1286.55,
+      "date": "2025-06-02",
+      "day_pnl": 0,
+      "kill_reasons": [
+        "flat_regime $-36 after 20 trades"
+      ],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 1,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 1292.05,
+      "date": "2025-06-03",
+      "day_pnl": 5.5,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1285.95,
+      "date": "2025-06-04",
+      "day_pnl": -6.1,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 1,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1285.95,
+      "date": "2025-06-05",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 1277.75,
+      "date": "2025-06-06",
+      "day_pnl": -8.2,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1277.75,
+      "date": "2025-06-09",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 1272.85,
+      "date": "2025-06-10",
+      "day_pnl": -4.9,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1272.85,
+      "date": "2025-06-11",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 1261.35,
+      "date": "2025-06-12",
+      "day_pnl": -11.5,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1261.35,
+      "date": "2025-06-13",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 1237.45,
+      "date": "2025-06-16",
+      "day_pnl": -23.9,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1171.25,
+      "date": "2025-06-17",
+      "day_pnl": -66.2,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1129.05,
+      "date": "2025-06-18",
+      "day_pnl": -42.2,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1129.05,
+      "date": "2025-06-20",
+      "day_pnl": 0,
+      "kill_reasons": [
+        "consecutive_loss_days 7 >= 7"
+      ],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 1,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 1133.65,
+      "date": "2025-06-23",
+      "day_pnl": 4.6,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1133.65,
+      "date": "2025-06-24",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 1117.05,
+      "date": "2025-06-25",
+      "day_pnl": -16.6,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1119.85,
+      "date": "2025-06-26",
+      "day_pnl": 2.8,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1122.05,
+      "date": "2025-06-27",
+      "day_pnl": 2.2,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1119.45,
+      "date": "2025-07-02",
+      "day_pnl": -2.6,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1119.45,
+      "date": "2025-07-03",
+      "day_pnl": 0,
+      "kill_reasons": [
+        "flat_regime $-6 after 20 trades"
+      ],
+      "n_active": 0,
+      "strategies_added": 0,
+      "strategies_killed": 1,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 1119.45,
+      "date": "2025-07-07",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 0,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 1021.15,
+      "date": "2025-07-08",
+      "day_pnl": -98.3,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 1,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 986.85,
+      "date": "2025-07-09",
+      "day_pnl": -34.3,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1058.45,
+      "date": "2025-07-10",
+      "day_pnl": 71.6,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1117.75,
+      "date": "2025-07-11",
+      "day_pnl": 59.3,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1174.45,
+      "date": "2025-07-14",
+      "day_pnl": 56.7,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 953.85,
+      "date": "2025-07-15",
+      "day_pnl": -220.6,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 1,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 934.05,
+      "date": "2025-07-16",
+      "day_pnl": -19.8,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1114.75,
+      "date": "2025-07-17",
+      "day_pnl": 180.7,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 999.65,
+      "date": "2025-07-18",
+      "day_pnl": -115.1,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1032.05,
+      "date": "2025-07-21",
+      "day_pnl": 32.4,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1137.95,
+      "date": "2025-07-22",
+      "day_pnl": 105.9,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 1,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1459.75,
+      "date": "2025-07-23",
+      "day_pnl": 321.8,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 3
+    },
+    {
+      "cum_pnl": 1393.65,
+      "date": "2025-07-24",
+      "day_pnl": -66.1,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 3
+    },
+    {
+      "cum_pnl": 1459.55,
+      "date": "2025-07-25",
+      "day_pnl": 65.9,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1268.55,
+      "date": "2025-07-28",
+      "day_pnl": -191,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 3
+    },
+    {
+      "cum_pnl": 1147.25,
+      "date": "2025-07-29",
+      "day_pnl": -121.3,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 951.35,
+      "date": "2025-07-30",
+      "day_pnl": -195.9,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 3
+    },
+    {
+      "cum_pnl": 596.65,
+      "date": "2025-07-31",
+      "day_pnl": -354.7,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 401,
+      "date": "2025-08-01",
+      "day_pnl": -195.65,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 3
+    },
+    {
+      "cum_pnl": 558.4,
+      "date": "2025-08-04",
+      "day_pnl": 157.4,
+      "kill_reasons": [
+        "drawdown $564 >= $500 after 17 trades"
+      ],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 1,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 255.9,
+      "date": "2025-08-05",
+      "day_pnl": -302.5,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 237.85,
+      "date": "2025-08-06",
+      "day_pnl": -18.05,
+      "kill_reasons": [
+        "drawdown $558 >= $500 after 16 trades"
+      ],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 1,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 237.85,
+      "date": "2025-08-07",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 289.45,
+      "date": "2025-08-08",
+      "day_pnl": 51.6,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 274.15,
+      "date": "2025-08-11",
+      "day_pnl": -15.3,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 447.85,
+      "date": "2025-08-12",
+      "day_pnl": 173.7,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 383.45,
+      "date": "2025-08-13",
+      "day_pnl": -64.4,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 423.35,
+      "date": "2025-08-14",
+      "day_pnl": 39.9,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 423.35,
+      "date": "2025-08-15",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 333.65,
+      "date": "2025-08-18",
+      "day_pnl": -89.7,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 277.65,
+      "date": "2025-08-19",
+      "day_pnl": -56,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 277.65,
+      "date": "2025-08-20",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 347.65,
+      "date": "2025-08-21",
+      "day_pnl": 70,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 623.95,
+      "date": "2025-08-22",
+      "day_pnl": 276.3,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 599.65,
+      "date": "2025-08-25",
+      "day_pnl": -24.3,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 1,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 630.05,
+      "date": "2025-08-26",
+      "day_pnl": 30.4,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 681.7,
+      "date": "2025-09-02",
+      "day_pnl": 51.65,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 649.15,
+      "date": "2025-09-03",
+      "day_pnl": -32.55,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 774.85,
+      "date": "2025-09-04",
+      "day_pnl": 125.7,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 774.85,
+      "date": "2025-09-05",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 588.95,
+      "date": "2025-09-08",
+      "day_pnl": -185.9,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 592.35,
+      "date": "2025-09-09",
+      "day_pnl": 3.4,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 471.75,
+      "date": "2025-09-10",
+      "day_pnl": -120.6,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 520.45,
+      "date": "2025-09-11",
+      "day_pnl": 48.7,
+      "kill_reasons": [
+        "flat_regime $194 after 23 trades"
+      ],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 1,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 468.15,
+      "date": "2025-09-12",
+      "day_pnl": -52.3,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 1,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 472.85,
+      "date": "2025-09-15",
+      "day_pnl": 4.7,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 486.05,
+      "date": "2025-09-16",
+      "day_pnl": 13.2,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 593.75,
+      "date": "2025-09-17",
+      "day_pnl": 107.7,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 315.15,
+      "date": "2025-09-18",
+      "day_pnl": -278.6,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 432.55,
+      "date": "2025-09-19",
+      "day_pnl": 117.4,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 480.25,
+      "date": "2025-09-22",
+      "day_pnl": 47.7,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 526.65,
+      "date": "2025-09-23",
+      "day_pnl": 46.4,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 529.45,
+      "date": "2025-09-24",
+      "day_pnl": 2.8,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 332.75,
+      "date": "2025-09-25",
+      "day_pnl": -196.7,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 615.15,
+      "date": "2025-09-26",
+      "day_pnl": 282.4,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 605.05,
+      "date": "2025-09-29",
+      "day_pnl": -10.1,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 514.95,
+      "date": "2025-09-30",
+      "day_pnl": -90.1,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 705.75,
+      "date": "2025-10-01",
+      "day_pnl": 190.8,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 826.35,
+      "date": "2025-10-02",
+      "day_pnl": 120.6,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 638.45,
+      "date": "2025-10-03",
+      "day_pnl": -187.9,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 1,
+      "strategies_killed": 0,
+      "trades_taken": 3
+    },
+    {
+      "cum_pnl": 420.9,
+      "date": "2025-10-06",
+      "day_pnl": -217.55,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 3
+    },
+    {
+      "cum_pnl": 960.8,
+      "date": "2025-10-07",
+      "day_pnl": 539.9,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 889.9,
+      "date": "2025-10-08",
+      "day_pnl": -70.9,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 3
+    },
+    {
+      "cum_pnl": 1017.3,
+      "date": "2025-10-09",
+      "day_pnl": 127.4,
+      "kill_reasons": [
+        "flat_regime $24 after 20 trades"
+      ],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 1,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 943.2,
+      "date": "2025-10-10",
+      "day_pnl": -74.1,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 1,
+      "strategies_killed": 0,
+      "trades_taken": 3
+    },
+    {
+      "cum_pnl": 896.6,
+      "date": "2025-10-13",
+      "day_pnl": -46.6,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 808.25,
+      "date": "2025-10-14",
+      "day_pnl": -88.35,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 897.35,
+      "date": "2025-10-15",
+      "day_pnl": 89.1,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 968,
+      "date": "2025-10-16",
+      "day_pnl": 70.65,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 976.2,
+      "date": "2025-10-17",
+      "day_pnl": 8.2,
+      "kill_reasons": [
+        "early_wr 30.0% < 35% after 10 trades"
+      ],
+      "n_active": 3,
+      "strategies_added": 1,
+      "strategies_killed": 1,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1042.5,
+      "date": "2025-10-20",
+      "day_pnl": 66.3,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 974.5,
+      "date": "2025-10-21",
+      "day_pnl": -68,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 974.5,
+      "date": "2025-10-22",
+      "day_pnl": 0,
+      "kill_reasons": [
+        "rolling_wr 35.0% < 40% (last 20)"
+      ],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 1,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 957.5,
+      "date": "2025-10-23",
+      "day_pnl": -17,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 910.2,
+      "date": "2025-10-24",
+      "day_pnl": -47.3,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 953.9,
+      "date": "2025-10-27",
+      "day_pnl": 43.7,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 898,
+      "date": "2025-10-28",
+      "day_pnl": -55.9,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 850.7,
+      "date": "2025-10-29",
+      "day_pnl": -47.3,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 868.5,
+      "date": "2025-10-30",
+      "day_pnl": 17.8,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 953.4,
+      "date": "2025-10-31",
+      "day_pnl": 84.9,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 1,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 953.4,
+      "date": "2025-11-03",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 938.6,
+      "date": "2025-11-04",
+      "day_pnl": -14.8,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1364,
+      "date": "2025-11-05",
+      "day_pnl": 425.4,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1311.4,
+      "date": "2025-11-06",
+      "day_pnl": -52.6,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1513.3,
+      "date": "2025-11-07",
+      "day_pnl": 201.9,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1658.8,
+      "date": "2025-11-10",
+      "day_pnl": 145.5,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1835.8,
+      "date": "2025-11-11",
+      "day_pnl": 177,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1835.8,
+      "date": "2025-11-12",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 1718.1,
+      "date": "2025-11-13",
+      "day_pnl": -117.7,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 3
+    },
+    {
+      "cum_pnl": 2287.5,
+      "date": "2025-11-14",
+      "day_pnl": 569.4,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 2067.9,
+      "date": "2025-11-17",
+      "day_pnl": -219.6,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1794.3,
+      "date": "2025-11-18",
+      "day_pnl": -273.6,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1989.7,
+      "date": "2025-11-19",
+      "day_pnl": 195.4,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 2038.7,
+      "date": "2025-11-20",
+      "day_pnl": 49,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 2143.1,
+      "date": "2025-11-21",
+      "day_pnl": 104.4,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 2166.5,
+      "date": "2025-11-24",
+      "day_pnl": 23.4,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 2164.4,
+      "date": "2025-11-25",
+      "day_pnl": -2.1,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 3
+    },
+    {
+      "cum_pnl": 1941.5,
+      "date": "2025-11-26",
+      "day_pnl": -222.9,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 3
+    },
+    {
+      "cum_pnl": 1852.8,
+      "date": "2025-11-28",
+      "day_pnl": -88.7,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 3
+    },
+    {
+      "cum_pnl": 1868.2,
+      "date": "2025-12-01",
+      "day_pnl": 15.4,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1753.7,
+      "date": "2025-12-02",
+      "day_pnl": -114.5,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 3
+    },
+    {
+      "cum_pnl": 1789.8,
+      "date": "2025-12-03",
+      "day_pnl": 36.1,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 3
+    },
+    {
+      "cum_pnl": 1677.9,
+      "date": "2025-12-04",
+      "day_pnl": -111.9,
+      "kill_reasons": [
+        "early_wr 20.0% < 35% after 10 trades"
+      ],
+      "n_active": 3,
+      "strategies_added": 1,
+      "strategies_killed": 1,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1710.8,
+      "date": "2025-12-05",
+      "day_pnl": 32.9,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1696.4,
+      "date": "2025-12-08",
+      "day_pnl": -14.4,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1678.8,
+      "date": "2025-12-09",
+      "day_pnl": -17.6,
+      "kill_reasons": [
+        "flat_regime $191 after 21 trades"
+      ],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 1,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1678.8,
+      "date": "2025-12-10",
+      "day_pnl": 0,
+      "kill_reasons": [
+        "rolling_wr 35.0% < 40% (last 20)"
+      ],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 1,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 1678.8,
+      "date": "2025-12-11",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 1562.9,
+      "date": "2025-12-12",
+      "day_pnl": -115.9,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1470.6,
+      "date": "2025-12-15",
+      "day_pnl": -92.3,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1362.9,
+      "date": "2025-12-16",
+      "day_pnl": -107.7,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1651.6,
+      "date": "2025-12-17",
+      "day_pnl": 288.7,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1881.3,
+      "date": "2025-12-18",
+      "day_pnl": 229.7,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1881.3,
+      "date": "2025-12-19",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 1836.2,
+      "date": "2025-12-22",
+      "day_pnl": -45.1,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1836.2,
+      "date": "2025-12-23",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 1836.2,
+      "date": "2025-12-24",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 1794.9,
+      "date": "2025-12-26",
+      "day_pnl": -41.3,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1794.9,
+      "date": "2025-12-29",
+      "day_pnl": 0,
+      "kill_reasons": [
+        "early_wr 30.0% < 35% after 10 trades"
+      ],
+      "n_active": 0,
+      "strategies_added": 0,
+      "strategies_killed": 1,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 1794.9,
+      "date": "2025-12-30",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 0,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 1794.9,
+      "date": "2025-12-31",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 0,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 1794.9,
+      "date": "2026-01-02",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 0,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 1801.6,
+      "date": "2026-01-05",
+      "day_pnl": 6.7,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 1,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1883.3,
+      "date": "2026-01-06",
+      "day_pnl": 81.7,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1870,
+      "date": "2026-01-07",
+      "day_pnl": -13.3,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1808.7,
+      "date": "2026-01-08",
+      "day_pnl": -61.3,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1829.4,
+      "date": "2026-01-09",
+      "day_pnl": 20.7,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1777.1,
+      "date": "2026-01-12",
+      "day_pnl": -52.3,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1695.8,
+      "date": "2026-01-13",
+      "day_pnl": -81.3,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1683.5,
+      "date": "2026-01-20",
+      "day_pnl": -12.3,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1689.2,
+      "date": "2026-01-21",
+      "day_pnl": 5.7,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1621.9,
+      "date": "2026-01-22",
+      "day_pnl": -67.3,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1566.6,
+      "date": "2026-01-23",
+      "day_pnl": -55.3,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1549.3,
+      "date": "2026-01-26",
+      "day_pnl": -17.3,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1549.3,
+      "date": "2026-01-27",
+      "day_pnl": 0,
+      "kill_reasons": [
+        "early_wr 33.3% < 35% after 12 trades"
+      ],
+      "n_active": 0,
+      "strategies_added": 0,
+      "strategies_killed": 1,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 1549.3,
+      "date": "2026-01-28",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 0,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 1549.3,
+      "date": "2026-01-29",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 0,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 1549.3,
+      "date": "2026-01-30",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 0,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 1549.3,
+      "date": "2026-02-02",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 0,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 1549.3,
+      "date": "2026-02-03",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 0,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 1549.3,
+      "date": "2026-02-04",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 0,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 1549.3,
+      "date": "2026-02-05",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 0,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 1549.3,
+      "date": "2026-02-06",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 0,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 1549.3,
+      "date": "2026-02-09",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 0,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 1549.3,
+      "date": "2026-02-10",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 0,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 1549.3,
+      "date": "2026-02-17",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 0,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 1549.3,
+      "date": "2026-02-18",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 0,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 1557.6,
+      "date": "2026-02-19",
+      "day_pnl": 8.3,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 1,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1491.7,
+      "date": "2026-02-20",
+      "day_pnl": -65.9,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1491.7,
+      "date": "2026-02-23",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 1548.4,
+      "date": "2026-02-24",
+      "day_pnl": 56.7,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1664.1,
+      "date": "2026-02-25",
+      "day_pnl": 115.7,
+      "kill_reasons": [],
+      "n_active": 1,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 2027.7,
+      "date": "2026-02-26",
+      "day_pnl": 363.6,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 1,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1988.8,
+      "date": "2026-02-27",
+      "day_pnl": -38.9,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1911.6,
+      "date": "2026-03-02",
+      "day_pnl": -77.2,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1849.3,
+      "date": "2026-03-03",
+      "day_pnl": -62.3,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 1419.7,
+      "date": "2026-03-04",
+      "day_pnl": -429.6,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1178.4,
+      "date": "2026-03-05",
+      "day_pnl": -241.3,
+      "kill_reasons": [
+        "drawdown $565 >= $500 after 5 trades"
+      ],
+      "n_active": 2,
+      "strategies_added": 1,
+      "strategies_killed": 1,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 1178.4,
+      "date": "2026-03-06",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 1178.4,
+      "date": "2026-03-09",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 1178.4,
+      "date": "2026-03-10",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": 954.3,
+      "date": "2026-03-11",
+      "day_pnl": -224.1,
+      "kill_reasons": [],
+      "n_active": 2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "trades_taken": 2
+    },
+    {
+      "cum_pnl": 931.5,
+      "date": "2026-03-12",
+      "day_pnl": -22.8,
+      "kill_reasons": [],
+      "n_active": 3,
+      "strategies_added": 1,
+      "strategies_killed": 0,
+      "trades_taken": 1
+    }
+  ],
+  "regimes": [
+    {
+      "death_reason": "drawdown $513 >= $500 after 8 trades",
+      "forward_avg_pnl": -45.49,
+      "forward_days": 10,
+      "forward_end": "2024-07-19",
+      "forward_max_dd": 512.8,
+      "forward_pnl": -363.9,
+      "forward_start": "2024-07-09",
+      "forward_trades": 8,
+      "forward_wr": 0.375,
+      "genes": {
+        "archetype": "breakout",
+        "direction": "long",
+        "entry_conditions": [
+          {
+            "lookback_bars": 15,
+            "type": "price_broke_high"
+          },
+          {
+            "type": "candle_bullish"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 390,
+          "sl_pct": 1,
+          "tp_pct": 0.5,
+          "tsl_pct": null
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "12:00",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm3"
+        }
+      },
+      "genes_desc": "LONG naked_itm3 | price_broke_high | candle_bullish | TP50% SL100% 390m",
+      "regime_id": 7,
+      "train_end": "",
+      "train_fitness": 3.3838,
+      "train_n_trades": 0,
+      "train_pf": 0,
+      "train_pnl": 1475,
+      "train_sharpe": 0,
+      "train_start": "",
+      "train_wr": 0.6
+    },
+    {
+      "death_reason": "flat_regime $107 after 20 trades",
+      "forward_avg_pnl": 5.33,
+      "forward_days": 29,
+      "forward_end": "2024-07-30",
+      "forward_max_dd": 263.6,
+      "forward_pnl": 106.5,
+      "forward_start": "2024-07-01",
+      "forward_trades": 20,
+      "forward_wr": 0.45,
+      "genes": {
+        "archetype": "breakout",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "lookback_bars": 15,
+            "type": "price_broke_low"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 60,
+          "sl_pct": 0.5,
+          "tp_pct": 0.5,
+          "tsl_pct": null
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "15:30",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm3"
+        }
+      },
+      "genes_desc": "SHORT naked_itm3 | price_broke_low | TP50% SL50% 60m",
+      "regime_id": 6,
+      "train_end": "",
+      "train_fitness": 3.3974,
+      "train_n_trades": 0,
+      "train_pf": 0,
+      "train_pnl": 902,
+      "train_sharpe": 0,
+      "train_start": "",
+      "train_wr": 0.6333
+    },
+    {
+      "death_reason": "drawdown $618 >= $500 after 9 trades",
+      "forward_avg_pnl": -68.71,
+      "forward_days": 14,
+      "forward_end": "2024-08-02",
+      "forward_max_dd": 618.35,
+      "forward_pnl": -618.35,
+      "forward_start": "2024-07-19",
+      "forward_trades": 9,
+      "forward_wr": 0.2222,
+      "genes": {
+        "archetype": "open_drive",
+        "direction": "long",
+        "entry_conditions": [
+          {
+            "type": "price_above_open"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 390,
+          "sl_pct": 1,
+          "tp_pct": 1,
+          "tsl_pct": 0.15
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "11:00",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm1"
+        }
+      },
+      "genes_desc": "LONG naked_itm1 | price_above_open | TSL15% SL100% 390m",
+      "regime_id": 8,
+      "train_end": "",
+      "train_fitness": 2.9854,
+      "train_n_trades": 0,
+      "train_pf": 0,
+      "train_pnl": 976.3,
+      "train_sharpe": 0,
+      "train_start": "",
+      "train_wr": 0.5
+    },
+    {
+      "death_reason": "drawdown $582 >= $500 after 19 trades",
+      "forward_avg_pnl": 35.85,
+      "forward_days": 46,
+      "forward_end": "2024-08-09",
+      "forward_max_dd": 581.5,
+      "forward_pnl": 681.2,
+      "forward_start": "2024-06-24",
+      "forward_trades": 19,
+      "forward_wr": 0.4737,
+      "genes": {
+        "archetype": "time_filter",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "type": "bar_index_lte",
+            "value": 120
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 240,
+          "sl_pct": 0.7,
+          "tp_pct": 1,
+          "tsl_pct": 0.15
+        },
+        "filter_condition": null,
+        "regime_filters": [
+          {
+            "min_pct": 0.1,
+            "type": "gap_opposes"
+          }
+        ],
+        "time_window": {
+          "end": "14:00",
+          "start": "10:00"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm3"
+        }
+      },
+      "genes_desc": "SHORT naked_itm3 | bar_index_lte | {gap_opposes} | TSL15% SL70% 240m",
+      "regime_id": 5,
+      "train_end": "",
+      "train_fitness": 2.5951,
+      "train_n_trades": 0,
+      "train_pf": 0,
+      "train_pnl": 532,
+      "train_sharpe": 0,
+      "train_start": "",
+      "train_wr": 0.5333
+    },
+    {
+      "death_reason": "rolling_wr 35.0% < 40% (last 20)",
+      "forward_avg_pnl": 13.7,
+      "forward_days": 52,
+      "forward_end": "2024-09-20",
+      "forward_max_dd": 352,
+      "forward_pnl": 315.2,
+      "forward_start": "2024-07-30",
+      "forward_trades": 23,
+      "forward_wr": 0.3913,
+      "genes": {
+        "archetype": "vol_skew",
+        "direction": "long",
+        "entry_conditions": [
+          {
+            "threshold": 0.9,
+            "type": "skew_flat"
+          },
+          {
+            "lookback_bars": 5,
+            "type": "price_broke_high"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 60,
+          "sl_pct": 0.5,
+          "tp_pct": 0.5,
+          "tsl_pct": 0.1
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "11:00",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm2"
+        }
+      },
+      "genes_desc": "LONG naked_itm2 | skew_flat | price_broke_high | TSL10% SL50% 60m",
+      "regime_id": 9,
+      "train_end": "",
+      "train_fitness": 3.6049,
+      "train_n_trades": 0,
+      "train_pf": 0,
+      "train_pnl": 543.5,
+      "train_sharpe": 0,
+      "train_start": "",
+      "train_wr": 0.6522
+    },
+    {
+      "death_reason": "flat_regime $-67 after 20 trades",
+      "forward_avg_pnl": -3.34,
+      "forward_days": 29,
+      "forward_end": "2024-10-08",
+      "forward_max_dd": 209.2,
+      "forward_pnl": -66.9,
+      "forward_start": "2024-09-09",
+      "forward_trades": 20,
+      "forward_wr": 0.55,
+      "genes": {
+        "archetype": "candle_signal",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "type": "candle_bearish"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 30,
+          "sl_pct": 0.7,
+          "tp_pct": 0.5,
+          "tsl_pct": 0.1
+        },
+        "filter_condition": {
+          "lookback": 20,
+          "multiplier": 3,
+          "type": "volume_spike"
+        },
+        "regime_filters": [],
+        "time_window": {
+          "end": "15:00",
+          "start": "11:00"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm2"
+        }
+      },
+      "genes_desc": "SHORT naked_itm2 | candle_bearish | [volume_spike] | TSL10% SL70% 30m",
+      "regime_id": 14,
+      "train_end": "",
+      "train_fitness": 4.1139,
+      "train_n_trades": 0,
+      "train_pf": 0,
+      "train_pnl": 932.8,
+      "train_sharpe": 0,
+      "train_start": "",
+      "train_wr": 0.7143
+    },
+    {
+      "death_reason": "rolling_wr 35.0% < 40% (last 20)",
+      "forward_avg_pnl": 26.48,
+      "forward_days": 62,
+      "forward_end": "2024-10-21",
+      "forward_max_dd": 222.9,
+      "forward_pnl": 1059.2,
+      "forward_start": "2024-08-20",
+      "forward_trades": 40,
+      "forward_wr": 0.575,
+      "genes": {
+        "archetype": "breakout",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "lookback_bars": 15,
+            "type": "price_broke_low"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 90,
+          "sl_pct": 0.7,
+          "tp_pct": 0.8,
+          "tsl_pct": 0.1
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "14:00",
+          "start": "10:30"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm3"
+        }
+      },
+      "genes_desc": "SHORT naked_itm3 | price_broke_low | TSL10% SL70% 90m",
+      "regime_id": 12,
+      "train_end": "",
+      "train_fitness": 3.441,
+      "train_n_trades": 0,
+      "train_pf": 0,
+      "train_pnl": 655.6,
+      "train_sharpe": 0,
+      "train_start": "",
+      "train_wr": 0.5667
+    },
+    {
+      "death_reason": "early_wr 20.0% < 35% after 10 trades",
+      "forward_avg_pnl": -5.16,
+      "forward_days": 17,
+      "forward_end": "2024-10-21",
+      "forward_max_dd": 182.4,
+      "forward_pnl": -51.6,
+      "forward_start": "2024-10-04",
+      "forward_trades": 10,
+      "forward_wr": 0.2,
+      "genes": {
+        "archetype": "breakout",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "lookback_bars": 30,
+            "type": "price_broke_low"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 120,
+          "sl_pct": 0.5,
+          "tp_pct": 0.5,
+          "tsl_pct": 0.1
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "12:00",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm3"
+        }
+      },
+      "genes_desc": "SHORT naked_itm3 | price_broke_low | TSL10% SL50% 120m",
+      "regime_id": 17,
+      "train_end": "",
+      "train_fitness": 3.9497,
+      "train_n_trades": 0,
+      "train_pf": 0,
+      "train_pnl": 2751.5,
+      "train_sharpe": 0,
+      "train_start": "",
+      "train_wr": 0.6429
+    },
+    {
+      "death_reason": "rolling_wr 35.0% < 40% (last 20)",
+      "forward_avg_pnl": -12.63,
+      "forward_days": 34,
+      "forward_end": "2024-12-05",
+      "forward_max_dd": 424.5,
+      "forward_pnl": -290.6,
+      "forward_start": "2024-11-01",
+      "forward_trades": 23,
+      "forward_wr": 0.3913,
+      "genes": {
+        "archetype": "breakout",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "lookback_bars": 30,
+            "type": "price_broke_low"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 30,
+          "sl_pct": 0.8,
+          "tp_pct": 0.5,
+          "tsl_pct": 0.3
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "14:00",
+          "start": "10:00"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm3"
+        }
+      },
+      "genes_desc": "SHORT naked_itm3 | price_broke_low | TSL30% SL80% 30m",
+      "regime_id": 21,
+      "train_end": "",
+      "train_fitness": 4.662,
+      "train_n_trades": 0,
+      "train_pf": 0,
+      "train_pnl": 1377,
+      "train_sharpe": 0,
+      "train_start": "",
+      "train_wr": 0.7
+    },
+    {
+      "death_reason": "flat_regime $60 after 20 trades",
+      "forward_avg_pnl": 2.99,
+      "forward_days": 52,
+      "forward_end": "2024-12-16",
+      "forward_max_dd": 263.65,
+      "forward_pnl": 59.9,
+      "forward_start": "2024-10-25",
+      "forward_trades": 20,
+      "forward_wr": 0.5,
+      "genes": {
+        "archetype": "opening_trend",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "minutes": 30,
+            "type": "first_n_minutes_down"
+          },
+          {
+            "lookback_bars": 15,
+            "type": "price_broke_low"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 30,
+          "sl_pct": 0.7,
+          "tp_pct": 0.8,
+          "tsl_pct": 0.15
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "14:30",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm3"
+        }
+      },
+      "genes_desc": "SHORT naked_itm3 | first_n_minutes_down | price_broke_low | TSL15% SL70% 30m",
+      "regime_id": 20,
+      "train_end": "",
+      "train_fitness": 4.2818,
+      "train_n_trades": 0,
+      "train_pf": 0,
+      "train_pnl": 1060.35,
+      "train_sharpe": 0,
+      "train_start": "",
+      "train_wr": 0.7647
+    },
+    {
+      "death_reason": "flat_regime $37 after 20 trades",
+      "forward_avg_pnl": 1.85,
+      "forward_days": 56,
+      "forward_end": "2025-01-03",
+      "forward_max_dd": 326.3,
+      "forward_pnl": 37,
+      "forward_start": "2024-11-08",
+      "forward_trades": 20,
+      "forward_wr": 0.5,
+      "genes": {
+        "archetype": "vol_skew",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "threshold": 1.5,
+            "type": "skew_elevated"
+          },
+          {
+            "type": "bar_index_gte",
+            "value": 15
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 60,
+          "sl_pct": 0.7,
+          "tp_pct": 1,
+          "tsl_pct": null
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "14:00",
+          "start": "10:00"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm3"
+        }
+      },
+      "genes_desc": "SHORT naked_itm3 | skew_elevated | bar_index_gte | TP100% SL70% 60m",
+      "regime_id": 22,
+      "train_end": "",
+      "train_fitness": 3.5018,
+      "train_n_trades": 0,
+      "train_pf": 0,
+      "train_pnl": 708.9,
+      "train_sharpe": 0,
+      "train_start": "",
+      "train_wr": 0.6471
+    },
+    {
+      "death_reason": "early_wr 30.0% < 35% after 10 trades",
+      "forward_avg_pnl": -37.3,
+      "forward_days": 34,
+      "forward_end": "2025-01-22",
+      "forward_max_dd": 450.4,
+      "forward_pnl": -373,
+      "forward_start": "2024-12-19",
+      "forward_trades": 10,
+      "forward_wr": 0.3,
+      "genes": {
+        "archetype": "open_drive",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "type": "price_below_open"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 30,
+          "sl_pct": 0.7,
+          "tp_pct": 0.3,
+          "tsl_pct": null
+        },
+        "filter_condition": null,
+        "regime_filters": [
+          {
+            "multiplier": 1.5,
+            "type": "open_vol_high"
+          }
+        ],
+        "time_window": {
+          "end": "14:00",
+          "start": "10:30"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm2"
+        }
+      },
+      "genes_desc": "SHORT naked_itm2 | price_below_open | {open_vol_high} | TP30% SL70% 30m",
+      "regime_id": 25,
+      "train_end": "",
+      "train_fitness": 3.338,
+      "train_n_trades": 0,
+      "train_pf": 0,
+      "train_pnl": 570.8,
+      "train_sharpe": 0,
+      "train_start": "",
+      "train_wr": 0.7
+    },
+    {
+      "death_reason": "drawdown $728 >= $500 after 17 trades",
+      "forward_avg_pnl": -24.15,
+      "forward_days": 44,
+      "forward_end": "2025-03-12",
+      "forward_max_dd": 728.3,
+      "forward_pnl": -410.5,
+      "forward_start": "2025-01-27",
+      "forward_trades": 17,
+      "forward_wr": 0.4706,
+      "genes": {
+        "archetype": "open_drive",
+        "direction": "long",
+        "entry_conditions": [
+          {
+            "type": "price_above_open"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 120,
+          "sl_pct": 0.3,
+          "tp_pct": 0.5,
+          "tsl_pct": null
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "14:00",
+          "start": "10:30"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm3"
+        }
+      },
+      "genes_desc": "LONG naked_itm3 | price_above_open | TP50% SL30% 120m",
+      "regime_id": 29,
+      "train_end": "",
+      "train_fitness": 4.7458,
+      "train_n_trades": 0,
+      "train_pf": 0,
+      "train_pnl": 1473.4,
+      "train_sharpe": 0,
+      "train_start": "",
+      "train_wr": 0.8182
+    },
+    {
+      "death_reason": "drawdown $628 >= $500 after 13 trades",
+      "forward_avg_pnl": -29.96,
+      "forward_days": 37,
+      "forward_end": "2025-03-12",
+      "forward_max_dd": 627.5,
+      "forward_pnl": -389.5,
+      "forward_start": "2025-02-03",
+      "forward_trades": 13,
+      "forward_wr": 0.3846,
+      "genes": {
+        "archetype": "open_drive",
+        "direction": "long",
+        "entry_conditions": [
+          {
+            "type": "price_above_open"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 120,
+          "sl_pct": 0.8,
+          "tp_pct": 0.8,
+          "tsl_pct": 0.3
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "14:00",
+          "start": "10:30"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm3"
+        }
+      },
+      "genes_desc": "LONG naked_itm3 | price_above_open | TSL30% SL80% 120m",
+      "regime_id": 30,
+      "train_end": "",
+      "train_fitness": 4.3187,
+      "train_n_trades": 0,
+      "train_pf": 0,
+      "train_pnl": 1801.7,
+      "train_sharpe": 0,
+      "train_start": "",
+      "train_wr": 0.8095
+    },
+    {
+      "death_reason": "drawdown $509 >= $500 after 7 trades",
+      "forward_avg_pnl": -50.23,
+      "forward_days": 9,
+      "forward_end": "2025-03-21",
+      "forward_max_dd": 509.5,
+      "forward_pnl": -351.6,
+      "forward_start": "2025-03-12",
+      "forward_trades": 7,
+      "forward_wr": 0.4286,
+      "genes": {
+        "archetype": "range_context",
+        "direction": "long",
+        "entry_conditions": [
+          {
+            "min_range_pct": 0.8,
+            "type": "range_wide"
+          },
+          {
+            "lookback": 20,
+            "multiplier": 3,
+            "type": "volume_spike"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 390,
+          "sl_pct": 0.8,
+          "tp_pct": 0.8,
+          "tsl_pct": 0.1
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "14:00",
+          "start": "10:30"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm3"
+        }
+      },
+      "genes_desc": "LONG naked_itm3 | range_wide | volume_spike | TSL10% SL80% 390m",
+      "regime_id": 31,
+      "train_end": "",
+      "train_fitness": 4.7146,
+      "train_n_trades": 0,
+      "train_pf": 0,
+      "train_pnl": 992.6,
+      "train_sharpe": 0,
+      "train_start": "",
+      "train_wr": 0.8824
+    },
+    {
+      "death_reason": "early_wr 30.0% < 35% after 10 trades",
+      "forward_avg_pnl": 44.43,
+      "forward_days": 14,
+      "forward_end": "2025-04-02",
+      "forward_max_dd": 163.6,
+      "forward_pnl": 444.3,
+      "forward_start": "2025-03-19",
+      "forward_trades": 10,
+      "forward_wr": 0.3,
+      "genes": {
+        "archetype": "breakout",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "lookback_bars": 5,
+            "type": "price_broke_low"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 120,
+          "sl_pct": 0.5,
+          "tp_pct": 1,
+          "tsl_pct": 0.1
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "15:30",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm3"
+        }
+      },
+      "genes_desc": "SHORT naked_itm3 | price_broke_low | TSL10% SL50% 120m",
+      "regime_id": 32,
+      "train_end": "",
+      "train_fitness": 4.2098,
+      "train_n_trades": 0,
+      "train_pf": 0,
+      "train_pnl": 1563.4,
+      "train_sharpe": 0,
+      "train_start": "",
+      "train_wr": 0.5667
+    },
+    {
+      "death_reason": "drawdown $1256 >= $500 after 4 trades",
+      "forward_avg_pnl": -314.12,
+      "forward_days": 6,
+      "forward_end": "2025-04-08",
+      "forward_max_dd": 1256.5,
+      "forward_pnl": -1256.5,
+      "forward_start": "2025-04-02",
+      "forward_trades": 4,
+      "forward_wr": 0,
+      "genes": {
+        "archetype": "candle_signal",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "type": "candle_bearish"
+          },
+          {
+            "type": "bar_index_gte",
+            "value": 15
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 390,
+          "sl_pct": 0.8,
+          "tp_pct": 0.6,
+          "tsl_pct": 0.1
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "15:30",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm1"
+        }
+      },
+      "genes_desc": "SHORT naked_itm1 | candle_bearish | bar_index_gte | TSL10% SL80% 390m",
+      "regime_id": 34,
+      "train_end": "",
+      "train_fitness": 4.5667,
+      "train_n_trades": 0,
+      "train_pf": 0,
+      "train_pnl": 1715.4,
+      "train_sharpe": 0,
+      "train_start": "",
+      "train_wr": 0.5667
+    },
+    {
+      "death_reason": "rolling_wr 35.0% < 40% (last 20)",
+      "forward_avg_pnl": 32.33,
+      "forward_days": 142,
+      "forward_end": "2025-05-28",
+      "forward_max_dd": 309.3,
+      "forward_pnl": 2780.5,
+      "forward_start": "2025-01-06",
+      "forward_trades": 86,
+      "forward_wr": 0.5,
+      "genes": {
+        "archetype": "breakout",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "lookback_bars": 5,
+            "type": "price_broke_low"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 30,
+          "sl_pct": 0.3,
+          "tp_pct": 0.8,
+          "tsl_pct": 0.1
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "12:00",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm3"
+        }
+      },
+      "genes_desc": "SHORT naked_itm3 | price_broke_low | TSL10% SL30% 30m",
+      "regime_id": 27,
+      "train_end": "",
+      "train_fitness": 3.8179,
+      "train_n_trades": 0,
+      "train_pf": 0,
+      "train_pnl": 783.3,
+      "train_sharpe": 0,
+      "train_start": "",
+      "train_wr": 0.6
+    },
+    {
+      "death_reason": "flat_regime $-36 after 20 trades",
+      "forward_avg_pnl": -1.79,
+      "forward_days": 68,
+      "forward_end": "2025-06-02",
+      "forward_max_dd": 213.2,
+      "forward_pnl": -35.8,
+      "forward_start": "2025-03-26",
+      "forward_trades": 20,
+      "forward_wr": 0.55,
+      "genes": {
+        "archetype": "vol_skew",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "threshold": 1.5,
+            "type": "skew_elevated"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 390,
+          "sl_pct": 1,
+          "tp_pct": 0.6,
+          "tsl_pct": null
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "14:00",
+          "start": "10:30"
+        },
+        "trade_type": {
+          "kind": "debit_spread",
+          "width": 1
+        }
+      },
+      "genes_desc": "SHORT $1debit | skew_elevated | TP60% SL100% 390m",
+      "regime_id": 33,
+      "train_end": "",
+      "train_fitness": 4.6842,
+      "train_n_trades": 0,
+      "train_pf": 0,
+      "train_pnl": 210.8,
+      "train_sharpe": 0,
+      "train_start": "",
+      "train_wr": 0.8
+    },
+    {
+      "death_reason": "consecutive_loss_days 7 >= 7",
+      "forward_avg_pnl": -21.46,
+      "forward_days": 16,
+      "forward_end": "2025-06-20",
+      "forward_max_dd": 150.2,
+      "forward_pnl": -150.2,
+      "forward_start": "2025-06-04",
+      "forward_trades": 7,
+      "forward_wr": 0,
+      "genes": {
+        "archetype": "opening_trend",
+        "direction": "long",
+        "entry_conditions": [
+          {
+            "minutes": 30,
+            "type": "first_n_minutes_up"
+          },
+          {
+            "lookback": 20,
+            "multiplier": 3,
+            "type": "volume_spike"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 240,
+          "sl_pct": 1,
+          "tp_pct": 0.3,
+          "tsl_pct": null
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "14:30",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "credit_spread",
+          "width": 3
+        }
+      },
+      "genes_desc": "LONG $3credit | first_n_minutes_up | volume_spike | TP30% SL100% 240m",
+      "regime_id": 40,
+      "train_end": "",
+      "train_fitness": 11.7846,
+      "train_n_trades": 0,
+      "train_pf": 0,
+      "train_pnl": 391.8,
+      "train_sharpe": 0,
+      "train_start": "",
+      "train_wr": 0.9333
+    },
+    {
+      "death_reason": "flat_regime $-6 after 20 trades",
+      "forward_avg_pnl": -0.29,
+      "forward_days": 59,
+      "forward_end": "2025-07-03",
+      "forward_max_dd": 31.2,
+      "forward_pnl": -5.9,
+      "forward_start": "2025-05-05",
+      "forward_trades": 20,
+      "forward_wr": 0.75,
+      "genes": {
+        "archetype": "opening_trend",
+        "direction": "long",
+        "entry_conditions": [
+          {
+            "minutes": 30,
+            "type": "first_n_minutes_up"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 390,
+          "sl_pct": 0.8,
+          "tp_pct": 0.3,
+          "tsl_pct": null
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "14:00",
+          "start": "10:30"
+        },
+        "trade_type": {
+          "kind": "debit_spread",
+          "width": 1
+        }
+      },
+      "genes_desc": "LONG $1debit | first_n_minutes_up | TP30% SL80% 390m",
+      "regime_id": 38,
+      "train_end": "",
+      "train_fitness": 4.6262,
+      "train_n_trades": 0,
+      "train_pf": 0,
+      "train_pnl": 77.8,
+      "train_sharpe": 0,
+      "train_start": "",
+      "train_wr": 0.8125
+    },
+    {
+      "death_reason": "drawdown $564 >= $500 after 17 trades",
+      "forward_avg_pnl": -22.63,
+      "forward_days": 27,
+      "forward_end": "2025-08-04",
+      "forward_max_dd": 564.3,
+      "forward_pnl": -384.7,
+      "forward_start": "2025-07-08",
+      "forward_trades": 17,
+      "forward_wr": 0.4706,
+      "genes": {
+        "archetype": "breakout",
+        "direction": "long",
+        "entry_conditions": [
+          {
+            "lookback_bars": 15,
+            "type": "price_broke_high"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 390,
+          "sl_pct": 0.7,
+          "tp_pct": 0.3,
+          "tsl_pct": null
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "11:00",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "atm"
+        }
+      },
+      "genes_desc": "LONG naked_atm | price_broke_high | TP30% SL70% 390m",
+      "regime_id": 44,
+      "train_end": "",
+      "train_fitness": 4.8611,
+      "train_n_trades": 0,
+      "train_pf": 0,
+      "train_pnl": 1946.3,
+      "train_sharpe": 0,
+      "train_start": "",
+      "train_wr": 0.7143
+    },
+    {
+      "death_reason": "drawdown $558 >= $500 after 16 trades",
+      "forward_avg_pnl": -27.18,
+      "forward_days": 22,
+      "forward_end": "2025-08-06",
+      "forward_max_dd": 558.2,
+      "forward_pnl": -434.9,
+      "forward_start": "2025-07-15",
+      "forward_trades": 16,
+      "forward_wr": 0.4375,
+      "genes": {
+        "archetype": "breakout",
+        "direction": "long",
+        "entry_conditions": [
+          {
+            "lookback_bars": 5,
+            "type": "price_broke_high"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 120,
+          "sl_pct": 0.5,
+          "tp_pct": 1,
+          "tsl_pct": 0.3
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "11:00",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm3"
+        }
+      },
+      "genes_desc": "LONG naked_itm3 | price_broke_high | TSL30% SL50% 120m",
+      "regime_id": 45,
+      "train_end": "",
+      "train_fitness": 4.5179,
+      "train_n_trades": 0,
+      "train_pf": 0,
+      "train_pnl": 2084.5,
+      "train_sharpe": 0,
+      "train_start": "",
+      "train_wr": 0.6667
+    },
+    {
+      "death_reason": "flat_regime $194 after 23 trades",
+      "forward_avg_pnl": 8.43,
+      "forward_days": 51,
+      "forward_end": "2025-09-11",
+      "forward_max_dd": 175.75,
+      "forward_pnl": 194,
+      "forward_start": "2025-07-22",
+      "forward_trades": 23,
+      "forward_wr": 0.4348,
+      "genes": {
+        "archetype": "breakout",
+        "direction": "long",
+        "entry_conditions": [
+          {
+            "lookback_bars": 30,
+            "type": "price_broke_high"
+          },
+          {
+            "type": "bar_index_lte",
+            "value": 120
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 180,
+          "sl_pct": 0.3,
+          "tp_pct": 0.3,
+          "tsl_pct": 0.15
+        },
+        "filter_condition": {
+          "type": "bar_index_lte",
+          "value": 60
+        },
+        "regime_filters": [],
+        "time_window": {
+          "end": "15:30",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm3"
+        }
+      },
+      "genes_desc": "LONG naked_itm3 | price_broke_high | bar_index_lte | [bar_index_lte] | TSL15% SL30% 180m",
+      "regime_id": 46,
+      "train_end": "",
+      "train_fitness": 5.5292,
+      "train_n_trades": 0,
+      "train_pf": 0,
+      "train_pnl": 1826.45,
+      "train_sharpe": 0,
+      "train_start": "",
+      "train_wr": 0.7
+    },
+    {
+      "death_reason": "flat_regime $24 after 20 trades",
+      "forward_avg_pnl": 1.2,
+      "forward_days": 45,
+      "forward_end": "2025-10-09",
+      "forward_max_dd": 306.6,
+      "forward_pnl": 24,
+      "forward_start": "2025-08-25",
+      "forward_trades": 20,
+      "forward_wr": 0.55,
+      "genes": {
+        "archetype": "vol_skew",
+        "direction": "long",
+        "entry_conditions": [
+          {
+            "threshold": 0.9,
+            "type": "skew_flat"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 180,
+          "sl_pct": 1,
+          "tp_pct": 0.6,
+          "tsl_pct": 0.5
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "15:00",
+          "start": "11:00"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm1"
+        }
+      },
+      "genes_desc": "LONG naked_itm1 | skew_flat | TSL50% SL100% 180m",
+      "regime_id": 50,
+      "train_end": "",
+      "train_fitness": 4.3711,
+      "train_n_trades": 0,
+      "train_pf": 0,
+      "train_pnl": 743,
+      "train_sharpe": 0,
+      "train_start": "",
+      "train_wr": 0.65
+    },
+    {
+      "death_reason": "early_wr 30.0% < 35% after 10 trades",
+      "forward_avg_pnl": 9.68,
+      "forward_days": 14,
+      "forward_end": "2025-10-17",
+      "forward_max_dd": 285.85,
+      "forward_pnl": 96.85,
+      "forward_start": "2025-10-03",
+      "forward_trades": 10,
+      "forward_wr": 0.3,
+      "genes": {
+        "archetype": "volume",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "lookback": 20,
+            "multiplier": 2,
+            "type": "volume_spike"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 240,
+          "sl_pct": 0.3,
+          "tp_pct": 0.8,
+          "tsl_pct": 0.15
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "14:30",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm3"
+        }
+      },
+      "genes_desc": "SHORT naked_itm3 | volume_spike | TSL15% SL30% 240m",
+      "regime_id": 55,
+      "train_end": "",
+      "train_fitness": 3.6471,
+      "train_n_trades": 0,
+      "train_pf": 0,
+      "train_pnl": 2079.65,
+      "train_sharpe": 0,
+      "train_start": "",
+      "train_wr": 0.4828
+    },
+    {
+      "death_reason": "rolling_wr 35.0% < 40% (last 20)",
+      "forward_avg_pnl": 12.67,
+      "forward_days": 40,
+      "forward_end": "2025-10-22",
+      "forward_max_dd": 215,
+      "forward_pnl": 354.8,
+      "forward_start": "2025-09-12",
+      "forward_trades": 28,
+      "forward_wr": 0.4286,
+      "genes": {
+        "archetype": "breakout",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "lookback_bars": 15,
+            "type": "price_broke_low"
+          },
+          {
+            "type": "always"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 240,
+          "sl_pct": 0.7,
+          "tp_pct": 0.6,
+          "tsl_pct": 0.1
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "15:30",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm3"
+        }
+      },
+      "genes_desc": "SHORT naked_itm3 | price_broke_low | always | TSL10% SL70% 240m",
+      "regime_id": 52,
+      "train_end": "",
+      "train_fitness": 4.6638,
+      "train_n_trades": 0,
+      "train_pf": 0,
+      "train_pnl": 1317.9,
+      "train_sharpe": 0,
+      "train_start": "",
+      "train_wr": 0.6667
+    },
+    {
+      "death_reason": "early_wr 20.0% < 35% after 10 trades",
+      "forward_avg_pnl": -14.6,
+      "forward_days": 55,
+      "forward_end": "2025-12-04",
+      "forward_max_dd": 156.1,
+      "forward_pnl": -146,
+      "forward_start": "2025-10-10",
+      "forward_trades": 10,
+      "forward_wr": 0.2,
+      "genes": {
+        "archetype": "breakout",
+        "direction": "long",
+        "entry_conditions": [
+          {
+            "lookback_bars": 30,
+            "type": "price_broke_high"
+          },
+          {
+            "type": "bar_index_lte",
+            "value": 60
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 390,
+          "sl_pct": 0.7,
+          "tp_pct": 0.8,
+          "tsl_pct": 0.1
+        },
+        "filter_condition": null,
+        "regime_filters": [
+          {
+            "max_pct": 0.6,
+            "type": "iv_proxy_low"
+          }
+        ],
+        "time_window": {
+          "end": "12:00",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm3"
+        }
+      },
+      "genes_desc": "LONG naked_itm3 | price_broke_high | bar_index_lte | {iv_proxy_low} | TSL10% SL70% 390m",
+      "regime_id": 56,
+      "train_end": "",
+      "train_fitness": 4.1912,
+      "train_n_trades": 0,
+      "train_pf": 0,
+      "train_pnl": 909.3,
+      "train_sharpe": 0,
+      "train_start": "",
+      "train_wr": 0.6
+    },
+    {
+      "death_reason": "flat_regime $191 after 21 trades",
+      "forward_avg_pnl": 9.08,
+      "forward_days": 39,
+      "forward_end": "2025-12-09",
+      "forward_max_dd": 440,
+      "forward_pnl": 190.7,
+      "forward_start": "2025-10-31",
+      "forward_trades": 21,
+      "forward_wr": 0.4762,
+      "genes": {
+        "archetype": "breakout",
+        "direction": "long",
+        "entry_conditions": [
+          {
+            "lookback_bars": 30,
+            "type": "price_broke_high"
+          },
+          {
+            "lookback": 20,
+            "multiplier": 2,
+            "type": "volume_spike"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 390,
+          "sl_pct": 0.7,
+          "tp_pct": 0.3,
+          "tsl_pct": 0.2
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "15:30",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm3"
+        }
+      },
+      "genes_desc": "LONG naked_itm3 | price_broke_high | volume_spike | TSL20% SL70% 390m",
+      "regime_id": 59,
+      "train_end": "",
+      "train_fitness": 3.6843,
+      "train_n_trades": 0,
+      "train_pf": 0,
+      "train_pnl": 1625.8,
+      "train_sharpe": 0,
+      "train_start": "",
+      "train_wr": 0.5833
+    },
+    {
+      "death_reason": "rolling_wr 35.0% < 40% (last 20)",
+      "forward_avg_pnl": 25.91,
+      "forward_days": 54,
+      "forward_end": "2025-12-10",
+      "forward_max_dd": 200.1,
+      "forward_pnl": 751.3,
+      "forward_start": "2025-10-17",
+      "forward_trades": 29,
+      "forward_wr": 0.4138,
+      "genes": {
+        "archetype": "open_drive",
+        "direction": "long",
+        "entry_conditions": [
+          {
+            "type": "price_above_open"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 180,
+          "sl_pct": 0.5,
+          "tp_pct": 0.3,
+          "tsl_pct": 0.1
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "11:00",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm3"
+        }
+      },
+      "genes_desc": "LONG naked_itm3 | price_above_open | TSL10% SL50% 180m",
+      "regime_id": 57,
+      "train_end": "",
+      "train_fitness": 3.5067,
+      "train_n_trades": 0,
+      "train_pf": 0,
+      "train_pnl": 880,
+      "train_sharpe": 0,
+      "train_start": "",
+      "train_wr": 0.5385
+    },
+    {
+      "death_reason": "early_wr 30.0% < 35% after 10 trades",
+      "forward_avg_pnl": 2.94,
+      "forward_days": 25,
+      "forward_end": "2025-12-29",
+      "forward_max_dd": 402.6,
+      "forward_pnl": 29.4,
+      "forward_start": "2025-12-04",
+      "forward_trades": 10,
+      "forward_wr": 0.3,
+      "genes": {
+        "archetype": "time_filter",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "type": "bar_index_gte",
+            "value": 30
+          },
+          {
+            "threshold": 1.2,
+            "type": "skew_elevated"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 120,
+          "sl_pct": 0.7,
+          "tp_pct": 1,
+          "tsl_pct": 0.2
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "14:00",
+          "start": "10:30"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm2"
+        }
+      },
+      "genes_desc": "SHORT naked_itm2 | bar_index_gte | skew_elevated | TSL20% SL70% 120m",
+      "regime_id": 60,
+      "train_end": "",
+      "train_fitness": 3.9883,
+      "train_n_trades": 0,
+      "train_pf": 0,
+      "train_pnl": 1759.7,
+      "train_sharpe": 0,
+      "train_start": "",
+      "train_wr": 0.6471
+    },
+    {
+      "death_reason": "early_wr 33.3% < 35% after 12 trades",
+      "forward_avg_pnl": -20.47,
+      "forward_days": 22,
+      "forward_end": "2026-01-27",
+      "forward_max_dd": 334,
+      "forward_pnl": -245.6,
+      "forward_start": "2026-01-05",
+      "forward_trades": 12,
+      "forward_wr": 0.3333,
+      "genes": {
+        "archetype": "breakout",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "lookback_bars": 5,
+            "type": "price_broke_low"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 30,
+          "sl_pct": 1,
+          "tp_pct": 0.8,
+          "tsl_pct": 0.2
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "14:00",
+          "start": "10:30"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm2"
+        }
+      },
+      "genes_desc": "SHORT naked_itm2 | price_broke_low | TSL20% SL100% 30m",
+      "regime_id": 64,
+      "train_end": "",
+      "train_fitness": 3.7145,
+      "train_n_trades": 0,
+      "train_pf": 0,
+      "train_pnl": 1395.6,
+      "train_sharpe": 0,
+      "train_start": "",
+      "train_wr": 0.6667
+    },
+    {
+      "death_reason": "drawdown $565 >= $500 after 5 trades",
+      "forward_avg_pnl": -40.28,
+      "forward_days": 7,
+      "forward_end": "2026-03-05",
+      "forward_max_dd": 565,
+      "forward_pnl": -201.4,
+      "forward_start": "2026-02-26",
+      "forward_trades": 5,
+      "forward_wr": 0.2,
+      "genes": {
+        "archetype": "breakout",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "lookback_bars": 30,
+            "type": "price_broke_low"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 180,
+          "sl_pct": 1,
+          "tp_pct": 0.5,
+          "tsl_pct": 0.1
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "15:30",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm3"
+        }
+      },
+      "genes_desc": "SHORT naked_itm3 | price_broke_low | TSL10% SL100% 180m",
+      "regime_id": 70,
+      "train_end": "",
+      "train_fitness": 3.2941,
+      "train_n_trades": 0,
+      "train_pf": 0,
+      "train_pnl": 1500.1,
+      "train_sharpe": 0,
+      "train_start": "",
+      "train_wr": 0.5667
+    },
+    {
+      "death_reason": "alive",
+      "forward_avg_pnl": 11,
+      "forward_days": 21,
+      "forward_end": "2026-03-12",
+      "forward_max_dd": 65.9,
+      "forward_pnl": 88,
+      "forward_start": "2026-02-19",
+      "forward_trades": 8,
+      "forward_wr": 0.5,
+      "genes": {
+        "archetype": "opening_trend",
+        "direction": "long",
+        "entry_conditions": [
+          {
+            "minutes": 30,
+            "type": "first_n_minutes_up"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 390,
+          "sl_pct": 1,
+          "tp_pct": 0.5,
+          "tsl_pct": 0.1
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "14:00",
+          "start": "10:30"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm2"
+        }
+      },
+      "genes_desc": "LONG naked_itm2 | first_n_minutes_up | TSL10% SL100% 390m",
+      "regime_id": 69,
+      "train_end": "",
+      "train_fitness": 3.4103,
+      "train_n_trades": 0,
+      "train_pf": 0,
+      "train_pnl": 542.8,
+      "train_sharpe": 0,
+      "train_start": "",
+      "train_wr": 0.5882
+    },
+    {
+      "death_reason": "alive",
+      "forward_avg_pnl": -240.8,
+      "forward_days": 7,
+      "forward_end": "2026-03-12",
+      "forward_max_dd": 481.6,
+      "forward_pnl": -481.6,
+      "forward_start": "2026-03-05",
+      "forward_trades": 2,
+      "forward_wr": 0,
+      "genes": {
+        "archetype": "opening_trend",
+        "direction": "long",
+        "entry_conditions": [
+          {
+            "minutes": 30,
+            "type": "first_n_minutes_up"
+          },
+          {
+            "lookback_bars": 5,
+            "type": "price_broke_high"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 90,
+          "sl_pct": 0.5,
+          "tp_pct": 1,
+          "tsl_pct": 0.1
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "14:00",
+          "start": "10:00"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm1"
+        }
+      },
+      "genes_desc": "LONG naked_itm1 | first_n_minutes_up | price_broke_high | TSL10% SL50% 90m",
+      "regime_id": 71,
+      "train_end": "",
+      "train_fitness": 3.9537,
+      "train_n_trades": 0,
+      "train_pf": 0,
+      "train_pnl": 545.3,
+      "train_sharpe": 0,
+      "train_start": "",
+      "train_wr": 0.6667
+    },
+    {
+      "death_reason": "alive",
+      "forward_avg_pnl": -22.8,
+      "forward_days": 0,
+      "forward_end": "2026-03-12",
+      "forward_max_dd": 22.8,
+      "forward_pnl": -22.8,
+      "forward_start": "2026-03-12",
+      "forward_trades": 1,
+      "forward_wr": 0,
+      "genes": {
+        "archetype": "breakout",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "lookback_bars": 15,
+            "type": "price_broke_low"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 390,
+          "sl_pct": 0.3,
+          "tp_pct": 0.3,
+          "tsl_pct": 0.1
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "14:30",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm3"
+        }
+      },
+      "genes_desc": "SHORT naked_itm3 | price_broke_low | TSL10% SL30% 390m",
+      "regime_id": 72,
+      "train_end": "",
+      "train_fitness": 3.7443,
+      "train_n_trades": 0,
+      "train_pf": 0,
+      "train_pnl": 1556.1,
+      "train_sharpe": 0,
+      "train_start": "",
+      "train_wr": 0.6
+    }
+  ],
+  "status": "ok",
+  "summary": {
+    "avg_daily_pnl": 2.19,
+    "cum_pnl": 931.5,
+    "max_portfolio_dd": 2840.8,
+    "period_end": "2026-03-12",
+    "period_start": "2024-05-20",
+    "positive_regimes": 16,
+    "strategies_generated": 72,
+    "total_days": 426,
+    "total_regimes": 36,
+    "total_trades": 618,
+    "trading_days": 346
+  },
+  "timings": {
+    "data_download_sec": 2,
+    "total_sec": 3637.3
+  },
+  "worker": {
+    "cpu_count": 128,
+    "workers_used": 128
+  }
+}

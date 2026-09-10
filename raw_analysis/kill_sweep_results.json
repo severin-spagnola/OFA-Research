@@ -1,0 +1,252 @@
+[
+  {
+    "consec_loss_kill": 2,
+    "dd_pct_kill": 0.1,
+    "win_rate_pct": 32.42,
+    "total_pnl": -28239.2,
+    "avg_pnl_per_deploy": -36.77,
+    "kill_triggered_pct": 100.0,
+    "avg_trades_before_kill": 2.7,
+    "n_windows": 768
+  },
+  {
+    "consec_loss_kill": 2,
+    "dd_pct_kill": 0.15,
+    "win_rate_pct": 32.16,
+    "total_pnl": -28924.5,
+    "avg_pnl_per_deploy": -37.66,
+    "kill_triggered_pct": 100.0,
+    "avg_trades_before_kill": 2.8,
+    "n_windows": 768
+  },
+  {
+    "consec_loss_kill": 2,
+    "dd_pct_kill": 0.2,
+    "win_rate_pct": 31.64,
+    "total_pnl": -29838.4,
+    "avg_pnl_per_deploy": -38.85,
+    "kill_triggered_pct": 100.0,
+    "avg_trades_before_kill": 2.8,
+    "n_windows": 768
+  },
+  {
+    "consec_loss_kill": 2,
+    "dd_pct_kill": 0.25,
+    "win_rate_pct": 31.64,
+    "total_pnl": -30332.5,
+    "avg_pnl_per_deploy": -39.5,
+    "kill_triggered_pct": 100.0,
+    "avg_trades_before_kill": 2.9,
+    "n_windows": 768
+  },
+  {
+    "consec_loss_kill": 2,
+    "dd_pct_kill": null,
+    "win_rate_pct": 24.35,
+    "total_pnl": -44541.6,
+    "avg_pnl_per_deploy": -58.0,
+    "kill_triggered_pct": 100.0,
+    "avg_trades_before_kill": 4.0,
+    "n_windows": 768
+  },
+  {
+    "consec_loss_kill": 3,
+    "dd_pct_kill": 0.1,
+    "win_rate_pct": 38.41,
+    "total_pnl": -34354.7,
+    "avg_pnl_per_deploy": -44.73,
+    "kill_triggered_pct": 100.0,
+    "avg_trades_before_kill": 3.9,
+    "n_windows": 768
+  },
+  {
+    "consec_loss_kill": 3,
+    "dd_pct_kill": 0.15,
+    "win_rate_pct": 38.15,
+    "total_pnl": -35195.1,
+    "avg_pnl_per_deploy": -45.83,
+    "kill_triggered_pct": 100.0,
+    "avg_trades_before_kill": 4.0,
+    "n_windows": 768
+  },
+  {
+    "consec_loss_kill": 3,
+    "dd_pct_kill": 0.2,
+    "win_rate_pct": 37.63,
+    "total_pnl": -35259.0,
+    "avg_pnl_per_deploy": -45.91,
+    "kill_triggered_pct": 99.87,
+    "avg_trades_before_kill": 4.1,
+    "n_windows": 768
+  },
+  {
+    "consec_loss_kill": 3,
+    "dd_pct_kill": 0.25,
+    "win_rate_pct": 37.37,
+    "total_pnl": -37215.8,
+    "avg_pnl_per_deploy": -48.46,
+    "kill_triggered_pct": 99.87,
+    "avg_trades_before_kill": 4.2,
+    "n_windows": 768
+  },
+  {
+    "consec_loss_kill": 3,
+    "dd_pct_kill": null,
+    "win_rate_pct": 22.27,
+    "total_pnl": -95909.2,
+    "avg_pnl_per_deploy": -124.88,
+    "kill_triggered_pct": 99.74,
+    "avg_trades_before_kill": 8.1,
+    "n_windows": 768
+  },
+  {
+    "consec_loss_kill": 4,
+    "dd_pct_kill": 0.1,
+    "win_rate_pct": 43.23,
+    "total_pnl": -42448.8,
+    "avg_pnl_per_deploy": -55.27,
+    "kill_triggered_pct": 99.87,
+    "avg_trades_before_kill": 5.5,
+    "n_windows": 768
+  },
+  {
+    "consec_loss_kill": 4,
+    "dd_pct_kill": 0.15,
+    "win_rate_pct": 42.97,
+    "total_pnl": -42806.9,
+    "avg_pnl_per_deploy": -55.74,
+    "kill_triggered_pct": 99.87,
+    "avg_trades_before_kill": 5.6,
+    "n_windows": 768
+  },
+  {
+    "consec_loss_kill": 4,
+    "dd_pct_kill": 0.2,
+    "win_rate_pct": 42.45,
+    "total_pnl": -43577.0,
+    "avg_pnl_per_deploy": -56.74,
+    "kill_triggered_pct": 99.74,
+    "avg_trades_before_kill": 5.7,
+    "n_windows": 768
+  },
+  {
+    "consec_loss_kill": 4,
+    "dd_pct_kill": 0.25,
+    "win_rate_pct": 42.19,
+    "total_pnl": -46606.8,
+    "avg_pnl_per_deploy": -60.69,
+    "kill_triggered_pct": 99.74,
+    "avg_trades_before_kill": 5.9,
+    "n_windows": 768
+  },
+  {
+    "consec_loss_kill": 4,
+    "dd_pct_kill": null,
+    "win_rate_pct": 23.96,
+    "total_pnl": -160670.1,
+    "avg_pnl_per_deploy": -209.21,
+    "kill_triggered_pct": 98.96,
+    "avg_trades_before_kill": 14.6,
+    "n_windows": 768
+  },
+  {
+    "consec_loss_kill": 5,
+    "dd_pct_kill": 0.1,
+    "win_rate_pct": 45.18,
+    "total_pnl": -64409.1,
+    "avg_pnl_per_deploy": -83.87,
+    "kill_triggered_pct": 99.48,
+    "avg_trades_before_kill": 7.3,
+    "n_windows": 768
+  },
+  {
+    "consec_loss_kill": 5,
+    "dd_pct_kill": 0.15,
+    "win_rate_pct": 44.92,
+    "total_pnl": -65225.8,
+    "avg_pnl_per_deploy": -84.93,
+    "kill_triggered_pct": 99.48,
+    "avg_trades_before_kill": 7.4,
+    "n_windows": 768
+  },
+  {
+    "consec_loss_kill": 5,
+    "dd_pct_kill": 0.2,
+    "win_rate_pct": 44.4,
+    "total_pnl": -66204.8,
+    "avg_pnl_per_deploy": -86.2,
+    "kill_triggered_pct": 99.35,
+    "avg_trades_before_kill": 7.6,
+    "n_windows": 768
+  },
+  {
+    "consec_loss_kill": 5,
+    "dd_pct_kill": 0.25,
+    "win_rate_pct": 44.14,
+    "total_pnl": -69560.7,
+    "avg_pnl_per_deploy": -90.57,
+    "kill_triggered_pct": 99.35,
+    "avg_trades_before_kill": 7.7,
+    "n_windows": 768
+  },
+  {
+    "consec_loss_kill": 5,
+    "dd_pct_kill": null,
+    "win_rate_pct": 21.61,
+    "total_pnl": -247340.9,
+    "avg_pnl_per_deploy": -322.06,
+    "kill_triggered_pct": 97.4,
+    "avg_trades_before_kill": 22.5,
+    "n_windows": 768
+  },
+  {
+    "consec_loss_kill": null,
+    "dd_pct_kill": 0.1,
+    "win_rate_pct": 52.73,
+    "total_pnl": -201282.0,
+    "avg_pnl_per_deploy": -262.09,
+    "kill_triggered_pct": 85.42,
+    "avg_trades_before_kill": 10.9,
+    "n_windows": 768
+  },
+  {
+    "consec_loss_kill": null,
+    "dd_pct_kill": 0.15,
+    "win_rate_pct": 52.47,
+    "total_pnl": -202760.2,
+    "avg_pnl_per_deploy": -264.01,
+    "kill_triggered_pct": 85.42,
+    "avg_trades_before_kill": 11.0,
+    "n_windows": 768
+  },
+  {
+    "consec_loss_kill": null,
+    "dd_pct_kill": 0.2,
+    "win_rate_pct": 51.95,
+    "total_pnl": -204555.3,
+    "avg_pnl_per_deploy": -266.35,
+    "kill_triggered_pct": 85.29,
+    "avg_trades_before_kill": 11.2,
+    "n_windows": 768
+  },
+  {
+    "consec_loss_kill": null,
+    "dd_pct_kill": 0.25,
+    "win_rate_pct": 51.69,
+    "total_pnl": -207827.5,
+    "avg_pnl_per_deploy": -270.61,
+    "kill_triggered_pct": 85.29,
+    "avg_trades_before_kill": 11.5,
+    "n_windows": 768
+  },
+  {
+    "consec_loss_kill": null,
+    "dd_pct_kill": null,
+    "win_rate_pct": 13.41,
+    "total_pnl": -1364571.5,
+    "avg_pnl_per_deploy": -1776.79,
+    "kill_triggered_pct": 0.0,
+    "avg_trades_before_kill": null,
+    "n_windows": 768
+  }
+]

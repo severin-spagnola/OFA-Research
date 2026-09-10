@@ -1,0 +1,963 @@
+{
+  "chunk_end": 40,
+  "chunk_start": 20,
+  "n_positive": 19,
+  "n_regimes": 19,
+  "regimes": [
+    {
+      "death_reason": "drawdown $552 >= $500 after 48 trades",
+      "forward_avg_pnl": 71.68,
+      "forward_days": 146,
+      "forward_end": "2025-05-12",
+      "forward_max_dd": 551.8,
+      "forward_pnl": 3440.5,
+      "forward_start": "2024-12-17",
+      "forward_trades": 48,
+      "forward_wr": 0.4792,
+      "genes": {
+        "archetype": "opening_trend",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "minutes": 30,
+            "type": "first_n_minutes_down"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 180,
+          "sl_pct": 0.7,
+          "tp_pct": 0.5,
+          "tsl_pct": 0.3
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "14:30",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "atm"
+        }
+      },
+      "genes_desc": "SHORT naked_atm | first_n_minutes_down | TSL30% SL70% 180m",
+      "regime_id": 22,
+      "train_end": "2024-11-15",
+      "train_fitness": 3.7604,
+      "train_n_trades": 33,
+      "train_pf": 3.2586,
+      "train_pnl": 1684,
+      "train_sharpe": 6.7352,
+      "train_start": "2024-08-20",
+      "train_wr": 0.6667
+    },
+    {
+      "death_reason": "rolling_wr 35.0% < 40% (last 20)",
+      "forward_avg_pnl": 41.9,
+      "forward_days": 275,
+      "forward_end": "2025-09-25",
+      "forward_max_dd": 198.5,
+      "forward_pnl": 3561.8,
+      "forward_start": "2024-12-24",
+      "forward_trades": 85,
+      "forward_wr": 0.6353,
+      "genes": {
+        "archetype": "opening_trend",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "minutes": 30,
+            "type": "first_n_minutes_down"
+          },
+          {
+            "type": "bar_index_gte",
+            "value": 15
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 30,
+          "sl_pct": 1,
+          "tp_pct": 0.8,
+          "tsl_pct": 0.3
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "11:00",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "atm"
+        }
+      },
+      "genes_desc": "SHORT naked_atm | first_n_minutes_down | bar_index_gte | TSL30% SL100% 30m",
+      "regime_id": 23,
+      "train_end": "2024-11-22",
+      "train_fitness": 3.4785,
+      "train_n_trades": 35,
+      "train_pf": 2.7029,
+      "train_pnl": 1137.2,
+      "train_sharpe": 6.2958,
+      "train_start": "2024-08-27",
+      "train_wr": 0.5714
+    },
+    {
+      "death_reason": "time_limit (365d, 112 trades, $5538)",
+      "forward_avg_pnl": 49.45,
+      "forward_days": 365,
+      "forward_end": "2026-01-02",
+      "forward_max_dd": 187.3,
+      "forward_pnl": 5538.05,
+      "forward_start": "2025-01-02",
+      "forward_trades": 112,
+      "forward_wr": 0.6607,
+      "genes": {
+        "archetype": "opening_trend",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "minutes": 30,
+            "type": "first_n_minutes_down"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 30,
+          "sl_pct": 0.8,
+          "tp_pct": 1,
+          "tsl_pct": 0.15
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "15:30",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm2"
+        }
+      },
+      "genes_desc": "SHORT naked_itm2 | first_n_minutes_down | TSL15% SL80% 30m",
+      "regime_id": 24,
+      "train_end": "2024-12-02",
+      "train_fitness": 3.4641,
+      "train_n_trades": 36,
+      "train_pf": 2.5815,
+      "train_pnl": 1053.75,
+      "train_sharpe": 6.3287,
+      "train_start": "2024-09-09",
+      "train_wr": 0.6111
+    },
+    {
+      "death_reason": "time_limit (367d, 112 trades, $5913)",
+      "forward_avg_pnl": 52.79,
+      "forward_days": 367,
+      "forward_end": "2026-01-12",
+      "forward_max_dd": 216.1,
+      "forward_pnl": 5913,
+      "forward_start": "2025-01-10",
+      "forward_trades": 112,
+      "forward_wr": 0.625,
+      "genes": {
+        "archetype": "candle_signal",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "type": "candle_bearish"
+          },
+          {
+            "minutes": 30,
+            "type": "first_n_minutes_down"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 60,
+          "sl_pct": 0.7,
+          "tp_pct": 1,
+          "tsl_pct": 0.1
+        },
+        "filter_condition": {
+          "max_range_pct": 0.5,
+          "type": "range_narrow"
+        },
+        "regime_filters": [],
+        "time_window": {
+          "end": "14:30",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm2"
+        }
+      },
+      "genes_desc": "SHORT naked_itm2 | candle_bearish | first_n_minutes_down | [range_narrow] | TSL10% SL70% 60m",
+      "regime_id": 25,
+      "train_end": "2024-12-09",
+      "train_fitness": 3.3926,
+      "train_n_trades": 35,
+      "train_pf": 2.554,
+      "train_pnl": 723.4,
+      "train_sharpe": 6.2213,
+      "train_start": "2024-09-16",
+      "train_wr": 0.5143
+    },
+    {
+      "death_reason": "time_limit (365d, 83 trades, $3852)",
+      "forward_avg_pnl": 46.41,
+      "forward_days": 365,
+      "forward_end": "2026-01-23",
+      "forward_max_dd": 167,
+      "forward_pnl": 3851.7,
+      "forward_start": "2025-01-23",
+      "forward_trades": 83,
+      "forward_wr": 0.6627,
+      "genes": {
+        "archetype": "opening_trend",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "minutes": 30,
+            "type": "first_n_minutes_down"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 180,
+          "sl_pct": 0.7,
+          "tp_pct": 1,
+          "tsl_pct": 0.1
+        },
+        "filter_condition": null,
+        "regime_filters": [
+          {
+            "max_pct": 0.8,
+            "type": "iv_proxy_low"
+          }
+        ],
+        "time_window": {
+          "end": "12:00",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm1"
+        }
+      },
+      "genes_desc": "SHORT naked_itm1 | first_n_minutes_down | {iv_proxy_low} | TSL10% SL70% 180m",
+      "regime_id": 26,
+      "train_end": "2024-12-16",
+      "train_fitness": 4.2259,
+      "train_n_trades": 31,
+      "train_pf": 3.7331,
+      "train_pnl": 780.3,
+      "train_sharpe": 7.9469,
+      "train_start": "2024-09-23",
+      "train_wr": 0.5806
+    },
+    {
+      "death_reason": "time_limit (365d, 83 trades, $4953)",
+      "forward_avg_pnl": 59.67,
+      "forward_days": 365,
+      "forward_end": "2026-01-30",
+      "forward_max_dd": 310.3,
+      "forward_pnl": 4952.9,
+      "forward_start": "2025-01-30",
+      "forward_trades": 83,
+      "forward_wr": 0.6506,
+      "genes": {
+        "archetype": "opening_trend",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "minutes": 30,
+            "type": "first_n_minutes_down"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 240,
+          "sl_pct": 0.3,
+          "tp_pct": 0.8,
+          "tsl_pct": 0.1
+        },
+        "filter_condition": null,
+        "regime_filters": [
+          {
+            "max_pct": 0.8,
+            "type": "iv_proxy_low"
+          }
+        ],
+        "time_window": {
+          "end": "15:30",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm3"
+        }
+      },
+      "genes_desc": "SHORT naked_itm3 | first_n_minutes_down | {iv_proxy_low} | TSL10% SL30% 240m",
+      "regime_id": 27,
+      "train_end": "2024-12-23",
+      "train_fitness": 4.2137,
+      "train_n_trades": 30,
+      "train_pf": 2.9754,
+      "train_pnl": 947.4,
+      "train_sharpe": 7.9111,
+      "train_start": "2024-09-30",
+      "train_wr": 0.6333
+    },
+    {
+      "death_reason": "time_limit (365d, 111 trades, $7440)",
+      "forward_avg_pnl": 67.03,
+      "forward_days": 365,
+      "forward_end": "2026-02-06",
+      "forward_max_dd": 268.1,
+      "forward_pnl": 7440.3,
+      "forward_start": "2025-02-06",
+      "forward_trades": 111,
+      "forward_wr": 0.5676,
+      "genes": {
+        "archetype": "opening_trend",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "minutes": 30,
+            "type": "first_n_minutes_down"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 180,
+          "sl_pct": 0.5,
+          "tp_pct": 0.6,
+          "tsl_pct": 0.2
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "11:00",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm2"
+        }
+      },
+      "genes_desc": "SHORT naked_itm2 | first_n_minutes_down | TSL20% SL50% 180m",
+      "regime_id": 28,
+      "train_end": "2024-12-31",
+      "train_fitness": 3.5344,
+      "train_n_trades": 32,
+      "train_pf": 2.9658,
+      "train_pnl": 1138.4,
+      "train_sharpe": 6.2347,
+      "train_start": "2024-10-07",
+      "train_wr": 0.5938
+    },
+    {
+      "death_reason": "rolling_wr 35.0% < 40% (last 20)",
+      "forward_avg_pnl": 43.02,
+      "forward_days": 245,
+      "forward_end": "2025-10-22",
+      "forward_max_dd": 382,
+      "forward_pnl": 3355.4,
+      "forward_start": "2025-02-19",
+      "forward_trades": 78,
+      "forward_wr": 0.6667,
+      "genes": {
+        "archetype": "opening_trend",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "minutes": 30,
+            "type": "first_n_minutes_down"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 90,
+          "sl_pct": 0.8,
+          "tp_pct": 1,
+          "tsl_pct": 0.1
+        },
+        "filter_condition": {
+          "lookback": 20,
+          "multiplier": 2,
+          "type": "volume_spike"
+        },
+        "regime_filters": [],
+        "time_window": {
+          "end": "15:30",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "atm"
+        }
+      },
+      "genes_desc": "SHORT naked_atm | first_n_minutes_down | [volume_spike] | TSL10% SL80% 90m",
+      "regime_id": 29,
+      "train_end": "2025-01-08",
+      "train_fitness": 4.7414,
+      "train_n_trades": 33,
+      "train_pf": 7.1144,
+      "train_pnl": 1277.9,
+      "train_sharpe": 9.1877,
+      "train_start": "2024-10-14",
+      "train_wr": 0.6667
+    },
+    {
+      "death_reason": "rolling_wr 35.0% < 40% (last 20)",
+      "forward_avg_pnl": 28.99,
+      "forward_days": 211,
+      "forward_end": "2025-09-25",
+      "forward_max_dd": 198.5,
+      "forward_pnl": 1884.4,
+      "forward_start": "2025-02-26",
+      "forward_trades": 65,
+      "forward_wr": 0.5846,
+      "genes": {
+        "archetype": "opening_trend",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "minutes": 30,
+            "type": "first_n_minutes_down"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 30,
+          "sl_pct": 0.8,
+          "tp_pct": 0.5,
+          "tsl_pct": 0.3
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "11:00",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "atm"
+        }
+      },
+      "genes_desc": "SHORT naked_atm | first_n_minutes_down | TSL30% SL80% 30m",
+      "regime_id": 30,
+      "train_end": "2025-01-22",
+      "train_fitness": 5.1041,
+      "train_n_trades": 32,
+      "train_pf": 7.7061,
+      "train_pnl": 1654.4,
+      "train_sharpe": 10.0708,
+      "train_start": "2024-10-21",
+      "train_wr": 0.7188
+    },
+    {
+      "death_reason": "rolling_wr 35.0% < 40% (last 20)",
+      "forward_avg_pnl": 26.16,
+      "forward_days": 231,
+      "forward_end": "2025-10-22",
+      "forward_max_dd": 365,
+      "forward_pnl": 1831.3,
+      "forward_start": "2025-03-05",
+      "forward_trades": 70,
+      "forward_wr": 0.6286,
+      "genes": {
+        "archetype": "opening_trend",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "minutes": 30,
+            "type": "first_n_minutes_down"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 60,
+          "sl_pct": 1,
+          "tp_pct": 1,
+          "tsl_pct": 0.1
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "11:00",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "atm"
+        }
+      },
+      "genes_desc": "SHORT naked_atm | first_n_minutes_down | TSL10% SL100% 60m",
+      "regime_id": 31,
+      "train_end": "2025-01-29",
+      "train_fitness": 4.6963,
+      "train_n_trades": 32,
+      "train_pf": 8.5122,
+      "train_pnl": 1419.8,
+      "train_sharpe": 9.0827,
+      "train_start": "2024-10-28",
+      "train_wr": 0.6562
+    },
+    {
+      "death_reason": "time_limit (365d, 105 trades, $3195)",
+      "forward_avg_pnl": 30.43,
+      "forward_days": 365,
+      "forward_end": "2026-03-12",
+      "forward_max_dd": 392.2,
+      "forward_pnl": 3194.8,
+      "forward_start": "2025-03-12",
+      "forward_trades": 105,
+      "forward_wr": 0.5905,
+      "genes": {
+        "archetype": "opening_trend",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "minutes": 30,
+            "type": "first_n_minutes_down"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 30,
+          "sl_pct": 0.3,
+          "tp_pct": 0.8,
+          "tsl_pct": null
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "12:00",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm1"
+        }
+      },
+      "genes_desc": "SHORT naked_itm1 | first_n_minutes_down | TP80% SL30% 30m",
+      "regime_id": 32,
+      "train_end": "2025-02-05",
+      "train_fitness": 5.4802,
+      "train_n_trades": 31,
+      "train_pf": 5.8545,
+      "train_pnl": 1794.7,
+      "train_sharpe": 11.0181,
+      "train_start": "2024-11-04",
+      "train_wr": 0.7097
+    },
+    {
+      "death_reason": "alive",
+      "forward_avg_pnl": 38.62,
+      "forward_days": 358,
+      "forward_end": "2026-03-12",
+      "forward_max_dd": 408.8,
+      "forward_pnl": 3977.9,
+      "forward_start": "2025-03-19",
+      "forward_trades": 103,
+      "forward_wr": 0.6311,
+      "genes": {
+        "archetype": "opening_trend",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "minutes": 30,
+            "type": "first_n_minutes_down"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 30,
+          "sl_pct": 0.5,
+          "tp_pct": 0.8,
+          "tsl_pct": 0.2
+        },
+        "filter_condition": {
+          "min_range_pct": 1,
+          "type": "range_wide"
+        },
+        "regime_filters": [],
+        "time_window": {
+          "end": "14:30",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm2"
+        }
+      },
+      "genes_desc": "SHORT naked_itm2 | first_n_minutes_down | [range_wide] | TSL20% SL50% 30m",
+      "regime_id": 33,
+      "train_end": "2025-02-18",
+      "train_fitness": 5.007,
+      "train_n_trades": 34,
+      "train_pf": 6.0913,
+      "train_pnl": 2036,
+      "train_sharpe": 9.8149,
+      "train_start": "2024-11-11",
+      "train_wr": 0.7353
+    },
+    {
+      "death_reason": "rolling_wr 35.0% < 40% (last 20)",
+      "forward_avg_pnl": 30.63,
+      "forward_days": 210,
+      "forward_end": "2025-10-22",
+      "forward_max_dd": 375,
+      "forward_pnl": 1960.3,
+      "forward_start": "2025-03-26",
+      "forward_trades": 64,
+      "forward_wr": 0.6406,
+      "genes": {
+        "archetype": "opening_trend",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "minutes": 30,
+            "type": "first_n_minutes_down"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 390,
+          "sl_pct": 0.5,
+          "tp_pct": 0.6,
+          "tsl_pct": 0.1
+        },
+        "filter_condition": {
+          "max_range_pct": 0.3,
+          "type": "range_narrow"
+        },
+        "regime_filters": [],
+        "time_window": {
+          "end": "12:00",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "atm"
+        }
+      },
+      "genes_desc": "SHORT naked_atm | first_n_minutes_down | [range_narrow] | TSL10% SL50% 390m",
+      "regime_id": 34,
+      "train_end": "2025-02-25",
+      "train_fitness": 5.5593,
+      "train_n_trades": 35,
+      "train_pf": 14.4803,
+      "train_pnl": 2090.8,
+      "train_sharpe": 11.1894,
+      "train_start": "2024-11-18",
+      "train_wr": 0.7429
+    },
+    {
+      "death_reason": "rolling_wr 35.0% < 40% (last 20)",
+      "forward_avg_pnl": 19.8,
+      "forward_days": 176,
+      "forward_end": "2025-09-25",
+      "forward_max_dd": 171.7,
+      "forward_pnl": 1049.3,
+      "forward_start": "2025-04-02",
+      "forward_trades": 53,
+      "forward_wr": 0.5849,
+      "genes": {
+        "archetype": "opening_trend",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "minutes": 30,
+            "type": "first_n_minutes_down"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 30,
+          "sl_pct": 1,
+          "tp_pct": 0.8,
+          "tsl_pct": 0.2
+        },
+        "filter_condition": {
+          "type": "bar_index_lte",
+          "value": 120
+        },
+        "regime_filters": [],
+        "time_window": {
+          "end": "12:00",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "atm"
+        }
+      },
+      "genes_desc": "SHORT naked_atm | first_n_minutes_down | [bar_index_lte] | TSL20% SL100% 30m",
+      "regime_id": 35,
+      "train_end": "2025-03-04",
+      "train_fitness": 5.9515,
+      "train_n_trades": 34,
+      "train_pf": 11.2333,
+      "train_pnl": 2526.6,
+      "train_sharpe": 12.1468,
+      "train_start": "2024-11-25",
+      "train_wr": 0.7941
+    },
+    {
+      "death_reason": "alive",
+      "forward_avg_pnl": 47.46,
+      "forward_days": 337,
+      "forward_end": "2026-03-12",
+      "forward_max_dd": 405.1,
+      "forward_pnl": 4556.2,
+      "forward_start": "2025-04-09",
+      "forward_trades": 96,
+      "forward_wr": 0.6458,
+      "genes": {
+        "archetype": "opening_trend",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "minutes": 30,
+            "type": "first_n_minutes_down"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 120,
+          "sl_pct": 0.8,
+          "tp_pct": 0.6,
+          "tsl_pct": 0.1
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "15:30",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm1"
+        }
+      },
+      "genes_desc": "SHORT naked_itm1 | first_n_minutes_down | TSL10% SL80% 120m",
+      "regime_id": 36,
+      "train_end": "2025-03-11",
+      "train_fitness": 5.9521,
+      "train_n_trades": 33,
+      "train_pf": 14.9167,
+      "train_pnl": 2740.2,
+      "train_sharpe": 12.1539,
+      "train_start": "2024-12-03",
+      "train_wr": 0.7879
+    },
+    {
+      "death_reason": "alive",
+      "forward_avg_pnl": 52.09,
+      "forward_days": 325,
+      "forward_end": "2026-03-12",
+      "forward_max_dd": 440,
+      "forward_pnl": 4896.6,
+      "forward_start": "2025-04-21",
+      "forward_trades": 94,
+      "forward_wr": 0.6277,
+      "genes": {
+        "archetype": "opening_trend",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "minutes": 30,
+            "type": "first_n_minutes_down"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 180,
+          "sl_pct": 0.5,
+          "tp_pct": 0.3,
+          "tsl_pct": 0.1
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "14:30",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm3"
+        }
+      },
+      "genes_desc": "SHORT naked_itm3 | first_n_minutes_down | TSL10% SL50% 180m",
+      "regime_id": 37,
+      "train_end": "2025-03-18",
+      "train_fitness": 5.9078,
+      "train_n_trades": 34,
+      "train_pf": 17.4185,
+      "train_pnl": 2899.5,
+      "train_sharpe": 12.0521,
+      "train_start": "2024-12-10",
+      "train_wr": 0.7647
+    },
+    {
+      "death_reason": "alive",
+      "forward_avg_pnl": 43.46,
+      "forward_days": 318,
+      "forward_end": "2026-03-12",
+      "forward_max_dd": 485.3,
+      "forward_pnl": 3998.4,
+      "forward_start": "2025-04-28",
+      "forward_trades": 92,
+      "forward_wr": 0.6087,
+      "genes": {
+        "archetype": "opening_trend",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "minutes": 30,
+            "type": "first_n_minutes_down"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 60,
+          "sl_pct": 0.7,
+          "tp_pct": 0.8,
+          "tsl_pct": 0.1
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "12:00",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm3"
+        }
+      },
+      "genes_desc": "SHORT naked_itm3 | first_n_minutes_down | TSL10% SL70% 60m",
+      "regime_id": 38,
+      "train_end": "2025-03-25",
+      "train_fitness": 6.0688,
+      "train_n_trades": 32,
+      "train_pf": 17.3205,
+      "train_pnl": 3040.5,
+      "train_sharpe": 12.4358,
+      "train_start": "2024-12-17",
+      "train_wr": 0.8125
+    },
+    {
+      "death_reason": "alive",
+      "forward_avg_pnl": 43.95,
+      "forward_days": 311,
+      "forward_end": "2026-03-12",
+      "forward_max_dd": 485.3,
+      "forward_pnl": 3867.2,
+      "forward_start": "2025-05-05",
+      "forward_trades": 88,
+      "forward_wr": 0.6023,
+      "genes": {
+        "archetype": "opening_trend",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "minutes": 30,
+            "type": "first_n_minutes_down"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 60,
+          "sl_pct": 0.7,
+          "tp_pct": 0.8,
+          "tsl_pct": 0.1
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "11:00",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm3"
+        }
+      },
+      "genes_desc": "SHORT naked_itm3 | first_n_minutes_down | TSL10% SL70% 60m",
+      "regime_id": 39,
+      "train_end": "2025-04-01",
+      "train_fitness": 6.3325,
+      "train_n_trades": 32,
+      "train_pf": 19.9946,
+      "train_pnl": 3538.7,
+      "train_sharpe": 13.095,
+      "train_start": "2024-12-24",
+      "train_wr": 0.8125
+    },
+    {
+      "death_reason": "rolling_wr 35.0% < 40% (last 20)",
+      "forward_avg_pnl": 23.7,
+      "forward_days": 162,
+      "forward_end": "2025-10-21",
+      "forward_max_dd": 185.1,
+      "forward_pnl": 1137.8,
+      "forward_start": "2025-05-12",
+      "forward_trades": 48,
+      "forward_wr": 0.5,
+      "genes": {
+        "archetype": "opening_trend",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "minutes": 30,
+            "type": "first_n_minutes_down"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 390,
+          "sl_pct": 0.8,
+          "tp_pct": 0.5,
+          "tsl_pct": 0.15
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "15:30",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm1"
+        }
+      },
+      "genes_desc": "SHORT naked_itm1 | first_n_minutes_down | TSL15% SL80% 390m",
+      "regime_id": 40,
+      "train_end": "2025-04-08",
+      "train_fitness": 5.867,
+      "train_n_trades": 32,
+      "train_pf": 12.5127,
+      "train_pnl": 3404.3,
+      "train_sharpe": 11.9624,
+      "train_start": "2025-01-02",
+      "train_wr": 0.75
+    }
+  ],
+  "status": "ok",
+  "timings": {
+    "data_download_sec": 2.6,
+    "total_sec": 2344.7
+  },
+  "total_forward_pnl": 70407.85,
+  "worker": {
+    "cpu_count": 32,
+    "workers_used": 32
+  }
+}

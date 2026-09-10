@@ -1,0 +1,200 @@
+{
+  "sweep_results": [
+    {
+      "consecutive_loss_kill": 2,
+      "drawdown_pct_kill": 0.1,
+      "n_deployments": 1499,
+      "wins": 15,
+      "win_rate": 0.01,
+      "net_pnl": 245321.5,
+      "kills_triggered": 1484,
+      "active_kill_types": [
+        "consecutive_loss_days",
+        "drawdown",
+        "early_wr",
+        "emergency_wr",
+        "flat_regime",
+        "low_avg_pnl",
+        "rolling_wr",
+        "single_trade_loss"
+      ]
+    },
+    {
+      "consecutive_loss_kill": 2,
+      "drawdown_pct_kill": 0.15,
+      "n_deployments": 1499,
+      "wins": 348,
+      "win_rate": 0.2322,
+      "net_pnl": 245321.5,
+      "kills_triggered": 1087,
+      "active_kill_types": [
+        "consecutive_loss_days",
+        "drawdown",
+        "early_wr",
+        "emergency_wr",
+        "rolling_wr",
+        "single_trade_loss"
+      ]
+    },
+    {
+      "consecutive_loss_kill": 2,
+      "drawdown_pct_kill": 0.2,
+      "n_deployments": 1499,
+      "wins": 497,
+      "win_rate": 0.3316,
+      "net_pnl": 245321.5,
+      "kills_triggered": 857,
+      "active_kill_types": [
+        "consecutive_loss_days",
+        "early_wr",
+        "emergency_wr",
+        "rolling_wr",
+        "single_trade_loss"
+      ]
+    },
+    {
+      "consecutive_loss_kill": 2,
+      "drawdown_pct_kill": 0.25,
+      "n_deployments": 1499,
+      "wins": 497,
+      "win_rate": 0.3316,
+      "net_pnl": 245321.5,
+      "kills_triggered": 857,
+      "active_kill_types": [
+        "consecutive_loss_days",
+        "early_wr",
+        "emergency_wr",
+        "rolling_wr",
+        "single_trade_loss"
+      ]
+    },
+    {
+      "consecutive_loss_kill": 3,
+      "drawdown_pct_kill": 0.1,
+      "n_deployments": 1499,
+      "wins": 143,
+      "win_rate": 0.0954,
+      "net_pnl": 245321.5,
+      "kills_triggered": 1279,
+      "active_kill_types": [
+        "consecutive_loss_days",
+        "drawdown",
+        "early_wr",
+        "emergency_wr",
+        "flat_regime",
+        "low_avg_pnl",
+        "rolling_wr"
+      ]
+    },
+    {
+      "consecutive_loss_kill": 3,
+      "drawdown_pct_kill": 0.15,
+      "n_deployments": 1499,
+      "wins": 476,
+      "win_rate": 0.3175,
+      "net_pnl": 245321.5,
+      "kills_triggered": 882,
+      "active_kill_types": [
+        "consecutive_loss_days",
+        "drawdown",
+        "early_wr",
+        "emergency_wr",
+        "rolling_wr"
+      ]
+    },
+    {
+      "consecutive_loss_kill": 3,
+      "drawdown_pct_kill": 0.2,
+      "n_deployments": 1499,
+      "wins": 625,
+      "win_rate": 0.4169,
+      "net_pnl": 245321.5,
+      "kills_triggered": 652,
+      "active_kill_types": [
+        "consecutive_loss_days",
+        "early_wr",
+        "emergency_wr",
+        "rolling_wr"
+      ]
+    },
+    {
+      "consecutive_loss_kill": 3,
+      "drawdown_pct_kill": 0.25,
+      "n_deployments": 1499,
+      "wins": 625,
+      "win_rate": 0.4169,
+      "net_pnl": 245321.5,
+      "kills_triggered": 652,
+      "active_kill_types": [
+        "consecutive_loss_days",
+        "early_wr",
+        "emergency_wr",
+        "rolling_wr"
+      ]
+    },
+    {
+      "consecutive_loss_kill": 4,
+      "drawdown_pct_kill": 0.1,
+      "n_deployments": 1499,
+      "wins": 533,
+      "win_rate": 0.3556,
+      "net_pnl": 245321.5,
+      "kills_triggered": 679,
+      "active_kill_types": [
+        "consecutive_loss_days",
+        "drawdown",
+        "flat_regime",
+        "low_avg_pnl"
+      ]
+    },
+    {
+      "consecutive_loss_kill": 4,
+      "drawdown_pct_kill": 0.15,
+      "n_deployments": 1499,
+      "wins": 866,
+      "win_rate": 0.5777,
+      "net_pnl": 245321.5,
+      "kills_triggered": 282,
+      "active_kill_types": [
+        "consecutive_loss_days",
+        "drawdown"
+      ]
+    },
+    {
+      "consecutive_loss_kill": 4,
+      "drawdown_pct_kill": 0.2,
+      "n_deployments": 1499,
+      "wins": 1015,
+      "win_rate": 0.6771,
+      "net_pnl": 245321.5,
+      "kills_triggered": 52,
+      "active_kill_types": [
+        "consecutive_loss_days"
+      ]
+    },
+    {
+      "consecutive_loss_kill": 4,
+      "drawdown_pct_kill": 0.25,
+      "n_deployments": 1499,
+      "wins": 1015,
+      "win_rate": 0.6771,
+      "net_pnl": 245321.5,
+      "kills_triggered": 52,
+      "active_kill_types": [
+        "consecutive_loss_days"
+      ]
+    }
+  ],
+  "best_by_wr": {
+    "consecutive_loss_kill": 4,
+    "drawdown_pct_kill": 0.2,
+    "win_rate": 0.6771,
+    "net_pnl": 245321.5
+  },
+  "best_by_pnl": {
+    "consecutive_loss_kill": 2,
+    "drawdown_pct_kill": 0.1,
+    "win_rate": 0.01,
+    "net_pnl": 245321.5
+  }
+}

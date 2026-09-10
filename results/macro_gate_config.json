@@ -1,0 +1,20 @@
+{
+  "max_daily_vol_pct": 2.0,
+  "max_ret_20d_pct": 6.0,
+  "min_ret_20d_pct": -8.0,
+  "min_on_range_pts": 2.0,
+  "w_on_range": 0.3,
+  "w_vol_regime": 0.2,
+  "w_trend": 0.25,
+  "w_range_expansion": 0.1,
+  "w_dir_consistency": 0.1,
+  "w_gap_freq": 0.05,
+  "soft_gate_threshold": 0.35,
+  "hard_gate_threshold": 0.2,
+  "ideal_vol_low": 0.8,
+  "ideal_vol_high": 1.8,
+  "ideal_on_range_low": 5.0,
+  "ideal_on_range_high": 15.0,
+  "ideal_ret_neutral": 0.5,
+  "ideal_ret_width": 3.0
+}

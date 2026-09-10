@@ -1,0 +1,1406 @@
+{
+  "diagnostic": {
+    "avg_trades": 100.2,
+    "max_trades": 329,
+    "n_with_trades": 4181,
+    "n_zero_trades": 819,
+    "preload_sec": 1.4,
+    "train_eval_sec": 748.9
+  },
+  "n_candidates": 5000,
+  "n_killed_train_gate": 0,
+  "n_val_pass": 27,
+  "n_viable": 558,
+  "preload_sec": 1.4,
+  "seed": 1000,
+  "status": "ok",
+  "timings": {
+    "data_download_sec": 2,
+    "total_sec": 755.7
+  },
+  "top_results": [
+    {
+      "genes": {
+        "archetype": "opening_trend",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "minutes": 30,
+            "type": "first_n_minutes_down"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 30,
+          "sl_pct": 0.8,
+          "tp_pct": 0.8,
+          "tsl_pct": 0.15
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "15:30",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm3"
+        }
+      },
+      "genes_desc": "SHORT naked_itm3 | first_n_minutes_down | TSL15% SL80% 30m",
+      "train_fitness": {
+        "avg_pnl": 49.57,
+        "avg_r": 0.1011,
+        "cum_pnl": 8278.05,
+        "cum_r": 16.8765,
+        "fitness": 4.2851,
+        "max_dd_r": 0.3489,
+        "n_trades": 167,
+        "profit_factor": 4.0174,
+        "sharpe": 7.8925,
+        "win_rate": 0.6407
+      },
+      "train_summary": {
+        "avg_pnl": 49.57,
+        "cum_pnl": 8278.05,
+        "n_trades": 167,
+        "n_wins": 107
+      },
+      "val_fitness": {
+        "avg_pnl": 39.64,
+        "avg_r": 0.0851,
+        "cum_pnl": 2338.8,
+        "cum_r": 5.0237,
+        "fitness": 3.4579,
+        "max_dd_r": 0.5406,
+        "n_trades": 59,
+        "profit_factor": 2.3707,
+        "sharpe": 6.4142,
+        "win_rate": 0.6102
+      },
+      "val_summary": {
+        "avg_pnl": 39.64,
+        "cum_pnl": 2338.8,
+        "n_trades": 59,
+        "n_wins": 36
+      }
+    },
+    {
+      "genes": {
+        "archetype": "opening_trend",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "minutes": 30,
+            "type": "first_n_minutes_down"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 30,
+          "sl_pct": 0.7,
+          "tp_pct": 0.3,
+          "tsl_pct": 0.3
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "12:00",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "atm"
+        }
+      },
+      "genes_desc": "SHORT naked_atm | first_n_minutes_down | TSL30% SL70% 30m",
+      "train_fitness": {
+        "avg_pnl": 37.27,
+        "avg_r": 0.1166,
+        "cum_pnl": 6223.3,
+        "cum_r": 19.4788,
+        "fitness": 4.0028,
+        "max_dd_r": 0.4388,
+        "n_trades": 167,
+        "profit_factor": 3.3182,
+        "sharpe": 7.1956,
+        "win_rate": 0.6228
+      },
+      "train_summary": {
+        "avg_pnl": 37.27,
+        "cum_pnl": 6223.3,
+        "n_trades": 167,
+        "n_wins": 104
+      },
+      "val_fitness": {
+        "avg_pnl": 31.3,
+        "avg_r": 0.1026,
+        "cum_pnl": 1846.8,
+        "cum_r": 6.0523,
+        "fitness": 3.1551,
+        "max_dd_r": 0.5526,
+        "n_trades": 59,
+        "profit_factor": 2.1987,
+        "sharpe": 5.803,
+        "win_rate": 0.5763
+      },
+      "val_summary": {
+        "avg_pnl": 31.3,
+        "cum_pnl": 1846.8,
+        "n_trades": 59,
+        "n_wins": 34
+      }
+    },
+    {
+      "genes": {
+        "archetype": "opening_trend",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "minutes": 30,
+            "type": "first_n_minutes_down"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 90,
+          "sl_pct": 0.5,
+          "tp_pct": 0.8,
+          "tsl_pct": 0.1
+        },
+        "filter_condition": {
+          "type": "bar_index_lte",
+          "value": 120
+        },
+        "regime_filters": [],
+        "time_window": {
+          "end": "12:00",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "atm"
+        }
+      },
+      "genes_desc": "SHORT naked_atm | first_n_minutes_down | [bar_index_lte] | TSL10% SL50% 90m",
+      "train_fitness": {
+        "avg_pnl": 43.79,
+        "avg_r": 0.127,
+        "cum_pnl": 7313.2,
+        "cum_r": 21.2076,
+        "fitness": 4.2362,
+        "max_dd_r": 0.5357,
+        "n_trades": 167,
+        "profit_factor": 5.8422,
+        "sharpe": 7.7581,
+        "win_rate": 0.6647
+      },
+      "train_summary": {
+        "avg_pnl": 43.79,
+        "cum_pnl": 7313.2,
+        "n_trades": 167,
+        "n_wins": 111
+      },
+      "val_fitness": {
+        "avg_pnl": 30.7,
+        "avg_r": 0.0798,
+        "cum_pnl": 1811.2,
+        "cum_r": 4.7078,
+        "fitness": 3.1173,
+        "max_dd_r": 0.6582,
+        "n_trades": 59,
+        "profit_factor": 2.5891,
+        "sharpe": 5.4328,
+        "win_rate": 0.5424
+      },
+      "val_summary": {
+        "avg_pnl": 30.7,
+        "cum_pnl": 1811.2,
+        "n_trades": 59,
+        "n_wins": 32
+      }
+    },
+    {
+      "genes": {
+        "archetype": "time_filter",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "type": "bar_index_lte",
+            "value": 60
+          },
+          {
+            "minutes": 30,
+            "type": "first_n_minutes_down"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 120,
+          "sl_pct": 0.3,
+          "tp_pct": 0.3,
+          "tsl_pct": 0.3
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "11:00",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm3"
+        }
+      },
+      "genes_desc": "SHORT naked_itm3 | bar_index_lte | first_n_minutes_down | TSL30% SL30% 120m",
+      "train_fitness": {
+        "avg_pnl": 48.31,
+        "avg_r": 0.1034,
+        "cum_pnl": 8067.3,
+        "cum_r": 17.2653,
+        "fitness": 2.7801,
+        "max_dd_r": 1.376,
+        "n_trades": 167,
+        "profit_factor": 2.1881,
+        "sharpe": 4.8077,
+        "win_rate": 0.503
+      },
+      "train_summary": {
+        "avg_pnl": 48.31,
+        "cum_pnl": 8067.3,
+        "n_trades": 167,
+        "n_wins": 84
+      },
+      "val_fitness": {
+        "avg_pnl": 56.55,
+        "avg_r": 0.1338,
+        "cum_pnl": 3336.4,
+        "cum_r": 7.8964,
+        "fitness": 2.9953,
+        "max_dd_r": 1.2109,
+        "n_trades": 59,
+        "profit_factor": 2.112,
+        "sharpe": 5.4518,
+        "win_rate": 0.6102
+      },
+      "val_summary": {
+        "avg_pnl": 56.55,
+        "cum_pnl": 3336.4,
+        "n_trades": 59,
+        "n_wins": 36
+      }
+    },
+    {
+      "genes": {
+        "archetype": "opening_trend",
+        "direction": "long",
+        "entry_conditions": [
+          {
+            "minutes": 30,
+            "type": "first_n_minutes_up"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 60,
+          "sl_pct": 1,
+          "tp_pct": 0.6,
+          "tsl_pct": 0.2
+        },
+        "filter_condition": {
+          "max_range_pct": 0.5,
+          "type": "range_narrow"
+        },
+        "regime_filters": [],
+        "time_window": {
+          "end": "15:30",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "atm"
+        }
+      },
+      "genes_desc": "LONG naked_atm | first_n_minutes_up | [range_narrow] | TSL20% SL100% 60m",
+      "train_fitness": {
+        "avg_pnl": 33.52,
+        "avg_r": 0.0825,
+        "cum_pnl": 5363.2,
+        "cum_r": 13.2061,
+        "fitness": 3.1641,
+        "max_dd_r": 1.0761,
+        "n_trades": 160,
+        "profit_factor": 2.5921,
+        "sharpe": 5.4349,
+        "win_rate": 0.5625
+      },
+      "train_summary": {
+        "avg_pnl": 33.52,
+        "cum_pnl": 5363.2,
+        "n_trades": 160,
+        "n_wins": 90
+      },
+      "val_fitness": {
+        "avg_pnl": 26.75,
+        "avg_r": 0.0677,
+        "cum_pnl": 2166.9,
+        "cum_r": 5.4822,
+        "fitness": 2.9698,
+        "max_dd_r": 0.5475,
+        "n_trades": 81,
+        "profit_factor": 2.4358,
+        "sharpe": 5.1051,
+        "win_rate": 0.5802
+      },
+      "val_summary": {
+        "avg_pnl": 26.75,
+        "cum_pnl": 2166.9,
+        "n_trades": 81,
+        "n_wins": 47
+      }
+    },
+    {
+      "genes": {
+        "archetype": "unconditional",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "type": "always"
+          },
+          {
+            "minutes": 30,
+            "type": "first_n_minutes_down"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 390,
+          "sl_pct": 0.5,
+          "tp_pct": 0.5,
+          "tsl_pct": 0.15
+        },
+        "filter_condition": {
+          "type": "bar_index_gte",
+          "value": 15
+        },
+        "regime_filters": [],
+        "time_window": {
+          "end": "15:30",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm3"
+        }
+      },
+      "genes_desc": "SHORT naked_itm3 | always | first_n_minutes_down | [bar_index_gte] | TSL15% SL50% 390m",
+      "train_fitness": {
+        "avg_pnl": 72.22,
+        "avg_r": 0.1364,
+        "cum_pnl": 12061.3,
+        "cum_r": 22.7807,
+        "fitness": 3.8851,
+        "max_dd_r": 0.9819,
+        "n_trades": 167,
+        "profit_factor": 3.9793,
+        "sharpe": 6.9164,
+        "win_rate": 0.5928
+      },
+      "train_summary": {
+        "avg_pnl": 72.22,
+        "cum_pnl": 12061.3,
+        "n_trades": 167,
+        "n_wins": 99
+      },
+      "val_fitness": {
+        "avg_pnl": 46,
+        "avg_r": 0.101,
+        "cum_pnl": 2713.75,
+        "cum_r": 5.9598,
+        "fitness": 2.8698,
+        "max_dd_r": 0.7673,
+        "n_trades": 59,
+        "profit_factor": 2.1782,
+        "sharpe": 5.1137,
+        "win_rate": 0.5593
+      },
+      "val_summary": {
+        "avg_pnl": 46,
+        "cum_pnl": 2713.75,
+        "n_trades": 59,
+        "n_wins": 33
+      }
+    },
+    {
+      "genes": {
+        "archetype": "opening_trend",
+        "direction": "long",
+        "entry_conditions": [
+          {
+            "minutes": 30,
+            "type": "first_n_minutes_up"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 390,
+          "sl_pct": 0.3,
+          "tp_pct": 0.3,
+          "tsl_pct": 0.2
+        },
+        "filter_condition": {
+          "type": "bar_index_lte",
+          "value": 120
+        },
+        "regime_filters": [],
+        "time_window": {
+          "end": "15:30",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm3"
+        }
+      },
+      "genes_desc": "LONG naked_itm3 | first_n_minutes_up | [bar_index_lte] | TSL20% SL30% 390m",
+      "train_fitness": {
+        "avg_pnl": 51.38,
+        "avg_r": 0.0873,
+        "cum_pnl": 8221.5,
+        "cum_r": 13.9632,
+        "fitness": 2.9494,
+        "max_dd_r": 0.8973,
+        "n_trades": 160,
+        "profit_factor": 2.3081,
+        "sharpe": 5.1361,
+        "win_rate": 0.5125
+      },
+      "train_summary": {
+        "avg_pnl": 51.38,
+        "cum_pnl": 8221.5,
+        "n_trades": 160,
+        "n_wins": 82
+      },
+      "val_fitness": {
+        "avg_pnl": 42.94,
+        "avg_r": 0.0706,
+        "cum_pnl": 3478.3,
+        "cum_r": 5.7213,
+        "fitness": 2.8075,
+        "max_dd_r": 0.5797,
+        "n_trades": 81,
+        "profit_factor": 2.2556,
+        "sharpe": 4.8653,
+        "win_rate": 0.5185
+      },
+      "val_summary": {
+        "avg_pnl": 42.94,
+        "cum_pnl": 3478.3,
+        "n_trades": 81,
+        "n_wins": 42
+      }
+    },
+    {
+      "genes": {
+        "archetype": "opening_trend",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "minutes": 30,
+            "type": "first_n_minutes_down"
+          },
+          {
+            "type": "price_below_open"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 390,
+          "sl_pct": 1,
+          "tp_pct": 0.8,
+          "tsl_pct": 0.15
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "11:00",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "atm"
+        }
+      },
+      "genes_desc": "SHORT naked_atm | first_n_minutes_down | price_below_open | TSL15% SL100% 390m",
+      "train_fitness": {
+        "avg_pnl": 43.46,
+        "avg_r": 0.1191,
+        "cum_pnl": 7258.6,
+        "cum_r": 19.8921,
+        "fitness": 3.6444,
+        "max_dd_r": 1.0035,
+        "n_trades": 167,
+        "profit_factor": 3.707,
+        "sharpe": 6.3295,
+        "win_rate": 0.5629
+      },
+      "train_summary": {
+        "avg_pnl": 43.46,
+        "cum_pnl": 7258.6,
+        "n_trades": 167,
+        "n_wins": 94
+      },
+      "val_fitness": {
+        "avg_pnl": 36.91,
+        "avg_r": 0.1119,
+        "cum_pnl": 2177.8,
+        "cum_r": 6.6037,
+        "fitness": 2.712,
+        "max_dd_r": 0.7341,
+        "n_trades": 59,
+        "profit_factor": 2.2724,
+        "sharpe": 4.6656,
+        "win_rate": 0.5254
+      },
+      "val_summary": {
+        "avg_pnl": 36.91,
+        "cum_pnl": 2177.8,
+        "n_trades": 59,
+        "n_wins": 31
+      }
+    },
+    {
+      "genes": {
+        "archetype": "opening_trend",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "minutes": 30,
+            "type": "first_n_minutes_down"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 240,
+          "sl_pct": 0.8,
+          "tp_pct": 0.3,
+          "tsl_pct": 0.2
+        },
+        "filter_condition": {
+          "max_range_pct": 0.3,
+          "type": "range_narrow"
+        },
+        "regime_filters": [],
+        "time_window": {
+          "end": "11:00",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm1"
+        }
+      },
+      "genes_desc": "SHORT naked_itm1 | first_n_minutes_down | [range_narrow] | TSL20% SL80% 240m",
+      "train_fitness": {
+        "avg_pnl": 56.24,
+        "avg_r": 0.1481,
+        "cum_pnl": 9392.7,
+        "cum_r": 24.7304,
+        "fitness": 3.6569,
+        "max_dd_r": 0.594,
+        "n_trades": 167,
+        "profit_factor": 3.783,
+        "sharpe": 6.3758,
+        "win_rate": 0.5329
+      },
+      "train_summary": {
+        "avg_pnl": 56.24,
+        "cum_pnl": 9392.7,
+        "n_trades": 167,
+        "n_wins": 89
+      },
+      "val_fitness": {
+        "avg_pnl": 30.02,
+        "avg_r": 0.0767,
+        "cum_pnl": 1771.1,
+        "cum_r": 4.5253,
+        "fitness": 2.6853,
+        "max_dd_r": 0.8286,
+        "n_trades": 59,
+        "profit_factor": 1.9448,
+        "sharpe": 4.853,
+        "win_rate": 0.5085
+      },
+      "val_summary": {
+        "avg_pnl": 30.02,
+        "cum_pnl": 1771.1,
+        "n_trades": 59,
+        "n_wins": 30
+      }
+    },
+    {
+      "genes": {
+        "archetype": "opening_trend",
+        "direction": "long",
+        "entry_conditions": [
+          {
+            "minutes": 30,
+            "type": "first_n_minutes_up"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 30,
+          "sl_pct": 0.8,
+          "tp_pct": 1,
+          "tsl_pct": 0.3
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "11:00",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm2"
+        }
+      },
+      "genes_desc": "LONG naked_itm2 | first_n_minutes_up | TSL30% SL80% 30m",
+      "train_fitness": {
+        "avg_pnl": 37.04,
+        "avg_r": 0.0614,
+        "cum_pnl": 5926.6,
+        "cum_r": 9.829,
+        "fitness": 3.2477,
+        "max_dd_r": 0.6258,
+        "n_trades": 160,
+        "profit_factor": 3.0588,
+        "sharpe": 5.3099,
+        "win_rate": 0.6188
+      },
+      "train_summary": {
+        "avg_pnl": 37.04,
+        "cum_pnl": 5926.6,
+        "n_trades": 160,
+        "n_wins": 99
+      },
+      "val_fitness": {
+        "avg_pnl": 24.74,
+        "avg_r": 0.0458,
+        "cum_pnl": 2004.1,
+        "cum_r": 3.7058,
+        "fitness": 2.5357,
+        "max_dd_r": 0.6084,
+        "n_trades": 81,
+        "profit_factor": 2.1956,
+        "sharpe": 4.1875,
+        "win_rate": 0.6049
+      },
+      "val_summary": {
+        "avg_pnl": 24.74,
+        "cum_pnl": 2004.1,
+        "n_trades": 81,
+        "n_wins": 49
+      }
+    },
+    {
+      "genes": {
+        "archetype": "opening_trend",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "minutes": 30,
+            "type": "first_n_minutes_down"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 30,
+          "sl_pct": 0.7,
+          "tp_pct": 0.5,
+          "tsl_pct": 0.1
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "12:00",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "atm"
+        }
+      },
+      "genes_desc": "SHORT naked_atm | first_n_minutes_down | TSL10% SL70% 30m",
+      "train_fitness": {
+        "avg_pnl": 37.82,
+        "avg_r": 0.1082,
+        "cum_pnl": 6315.2,
+        "cum_r": 18.0734,
+        "fitness": 4.372,
+        "max_dd_r": 0.4111,
+        "n_trades": 167,
+        "profit_factor": 5.4088,
+        "sharpe": 8.1006,
+        "win_rate": 0.6587
+      },
+      "train_summary": {
+        "avg_pnl": 37.82,
+        "cum_pnl": 6315.2,
+        "n_trades": 167,
+        "n_wins": 110
+      },
+      "val_fitness": {
+        "avg_pnl": 18.83,
+        "avg_r": 0.0517,
+        "cum_pnl": 1111.1,
+        "cum_r": 3.0493,
+        "fitness": 2.4581,
+        "max_dd_r": 0.7536,
+        "n_trades": 59,
+        "profit_factor": 1.9469,
+        "sharpe": 4.2748,
+        "win_rate": 0.5254
+      },
+      "val_summary": {
+        "avg_pnl": 18.83,
+        "cum_pnl": 1111.1,
+        "n_trades": 59,
+        "n_wins": 31
+      }
+    },
+    {
+      "genes": {
+        "archetype": "vol_skew",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "threshold": 1.5,
+            "type": "skew_elevated"
+          },
+          {
+            "type": "bar_index_gte",
+            "value": 30
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 30,
+          "sl_pct": 0.3,
+          "tp_pct": 0.8,
+          "tsl_pct": 0.1
+        },
+        "filter_condition": {
+          "min_range_pct": 0.8,
+          "type": "range_wide"
+        },
+        "regime_filters": [],
+        "time_window": {
+          "end": "15:30",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm3"
+        }
+      },
+      "genes_desc": "SHORT naked_itm3 | skew_elevated | bar_index_gte | [range_wide] | TSL10% SL30% 30m",
+      "train_fitness": {
+        "avg_pnl": 22.87,
+        "avg_r": 0.0417,
+        "cum_pnl": 4070.3,
+        "cum_r": 7.4307,
+        "fitness": 2.3944,
+        "max_dd_r": 0.9646,
+        "n_trades": 178,
+        "profit_factor": 1.8608,
+        "sharpe": 4.0596,
+        "win_rate": 0.5618
+      },
+      "train_summary": {
+        "avg_pnl": 22.87,
+        "cum_pnl": 4070.3,
+        "n_trades": 178,
+        "n_wins": 100
+      },
+      "val_fitness": {
+        "avg_pnl": 31.89,
+        "avg_r": 0.0515,
+        "cum_pnl": 2423.6,
+        "cum_r": 3.917,
+        "fitness": 2.4321,
+        "max_dd_r": 0.5469,
+        "n_trades": 76,
+        "profit_factor": 2.2666,
+        "sharpe": 3.9271,
+        "win_rate": 0.5263
+      },
+      "val_summary": {
+        "avg_pnl": 31.89,
+        "cum_pnl": 2423.6,
+        "n_trades": 76,
+        "n_wins": 40
+      }
+    },
+    {
+      "genes": {
+        "archetype": "vol_skew",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "threshold": 1.5,
+            "type": "skew_elevated"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 60,
+          "sl_pct": 0.7,
+          "tp_pct": 1,
+          "tsl_pct": 0.15
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "12:00",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm3"
+        }
+      },
+      "genes_desc": "SHORT naked_itm3 | skew_elevated | TSL15% SL70% 60m",
+      "train_fitness": {
+        "avg_pnl": 31.91,
+        "avg_r": 0.053,
+        "cum_pnl": 4594.9,
+        "cum_r": 7.6295,
+        "fitness": 2.2671,
+        "max_dd_r": 1.1786,
+        "n_trades": 144,
+        "profit_factor": 1.8521,
+        "sharpe": 3.7439,
+        "win_rate": 0.5694
+      },
+      "train_summary": {
+        "avg_pnl": 31.91,
+        "cum_pnl": 4594.9,
+        "n_trades": 144,
+        "n_wins": 82
+      },
+      "val_fitness": {
+        "avg_pnl": 51.64,
+        "avg_r": 0.0896,
+        "cum_pnl": 3253.15,
+        "cum_r": 5.642,
+        "fitness": 2.3843,
+        "max_dd_r": 0.9669,
+        "n_trades": 63,
+        "profit_factor": 2.1839,
+        "sharpe": 3.9353,
+        "win_rate": 0.4603
+      },
+      "val_summary": {
+        "avg_pnl": 51.64,
+        "cum_pnl": 3253.15,
+        "n_trades": 63,
+        "n_wins": 29
+      }
+    },
+    {
+      "genes": {
+        "archetype": "opening_trend",
+        "direction": "long",
+        "entry_conditions": [
+          {
+            "minutes": 30,
+            "type": "first_n_minutes_up"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 180,
+          "sl_pct": 0.8,
+          "tp_pct": 0.6,
+          "tsl_pct": 0.3
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "12:00",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm3"
+        }
+      },
+      "genes_desc": "LONG naked_itm3 | first_n_minutes_up | TSL30% SL80% 180m",
+      "train_fitness": {
+        "avg_pnl": 39.97,
+        "avg_r": 0.0734,
+        "cum_pnl": 6395.8,
+        "cum_r": 11.741,
+        "fitness": 2.4578,
+        "max_dd_r": 1.3981,
+        "n_trades": 160,
+        "profit_factor": 1.8773,
+        "sharpe": 4.1835,
+        "win_rate": 0.6062
+      },
+      "train_summary": {
+        "avg_pnl": 39.97,
+        "cum_pnl": 6395.8,
+        "n_trades": 160,
+        "n_wins": 97
+      },
+      "val_fitness": {
+        "avg_pnl": 34.45,
+        "avg_r": 0.0547,
+        "cum_pnl": 2790.7,
+        "cum_r": 4.4309,
+        "fitness": 2.3012,
+        "max_dd_r": 0.6557,
+        "n_trades": 81,
+        "profit_factor": 1.8317,
+        "sharpe": 3.8865,
+        "win_rate": 0.5802
+      },
+      "val_summary": {
+        "avg_pnl": 34.45,
+        "cum_pnl": 2790.7,
+        "n_trades": 81,
+        "n_wins": 47
+      }
+    },
+    {
+      "genes": {
+        "archetype": "vol_skew",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "threshold": 1.5,
+            "type": "skew_elevated"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 120,
+          "sl_pct": 0.5,
+          "tp_pct": 0.6,
+          "tsl_pct": 0.1
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "14:30",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm3"
+        }
+      },
+      "genes_desc": "SHORT naked_itm3 | skew_elevated | TSL10% SL50% 120m",
+      "train_fitness": {
+        "avg_pnl": 34.68,
+        "avg_r": 0.0523,
+        "cum_pnl": 6103.9,
+        "cum_r": 9.203,
+        "fitness": 2.1742,
+        "max_dd_r": 1.2482,
+        "n_trades": 176,
+        "profit_factor": 2.0133,
+        "sharpe": 3.4142,
+        "win_rate": 0.5227
+      },
+      "train_summary": {
+        "avg_pnl": 34.68,
+        "cum_pnl": 6103.9,
+        "n_trades": 176,
+        "n_wins": 92
+      },
+      "val_fitness": {
+        "avg_pnl": 42.72,
+        "avg_r": 0.0713,
+        "cum_pnl": 3075.9,
+        "cum_r": 5.131,
+        "fitness": 2.21,
+        "max_dd_r": 1.1817,
+        "n_trades": 72,
+        "profit_factor": 2.2,
+        "sharpe": 3.4518,
+        "win_rate": 0.4861
+      },
+      "val_summary": {
+        "avg_pnl": 42.72,
+        "cum_pnl": 3075.9,
+        "n_trades": 72,
+        "n_wins": 35
+      }
+    },
+    {
+      "genes": {
+        "archetype": "vol_skew",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "threshold": 1.5,
+            "type": "skew_elevated"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 240,
+          "sl_pct": 0.7,
+          "tp_pct": 1,
+          "tsl_pct": 0.15
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "12:00",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm3"
+        }
+      },
+      "genes_desc": "SHORT naked_itm3 | skew_elevated | TSL15% SL70% 240m",
+      "train_fitness": {
+        "avg_pnl": 42.37,
+        "avg_r": 0.0612,
+        "cum_pnl": 6101,
+        "cum_r": 8.8159,
+        "fitness": 2.1828,
+        "max_dd_r": 1.7284,
+        "n_trades": 144,
+        "profit_factor": 1.9597,
+        "sharpe": 3.456,
+        "win_rate": 0.5625
+      },
+      "train_summary": {
+        "avg_pnl": 42.37,
+        "cum_pnl": 6101,
+        "n_trades": 144,
+        "n_wins": 81
+      },
+      "val_fitness": {
+        "avg_pnl": 49.25,
+        "avg_r": 0.0884,
+        "cum_pnl": 3102.6,
+        "cum_r": 5.5698,
+        "fitness": 2.0402,
+        "max_dd_r": 1.1687,
+        "n_trades": 63,
+        "profit_factor": 1.987,
+        "sharpe": 3.2306,
+        "win_rate": 0.4444
+      },
+      "val_summary": {
+        "avg_pnl": 49.25,
+        "cum_pnl": 3102.6,
+        "n_trades": 63,
+        "n_wins": 28
+      }
+    },
+    {
+      "genes": {
+        "archetype": "vol_skew",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "threshold": 1.2,
+            "type": "skew_elevated"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 120,
+          "sl_pct": 0.7,
+          "tp_pct": 1,
+          "tsl_pct": 0.1
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "14:00",
+          "start": "10:30"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm3"
+        }
+      },
+      "genes_desc": "SHORT naked_itm3 | skew_elevated | TSL10% SL70% 120m",
+      "train_fitness": {
+        "avg_pnl": 29.78,
+        "avg_r": 0.0422,
+        "cum_pnl": 5271.3,
+        "cum_r": 7.4609,
+        "fitness": 2.2382,
+        "max_dd_r": 1.391,
+        "n_trades": 177,
+        "profit_factor": 2.1738,
+        "sharpe": 3.427,
+        "win_rate": 0.5763
+      },
+      "train_summary": {
+        "avg_pnl": 29.78,
+        "cum_pnl": 5271.3,
+        "n_trades": 177,
+        "n_wins": 102
+      },
+      "val_fitness": {
+        "avg_pnl": 31.19,
+        "avg_r": 0.0638,
+        "cum_pnl": 2494.8,
+        "cum_r": 5.1077,
+        "fitness": 2.0127,
+        "max_dd_r": 1.2676,
+        "n_trades": 80,
+        "profit_factor": 1.7886,
+        "sharpe": 3.209,
+        "win_rate": 0.5625
+      },
+      "val_summary": {
+        "avg_pnl": 31.19,
+        "cum_pnl": 2494.8,
+        "n_trades": 80,
+        "n_wins": 45
+      }
+    },
+    {
+      "genes": {
+        "archetype": "candle_signal",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "type": "candle_bearish"
+          },
+          {
+            "minutes": 30,
+            "type": "first_n_minutes_down"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 120,
+          "sl_pct": 0.5,
+          "tp_pct": 0.5,
+          "tsl_pct": null
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "14:30",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "atm"
+        }
+      },
+      "genes_desc": "SHORT naked_atm | candle_bearish | first_n_minutes_down | TP50% SL50% 120m",
+      "train_fitness": {
+        "avg_pnl": 27.95,
+        "avg_r": 0.0854,
+        "cum_pnl": 4667.9,
+        "cum_r": 14.2561,
+        "fitness": 2.3663,
+        "max_dd_r": 2.1319,
+        "n_trades": 167,
+        "profit_factor": 1.7124,
+        "sharpe": 4.1301,
+        "win_rate": 0.503
+      },
+      "train_summary": {
+        "avg_pnl": 27.95,
+        "cum_pnl": 4667.9,
+        "n_trades": 167,
+        "n_wins": 84
+      },
+      "val_fitness": {
+        "avg_pnl": 17.1,
+        "avg_r": 0.0812,
+        "cum_pnl": 1008.8,
+        "cum_r": 4.7932,
+        "fitness": 1.9958,
+        "max_dd_r": 1.8734,
+        "n_trades": 59,
+        "profit_factor": 1.2822,
+        "sharpe": 3.6008,
+        "win_rate": 0.5593
+      },
+      "val_summary": {
+        "avg_pnl": 17.1,
+        "cum_pnl": 1008.8,
+        "n_trades": 59,
+        "n_wins": 33
+      }
+    },
+    {
+      "genes": {
+        "archetype": "vol_skew",
+        "direction": "short",
+        "entry_conditions": [
+          {
+            "threshold": 1.2,
+            "type": "skew_elevated"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 390,
+          "sl_pct": 0.5,
+          "tp_pct": 0.5,
+          "tsl_pct": 0.3
+        },
+        "filter_condition": {
+          "max_range_pct": 0.5,
+          "type": "range_narrow"
+        },
+        "regime_filters": [
+          {
+            "max_pct": 0.6,
+            "type": "iv_proxy_low"
+          }
+        ],
+        "time_window": {
+          "end": "15:30",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "itm2"
+        }
+      },
+      "genes_desc": "SHORT naked_itm2 | skew_elevated | [range_narrow] | {iv_proxy_low} | TSL30% SL50% 390m",
+      "train_fitness": {
+        "avg_pnl": 47.75,
+        "avg_r": 0.1188,
+        "cum_pnl": 5204.5,
+        "cum_r": 12.948,
+        "fitness": 2.0718,
+        "max_dd_r": 1.6805,
+        "n_trades": 109,
+        "profit_factor": 1.9837,
+        "sharpe": 3.2354,
+        "win_rate": 0.4128
+      },
+      "train_summary": {
+        "avg_pnl": 47.75,
+        "cum_pnl": 5204.5,
+        "n_trades": 109,
+        "n_wins": 45
+      },
+      "val_fitness": {
+        "avg_pnl": 69.03,
+        "avg_r": 0.1562,
+        "cum_pnl": 4211,
+        "cum_r": 9.5303,
+        "fitness": 1.9855,
+        "max_dd_r": 2.2454,
+        "n_trades": 61,
+        "profit_factor": 2.1639,
+        "sharpe": 2.9999,
+        "win_rate": 0.377
+      },
+      "val_summary": {
+        "avg_pnl": 69.03,
+        "cum_pnl": 4211,
+        "n_trades": 61,
+        "n_wins": 23
+      }
+    },
+    {
+      "genes": {
+        "archetype": "opening_trend",
+        "direction": "long",
+        "entry_conditions": [
+          {
+            "minutes": 30,
+            "type": "first_n_minutes_up"
+          },
+          {
+            "type": "bar_index_lte",
+            "value": 60
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 180,
+          "sl_pct": 0.8,
+          "tp_pct": 1,
+          "tsl_pct": 0.5
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "15:30",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "naked",
+          "moneyness": "atm"
+        }
+      },
+      "genes_desc": "LONG naked_atm | first_n_minutes_up | bar_index_lte | TSL50% SL80% 180m",
+      "train_fitness": {
+        "avg_pnl": 28.55,
+        "avg_r": 0.0772,
+        "cum_pnl": 4567.5,
+        "cum_r": 12.3597,
+        "fitness": 2.0849,
+        "max_dd_r": 1.4665,
+        "n_trades": 160,
+        "profit_factor": 1.7258,
+        "sharpe": 3.3741,
+        "win_rate": 0.5875
+      },
+      "train_summary": {
+        "avg_pnl": 28.55,
+        "cum_pnl": 4567.5,
+        "n_trades": 160,
+        "n_wins": 94
+      },
+      "val_fitness": {
+        "avg_pnl": 24.97,
+        "avg_r": 0.0573,
+        "cum_pnl": 2022.3,
+        "cum_r": 4.6452,
+        "fitness": 1.8586,
+        "max_dd_r": 1.0074,
+        "n_trades": 81,
+        "profit_factor": 1.6753,
+        "sharpe": 2.8973,
+        "win_rate": 0.5802
+      },
+      "val_summary": {
+        "avg_pnl": 24.97,
+        "cum_pnl": 2022.3,
+        "n_trades": 81,
+        "n_wins": 47
+      }
+    }
+  ],
+  "train_date_range": [
+    "2024-03-13",
+    "2025-08-05"
+  ],
+  "train_days": 329,
+  "train_eval_sec": 748.9,
+  "val_date_range": [
+    "2025-08-06",
+    "2026-03-12"
+  ],
+  "val_days": 142,
+  "val_eval_sec": 3.1,
+  "worker": {
+    "cpu_count": 48,
+    "workers_used": 48
+  }
+}

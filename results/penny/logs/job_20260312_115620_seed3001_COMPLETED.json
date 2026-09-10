@@ -1,0 +1,194 @@
+{
+  "delayTime": 935932,
+  "executionTime": 533447,
+  "id": "91429f6e-d91e-4b13-86ec-85f83b651c0f-u1",
+  "output": {
+    "n_candidates": 5000,
+    "n_val_pass": 2,
+    "n_viable": 8,
+    "preload_sec": 5,
+    "profile": "nasdaq_highvol",
+    "seed": 3001,
+    "status": "ok",
+    "timings": {
+      "data_download_sec": 0,
+      "total_sec": 533.3
+    },
+    "top_results": [
+      {
+        "genes": {
+          "confirmation_params": {},
+          "confirmation_type": "none",
+          "direction": "short",
+          "earliest_entry_min": 10,
+          "entry_delay_bars": 2,
+          "entry_params": {
+            "interaction": "break_below",
+            "level_type": "day_open",
+            "proximity_pct": 1
+          },
+          "entry_type": "price_level",
+          "eod_exit": true,
+          "latest_entry_min": 390,
+          "max_hold_minutes": 120,
+          "max_spread_pct": 999,
+          "min_first_bar_ret_pct": 0,
+          "min_vol_spike": 1,
+          "partial_exit": false,
+          "partial_pct": 0,
+          "partial_target_r": 0,
+          "require_vol_accel": false,
+          "sl_atr_mult": 0,
+          "sl_atr_period": 14,
+          "sl_buffer_pct": 0,
+          "sl_fixed_pct": 0,
+          "sl_type": "swing_low",
+          "tp_r": 0.5,
+          "trail_activation_r": 2,
+          "trail_distance_pct": 0.12,
+          "trail_ema_period": 5,
+          "trail_type": "ema_trail"
+        },
+        "genes_desc": "S level(day_open,break_below) | TP=0.5R | SL=swing_low | trail=ema_trail@2.0R | hold<=120m",
+        "train_fitness": {
+          "avg_r": -0.083,
+          "cum_r": -26.8,
+          "fitness": 0.1093,
+          "max_dd_r": 28.64,
+          "n_trades": 323,
+          "profit_factor": 0.772,
+          "sharpe": -1.934,
+          "win_rate": 0.6254
+        },
+        "train_summary": {
+          "avg_r": -0.083,
+          "cum_r": -26.8,
+          "max_dd_r": 28.64,
+          "n_trades": 323,
+          "n_wins": 202,
+          "profit_factor": 0.772,
+          "sharpe": -1.934,
+          "win_rate": 62.5
+        },
+        "val_fitness": {
+          "avg_r": -0.0155,
+          "cum_r": -2.18,
+          "fitness": 0.1114,
+          "max_dd_r": 7.05,
+          "n_trades": 141,
+          "profit_factor": 0.951,
+          "sharpe": -0.24,
+          "win_rate": 0.6809
+        },
+        "val_summary": {
+          "avg_r": -0.0155,
+          "cum_r": -2.18,
+          "max_dd_r": 7.05,
+          "n_trades": 141,
+          "n_wins": 96,
+          "profit_factor": 0.951,
+          "sharpe": -0.24,
+          "win_rate": 68.1
+        }
+      },
+      {
+        "genes": {
+          "confirmation_params": {
+            "alignment": "price_above",
+            "ema_period": 5
+          },
+          "confirmation_type": "ema_aligned",
+          "direction": "short",
+          "earliest_entry_min": 30,
+          "entry_delay_bars": 1,
+          "entry_params": {
+            "entry_on": "overbought",
+            "overbought_level": 80,
+            "oversold_level": 20,
+            "rsi_period": 7
+          },
+          "entry_type": "rsi_extreme",
+          "eod_exit": true,
+          "latest_entry_min": 390,
+          "max_hold_minutes": 30,
+          "max_spread_pct": 999,
+          "min_first_bar_ret_pct": 0.5,
+          "min_vol_spike": 2,
+          "partial_exit": true,
+          "partial_pct": 0.25,
+          "partial_target_r": 0.25,
+          "require_vol_accel": false,
+          "sl_atr_mult": 0,
+          "sl_atr_period": 5,
+          "sl_buffer_pct": 1,
+          "sl_fixed_pct": 0,
+          "sl_type": "swing_low",
+          "tp_r": 0.5,
+          "trail_activation_r": 0.5,
+          "trail_distance_pct": 0.05,
+          "trail_ema_period": 13,
+          "trail_type": "fixed_pct"
+        },
+        "genes_desc": "S RSI(overbought,7) | TP=0.5R | SL=swing_low | +ema_aligned | trail=fixed_pct@0.5R | hold<=30m | partial=25%@0.25R",
+        "train_fitness": {
+          "avg_r": -0.865,
+          "cum_r": -50.17,
+          "fitness": 0.052,
+          "max_dd_r": 51.2,
+          "n_trades": 58,
+          "profit_factor": 0.167,
+          "sharpe": -1.768,
+          "win_rate": 0.5
+        },
+        "train_summary": {
+          "avg_r": -0.865,
+          "cum_r": -50.17,
+          "max_dd_r": 51.2,
+          "n_trades": 58,
+          "n_wins": 29,
+          "profit_factor": 0.167,
+          "sharpe": -1.768,
+          "win_rate": 50
+        },
+        "val_fitness": {
+          "avg_r": -0.3047,
+          "cum_r": -5.48,
+          "fitness": 0.0048,
+          "max_dd_r": 4.39,
+          "n_trades": 18,
+          "profit_factor": 0.397,
+          "sharpe": -1.478,
+          "win_rate": 0.6111
+        },
+        "val_summary": {
+          "avg_r": -0.3047,
+          "cum_r": -5.48,
+          "max_dd_r": 4.39,
+          "n_trades": 18,
+          "n_wins": 11,
+          "profit_factor": 0.397,
+          "sharpe": -1.478,
+          "win_rate": 61.1
+        }
+      }
+    ],
+    "train_date_range": [
+      "2025-03-18",
+      "2025-11-26"
+    ],
+    "train_eval_sec": 520.1,
+    "train_ticker_days": 449,
+    "val_date_range": [
+      "2025-11-28",
+      "2026-03-10"
+    ],
+    "val_eval_sec": 6.4,
+    "val_ticker_days": 217,
+    "worker": {
+      "cpu_count": 32,
+      "workers_used": 32
+    }
+  },
+  "status": "COMPLETED",
+  "workerId": "wb9ps5stbr3ec2"
+}

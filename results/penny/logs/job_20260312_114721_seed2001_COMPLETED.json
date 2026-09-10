@@ -1,0 +1,37 @@
+{
+  "delayTime": 7133,
+  "executionTime": 932026,
+  "id": "46f0b95d-eaea-4682-9b63-ab966e9f85d1-u2",
+  "output": {
+    "n_candidates": 5000,
+    "n_val_pass": 0,
+    "n_viable": 14,
+    "preload_sec": 4.8,
+    "profile": "listed_highvol",
+    "seed": 2001,
+    "status": "ok",
+    "timings": {
+      "data_download_sec": 8.9,
+      "total_sec": 931.9
+    },
+    "top_results": [],
+    "train_date_range": [
+      "2025-03-18",
+      "2025-11-19"
+    ],
+    "train_eval_sec": 914.5,
+    "train_ticker_days": 879,
+    "val_date_range": [
+      "2025-11-20",
+      "2026-03-10"
+    ],
+    "val_eval_sec": 1.9,
+    "val_ticker_days": 357,
+    "worker": {
+      "cpu_count": 32,
+      "workers_used": 32
+    }
+  },
+  "status": "COMPLETED",
+  "workerId": "wb9ps5stbr3ec2"
+}

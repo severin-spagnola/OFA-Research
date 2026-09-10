@@ -1,0 +1,44 @@
+# OFA-Research: RunPod container for overnight overfit pipeline
+#
+# Build:
+#   docker build -t ofa-overnight .
+#   Push to registry, create RunPod serverless endpoint
+#
+# Overnight mode only — no GEX/options/daily_stats needed
+
+FROM python:3.12-slim
+
+WORKDIR /app
+
+# System deps (libgomp required by LightGBM)
+RUN apt-get update && apt-get install -y --no-install-recommends libgomp1 && rm -rf /var/lib/apt/lists/*
+
+# Python deps
+COPY requirements.txt /app/requirements.txt
+RUN pip install --no-cache-dir -r requirements.txt runpod
+
+# Cache bust — increment to force rebuild
+ARG CACHE_BUST=1
+ARG GIT_SHA=unknown
+RUN echo "Cache bust: $CACHE_BUST"
+ENV BUILD_GIT_SHA=$GIT_SHA
+ENV BUILD_CACHE_BUST=$CACHE_BUST
+
+# Copy strategy + overfit pipeline code
+COPY archived/fvg_gap/mes_backtest.py             /app/archived/fvg_gap/mes_backtest.py
+COPY archived/fvg_gap/mes_friend_strategy_base.py  /app/archived/fvg_gap/mes_friend_strategy_base.py
+COPY current/overfit_finder/                       /app/current/overfit_finder/
+COPY results/meta_config.json                      /app/results/meta_config.json
+COPY infra/runpod_handler.py                       /app/infra/runpod_handler.py
+
+# Data directory (fetched from Render at job start)
+ENV TRADER_DATA_DIR=/data
+ENV MES_DATA_PATH=/data/mes/mes_1m.csv
+ENV RENDER_DATA_URL=https://gap-autotrader-cxt8.onrender.com
+ENV RENDER_DATA_PASSWORD=mysecretpw
+# LLM refinement — Anthropic Claude (set via RunPod template env vars)
+ENV ANTHROPIC_API_KEY=""
+
+# Default: run as RunPod serverless worker
+ENV PYTHONUNBUFFERED=1
+CMD ["python", "infra/runpod_handler.py"]

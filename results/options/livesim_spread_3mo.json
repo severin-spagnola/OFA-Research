@@ -1,0 +1,954 @@
+{
+  "daily_equity": [
+    {
+      "cum_pnl": -82.4,
+      "date": "2025-12-01",
+      "day_pnl": -82.4,
+      "kill_reasons": [],
+      "max_portfolio_dd": 82.4,
+      "n_active": 1,
+      "portfolio_dd": 82.4,
+      "strategies_added": 1,
+      "strategies_killed": 0,
+      "strategy_dds": {
+        "1": 82.4
+      },
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": -156.8,
+      "date": "2025-12-02",
+      "day_pnl": -74.4,
+      "kill_reasons": [],
+      "max_portfolio_dd": 156.8,
+      "n_active": 1,
+      "portfolio_dd": 156.8,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {
+        "1": 156.8
+      },
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": -43.2,
+      "date": "2025-12-03",
+      "day_pnl": 113.6,
+      "kill_reasons": [],
+      "max_portfolio_dd": 156.8,
+      "n_active": 1,
+      "portfolio_dd": 43.2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {
+        "1": 43.2
+      },
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": -43.2,
+      "date": "2025-12-04",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "max_portfolio_dd": 156.8,
+      "n_active": 1,
+      "portfolio_dd": 43.2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {
+        "1": 43.2
+      },
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": -281.6,
+      "date": "2025-12-05",
+      "day_pnl": -238.4,
+      "kill_reasons": [],
+      "max_portfolio_dd": 281.6,
+      "n_active": 1,
+      "portfolio_dd": 281.6,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {
+        "1": 281.6
+      },
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": -281.6,
+      "date": "2025-12-08",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "max_portfolio_dd": 281.6,
+      "n_active": 1,
+      "portfolio_dd": 281.6,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {
+        "1": 281.6
+      },
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": -364,
+      "date": "2025-12-09",
+      "day_pnl": -82.4,
+      "kill_reasons": [],
+      "max_portfolio_dd": 364,
+      "n_active": 1,
+      "portfolio_dd": 364,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {
+        "1": 364
+      },
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": -230.4,
+      "date": "2025-12-10",
+      "day_pnl": 133.6,
+      "kill_reasons": [],
+      "max_portfolio_dd": 364,
+      "n_active": 1,
+      "portfolio_dd": 230.4,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {
+        "1": 230.4
+      },
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": -32.8,
+      "date": "2025-12-11",
+      "day_pnl": 197.6,
+      "kill_reasons": [],
+      "max_portfolio_dd": 364,
+      "n_active": 1,
+      "portfolio_dd": 32.8,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {
+        "1": 32.8
+      },
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": -32.8,
+      "date": "2025-12-12",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "max_portfolio_dd": 364,
+      "n_active": 1,
+      "portfolio_dd": 32.8,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {
+        "1": 32.8
+      },
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": -32.8,
+      "date": "2025-12-15",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "max_portfolio_dd": 364,
+      "n_active": 1,
+      "portfolio_dd": 32.8,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {
+        "1": 32.8
+      },
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": -107.2,
+      "date": "2025-12-16",
+      "day_pnl": -74.4,
+      "kill_reasons": [],
+      "max_portfolio_dd": 364,
+      "n_active": 1,
+      "portfolio_dd": 107.2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {
+        "1": 107.2
+      },
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": -107.2,
+      "date": "2025-12-17",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "max_portfolio_dd": 364,
+      "n_active": 1,
+      "portfolio_dd": 107.2,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {
+        "1": 107.2
+      },
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": -197.6,
+      "date": "2025-12-18",
+      "day_pnl": -90.4,
+      "kill_reasons": [],
+      "max_portfolio_dd": 364,
+      "n_active": 1,
+      "portfolio_dd": 197.6,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {
+        "1": 197.6
+      },
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": -180,
+      "date": "2025-12-19",
+      "day_pnl": 17.6,
+      "kill_reasons": [],
+      "max_portfolio_dd": 364,
+      "n_active": 1,
+      "portfolio_dd": 180,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {
+        "1": 180
+      },
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": -162.4,
+      "date": "2025-12-22",
+      "day_pnl": 17.6,
+      "kill_reasons": [],
+      "max_portfolio_dd": 364,
+      "n_active": 1,
+      "portfolio_dd": 162.4,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {
+        "1": 162.4
+      },
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 83.2,
+      "date": "2025-12-23",
+      "day_pnl": 245.6,
+      "kill_reasons": [],
+      "max_portfolio_dd": 364,
+      "n_active": 1,
+      "portfolio_dd": 0,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {
+        "1": 0
+      },
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": 172.8,
+      "date": "2025-12-24",
+      "day_pnl": 89.6,
+      "kill_reasons": [],
+      "max_portfolio_dd": 364,
+      "n_active": 1,
+      "portfolio_dd": 0,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {
+        "1": 0
+      },
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": -13.6,
+      "date": "2025-12-26",
+      "day_pnl": -186.4,
+      "kill_reasons": [],
+      "max_portfolio_dd": 364,
+      "n_active": 1,
+      "portfolio_dd": 186.4,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {
+        "1": 186.4
+      },
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": -80,
+      "date": "2025-12-29",
+      "day_pnl": -66.4,
+      "kill_reasons": [],
+      "max_portfolio_dd": 364,
+      "n_active": 1,
+      "portfolio_dd": 252.8,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {
+        "1": 252.8
+      },
+      "trades_taken": 1
+    },
+    {
+      "cum_pnl": -80,
+      "date": "2025-12-30",
+      "day_pnl": 0,
+      "kill_reasons": [
+        "flat_regime $-80 after 15 trades"
+      ],
+      "max_portfolio_dd": 364,
+      "n_active": 0,
+      "portfolio_dd": 252.8,
+      "strategies_added": 0,
+      "strategies_killed": 1,
+      "strategy_dds": {},
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": -80,
+      "date": "2025-12-31",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "max_portfolio_dd": 364,
+      "n_active": 0,
+      "portfolio_dd": 252.8,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {},
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": -80,
+      "date": "2026-01-02",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "max_portfolio_dd": 364,
+      "n_active": 0,
+      "portfolio_dd": 252.8,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {},
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": -80,
+      "date": "2026-01-05",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "max_portfolio_dd": 364,
+      "n_active": 0,
+      "portfolio_dd": 252.8,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {},
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": -80,
+      "date": "2026-01-06",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "max_portfolio_dd": 364,
+      "n_active": 0,
+      "portfolio_dd": 252.8,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {},
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": -80,
+      "date": "2026-01-07",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "max_portfolio_dd": 364,
+      "n_active": 0,
+      "portfolio_dd": 252.8,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {},
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": -80,
+      "date": "2026-01-08",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "max_portfolio_dd": 364,
+      "n_active": 0,
+      "portfolio_dd": 252.8,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {},
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": -80,
+      "date": "2026-01-09",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "max_portfolio_dd": 364,
+      "n_active": 0,
+      "portfolio_dd": 252.8,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {},
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": -80,
+      "date": "2026-01-12",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "max_portfolio_dd": 364,
+      "n_active": 0,
+      "portfolio_dd": 252.8,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {},
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": -80,
+      "date": "2026-01-13",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "max_portfolio_dd": 364,
+      "n_active": 0,
+      "portfolio_dd": 252.8,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {},
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": -80,
+      "date": "2026-01-20",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "max_portfolio_dd": 364,
+      "n_active": 0,
+      "portfolio_dd": 252.8,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {},
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": -80,
+      "date": "2026-01-21",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "max_portfolio_dd": 364,
+      "n_active": 0,
+      "portfolio_dd": 252.8,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {},
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": -80,
+      "date": "2026-01-22",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "max_portfolio_dd": 364,
+      "n_active": 0,
+      "portfolio_dd": 252.8,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {},
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": -80,
+      "date": "2026-01-23",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "max_portfolio_dd": 364,
+      "n_active": 0,
+      "portfolio_dd": 252.8,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {},
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": -80,
+      "date": "2026-01-26",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "max_portfolio_dd": 364,
+      "n_active": 0,
+      "portfolio_dd": 252.8,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {},
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": -80,
+      "date": "2026-01-27",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "max_portfolio_dd": 364,
+      "n_active": 0,
+      "portfolio_dd": 252.8,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {},
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": -80,
+      "date": "2026-01-28",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "max_portfolio_dd": 364,
+      "n_active": 0,
+      "portfolio_dd": 252.8,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {},
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": -80,
+      "date": "2026-01-29",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "max_portfolio_dd": 364,
+      "n_active": 0,
+      "portfolio_dd": 252.8,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {},
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": -80,
+      "date": "2026-01-30",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "max_portfolio_dd": 364,
+      "n_active": 0,
+      "portfolio_dd": 252.8,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {},
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": -80,
+      "date": "2026-02-02",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "max_portfolio_dd": 364,
+      "n_active": 0,
+      "portfolio_dd": 252.8,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {},
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": -80,
+      "date": "2026-02-03",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "max_portfolio_dd": 364,
+      "n_active": 0,
+      "portfolio_dd": 252.8,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {},
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": -80,
+      "date": "2026-02-04",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "max_portfolio_dd": 364,
+      "n_active": 0,
+      "portfolio_dd": 252.8,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {},
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": -80,
+      "date": "2026-02-05",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "max_portfolio_dd": 364,
+      "n_active": 0,
+      "portfolio_dd": 252.8,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {},
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": -80,
+      "date": "2026-02-06",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "max_portfolio_dd": 364,
+      "n_active": 0,
+      "portfolio_dd": 252.8,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {},
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": -80,
+      "date": "2026-02-09",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "max_portfolio_dd": 364,
+      "n_active": 0,
+      "portfolio_dd": 252.8,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {},
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": -80,
+      "date": "2026-02-10",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "max_portfolio_dd": 364,
+      "n_active": 0,
+      "portfolio_dd": 252.8,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {},
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": -80,
+      "date": "2026-02-17",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "max_portfolio_dd": 364,
+      "n_active": 0,
+      "portfolio_dd": 252.8,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {},
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": -80,
+      "date": "2026-02-18",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "max_portfolio_dd": 364,
+      "n_active": 0,
+      "portfolio_dd": 252.8,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {},
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": -80,
+      "date": "2026-02-19",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "max_portfolio_dd": 364,
+      "n_active": 0,
+      "portfolio_dd": 252.8,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {},
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": -80,
+      "date": "2026-02-20",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "max_portfolio_dd": 364,
+      "n_active": 0,
+      "portfolio_dd": 252.8,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {},
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": -80,
+      "date": "2026-02-23",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "max_portfolio_dd": 364,
+      "n_active": 0,
+      "portfolio_dd": 252.8,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {},
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": -80,
+      "date": "2026-02-24",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "max_portfolio_dd": 364,
+      "n_active": 0,
+      "portfolio_dd": 252.8,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {},
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": -80,
+      "date": "2026-02-25",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "max_portfolio_dd": 364,
+      "n_active": 0,
+      "portfolio_dd": 252.8,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {},
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": -80,
+      "date": "2026-02-26",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "max_portfolio_dd": 364,
+      "n_active": 0,
+      "portfolio_dd": 252.8,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {},
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": -80,
+      "date": "2026-02-27",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "max_portfolio_dd": 364,
+      "n_active": 0,
+      "portfolio_dd": 252.8,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {},
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": -80,
+      "date": "2026-03-02",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "max_portfolio_dd": 364,
+      "n_active": 0,
+      "portfolio_dd": 252.8,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {},
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": -80,
+      "date": "2026-03-03",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "max_portfolio_dd": 364,
+      "n_active": 0,
+      "portfolio_dd": 252.8,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {},
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": -80,
+      "date": "2026-03-04",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "max_portfolio_dd": 364,
+      "n_active": 0,
+      "portfolio_dd": 252.8,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {},
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": -80,
+      "date": "2026-03-05",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "max_portfolio_dd": 364,
+      "n_active": 0,
+      "portfolio_dd": 252.8,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {},
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": -80,
+      "date": "2026-03-06",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "max_portfolio_dd": 364,
+      "n_active": 0,
+      "portfolio_dd": 252.8,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {},
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": -80,
+      "date": "2026-03-09",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "max_portfolio_dd": 364,
+      "n_active": 0,
+      "portfolio_dd": 252.8,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {},
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": -80,
+      "date": "2026-03-10",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "max_portfolio_dd": 364,
+      "n_active": 0,
+      "portfolio_dd": 252.8,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {},
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": -80,
+      "date": "2026-03-11",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "max_portfolio_dd": 364,
+      "n_active": 0,
+      "portfolio_dd": 252.8,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {},
+      "trades_taken": 0
+    },
+    {
+      "cum_pnl": -80,
+      "date": "2026-03-12",
+      "day_pnl": 0,
+      "kill_reasons": [],
+      "max_portfolio_dd": 364,
+      "n_active": 0,
+      "portfolio_dd": 252.8,
+      "strategies_added": 0,
+      "strategies_killed": 0,
+      "strategy_dds": {},
+      "trades_taken": 0
+    }
+  ],
+  "regimes": [
+    {
+      "death_reason": "flat_regime $-80 after 15 trades",
+      "forward_avg_pnl": -5.33,
+      "forward_days": 29,
+      "forward_end": "2025-12-30",
+      "forward_max_dd": 364,
+      "forward_pnl": -80,
+      "forward_start": "2025-12-01",
+      "forward_trades": 15,
+      "forward_wr": 0.4667,
+      "genes": {
+        "archetype": "breakout",
+        "direction": "long",
+        "entry_conditions": [
+          {
+            "lookback_bars": 5,
+            "type": "price_broke_high"
+          },
+          {
+            "type": "price_above_open"
+          }
+        ],
+        "exit_rules": {
+          "eod_exit": true,
+          "hold_minutes": 390,
+          "sl_pct": 0.5,
+          "tp_pct": 0.5,
+          "tsl_pct": 0.1
+        },
+        "filter_condition": null,
+        "regime_filters": [],
+        "time_window": {
+          "end": "12:00",
+          "start": "09:45"
+        },
+        "trade_type": {
+          "kind": "debit_spread",
+          "width": 3
+        }
+      },
+      "genes_desc": "LONG naked_itm3 | price_broke_high | price_above_open | TSL10% SL50% 390m",
+      "regime_id": 1,
+      "train_end": "",
+      "train_fitness": 3.1632,
+      "train_n_trades": 0,
+      "train_pf": 0,
+      "train_pnl": 2472.3,
+      "train_sharpe": 0,
+      "train_start": "",
+      "train_wr": 0.5098
+    }
+  ],
+  "status": "ok",
+  "summary": {
+    "avg_daily_pnl": -1.25,
+    "cum_pnl": -80,
+    "max_portfolio_dd": 364,
+    "peak_concurrent": 1,
+    "period_end": "2026-03-12",
+    "period_start": "2025-12-01",
+    "positive_regimes": 0,
+    "strategies_generated": 13,
+    "total_days": 64,
+    "total_regimes": 1,
+    "total_trades": 15,
+    "trading_days": 15
+  },
+  "timings": {
+    "data_download_sec": 2.2,
+    "total_sec": 1504.4
+  },
+  "worker": {
+    "cpu_count": 32,
+    "workers_used": 32
+  }
+}

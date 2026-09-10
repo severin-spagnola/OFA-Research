@@ -1,0 +1,23 @@
+{
+  "delayTime": 100911,
+  "executionTime": 190041,
+  "id": "0223cb0a-1363-4b1b-91be-cf9b6bc4833f-u1",
+  "output": {
+    "n_candidates": 5000,
+    "n_viable": 0,
+    "profile": "listed_highvol",
+    "seed": 1000,
+    "status": "ok",
+    "timings": {
+      "data_download_sec": 0,
+      "total_sec": 189.9
+    },
+    "top_results": [],
+    "worker": {
+      "cpu_count": 128,
+      "workers_used": 128
+    }
+  },
+  "status": "COMPLETED",
+  "workerId": "vrsqemam86m38s"
+}

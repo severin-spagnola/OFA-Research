@@ -1,0 +1,38 @@
+{
+  "delayTime": 7919,
+  "executionTime": 310837,
+  "id": "d94c2d89-3ddd-4fec-b450-863b066aefa2-u1",
+  "output": {
+    "diagnostic": {
+      "avg_trades": 0.3,
+      "best_fitness": 0,
+      "max_trades": 128,
+      "n_negative_fitness": 204,
+      "n_positive_fitness": 0,
+      "n_with_trades": 204,
+      "n_zero_trades": 4796,
+      "preload_errors": 0,
+      "preload_files": 6291,
+      "preload_first_error": null,
+      "preload_sec": 7.6,
+      "train_eval_sec": 296.9,
+      "worst_fitness": -1
+    },
+    "n_candidates": 5000,
+    "n_viable": 0,
+    "profile": "smallcap_volatile",
+    "seed": 10001,
+    "status": "ok",
+    "timings": {
+      "data_download_sec": 4.8,
+      "total_sec": 310.7
+    },
+    "top_results": [],
+    "worker": {
+      "cpu_count": 128,
+      "workers_used": 128
+    }
+  },
+  "status": "COMPLETED",
+  "workerId": "2ttc4b7l6v5urt"
+}

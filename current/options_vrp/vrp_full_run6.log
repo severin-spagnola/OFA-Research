@@ -1,0 +1,6 @@
+[wf_runner] Auto-generated seed: 23911
+[wf] Loading available days...
+[wf] 471 trading days: 2024-03-13 to 2026-03-12
+[wf] Generated 136 walk-forward windows (train=45, val=15, step=3, forward=kill-gated)
+[wf] First window: train 2024-03-13→2024-05-17, val 2024-05-20→2024-06-13, fwd 411d avail
+[wf] Last window:  train 2025-11-26→2026-02-05, val 2026-02-06→2026-03-04, fwd 6d avail

@@ -1,0 +1,44 @@
+{
+  "profile": "allcap_volatile",
+  "n_workers": 4,
+  "candidates_per_worker": 5000,
+  "total_candidates": 20000,
+  "total_viable": 20,
+  "total_val_pass": 0,
+  "total_time_min": 19.4,
+  "top_20": [],
+  "worker_results": [
+    {
+      "seed": 11000,
+      "n_candidates": 5000,
+      "n_viable": 3,
+      "n_val_pass": 0,
+      "train_eval_sec": 791.6,
+      "val_eval_sec": 3.5
+    },
+    {
+      "seed": 11001,
+      "n_candidates": 5000,
+      "n_viable": 4,
+      "n_val_pass": 0,
+      "train_eval_sec": 786.3,
+      "val_eval_sec": 4.9
+    },
+    {
+      "seed": 11002,
+      "n_candidates": 5000,
+      "n_viable": 5,
+      "n_val_pass": 0,
+      "train_eval_sec": 799.7,
+      "val_eval_sec": 6.3
+    },
+    {
+      "seed": 11003,
+      "n_candidates": 5000,
+      "n_viable": 8,
+      "n_val_pass": 0,
+      "train_eval_sec": 813.9,
+      "val_eval_sec": 9.8
+    }
+  ]
+}

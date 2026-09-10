@@ -1,0 +1,44 @@
+{
+  "profile": "smallcap_volatile",
+  "n_workers": 4,
+  "candidates_per_worker": 5000,
+  "total_candidates": 20000,
+  "total_viable": 4,
+  "total_val_pass": 0,
+  "total_time_min": 5.6,
+  "top_20": [],
+  "worker_results": [
+    {
+      "seed": 10000,
+      "n_candidates": 5000,
+      "n_viable": 1,
+      "n_val_pass": 0,
+      "train_eval_sec": 300.9,
+      "val_eval_sec": 0.4
+    },
+    {
+      "seed": 10001,
+      "n_candidates": 5000,
+      "n_viable": 0,
+      "n_val_pass": null,
+      "train_eval_sec": null,
+      "val_eval_sec": null
+    },
+    {
+      "seed": 10002,
+      "n_candidates": 5000,
+      "n_viable": 2,
+      "n_val_pass": 0,
+      "train_eval_sec": 305.8,
+      "val_eval_sec": 0.7
+    },
+    {
+      "seed": 10003,
+      "n_candidates": 5000,
+      "n_viable": 1,
+      "n_val_pass": 0,
+      "train_eval_sec": 306.6,
+      "val_eval_sec": 0.4
+    }
+  ]
+}

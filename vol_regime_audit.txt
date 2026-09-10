@@ -1,0 +1,204 @@
+======================================================================
+VIX TERM STRUCTURE REGIME FILTER — RESEARCH AUDIT
+Run timestamp: 2026-03-19 01:45:50
+======================================================================
+
+======================================================================
+STEP 1 — DATA AUDIT
+======================================================================
+No local VIX files found in data/. Will use yfinance.
+
+Pulling ^VIX via yfinance (max period)...
+  ^VIX rows: 9120
+  ^VIX date range: 1990-01-02 to 2026-03-19
+  ^VIX NaN values: Ticker
+^VIX    0
+dtype: int64
+
+Pulling ^VIX3M via yfinance (max period)...
+  ^VIX3M rows: 4949
+  ^VIX3M date range: 2006-07-17 to 2026-03-18
+  ^VIX3M NaN values: Ticker
+^VIX3M    0
+dtype: int64
+
+Pulling SPY via yfinance (max period)...
+  SPY rows: 8340
+  SPY date range: 1993-01-29 to 2026-03-18
+
+Building aligned DataFrame (VIX, VIX3M, SPY)...
+  Aligned rows (VIX+VIX3M both present): 4949
+  Aligned date range: 2006-07-17 to 2026-03-18
+
+======================================================================
+STEP 2 — TERM STRUCTURE SLOPE
+======================================================================
+
+Full history:
+  Total trading days with both VIX+VIX3M: 4949
+  Inverted days (VIX > VIX3M):            547
+  % inverted:                              11.05%
+
+2019-2023 (in-sample):
+  Trading days: 1258
+  Inverted days: 83
+  % inverted: 6.60%
+
+Monthly inversion frequency (2019-2023) — inverted days / total days per month:
+  Year-Month    Inv Days  Total Days    Inv %
+  ------------ --------- ----------- --------
+  2019-01              3          21    14.3%
+  2019-02              0          19     0.0%
+  2019-03              0          21     0.0%
+  2019-04              0          21     0.0%
+  2019-05              4          22    18.2%
+  2019-06              1          20     5.0%
+  2019-07              0          22     0.0%
+  2019-08              5          22    22.7%
+  2019-09              0          20     0.0%
+  2019-10              0          23     0.0%
+  2019-11              0          20     0.0%
+  2019-12              0          21     0.0%
+  2020-01              2          21     9.5%
+  2020-02              5          19    26.3%
+  2020-03             22          22   100.0%
+  2020-04             16          21    76.2%
+  2020-05              0          20     0.0%
+  2020-06              1          22     4.5%
+  2020-07              0          22     0.0%
+  2020-08              0          21     0.0%
+  2020-09              0          21     0.0%
+  2020-10              5          22    22.7%
+  2020-11              2          20    10.0%
+  2020-12              0          22     0.0%
+  2021-01              1          19     5.3%
+  2021-02              0          19     0.0%
+  2021-03              0          23     0.0%
+  2021-04              0          21     0.0%
+  2021-05              0          20     0.0%
+  2021-06              0          22     0.0%
+  2021-07              0          21     0.0%
+  2021-08              0          22     0.0%
+  2021-09              0          21     0.0%
+  2021-10              0          21     0.0%
+  2021-11              0          21     0.0%
+  2021-12              1          22     4.5%
+  2022-01              1          20     5.0%
+  2022-02              3          19    15.8%
+  2022-03              3          23    13.0%
+  2022-04              2          20    10.0%
+  2022-05              0          21     0.0%
+  2022-06              0          21     0.0%
+  2022-07              0          20     0.0%
+  2022-08              0          23     0.0%
+  2022-09              3          21    14.3%
+  2022-10              3          21    14.3%
+  2022-11              0          21     0.0%
+  2022-12              0          21     0.0%
+  2023-01              0          20     0.0%
+  2023-02              0          19     0.0%
+  2023-03              0          23     0.0%
+  2023-04              0          19     0.0%
+  2023-05              0          22     0.0%
+  2023-06              0          21     0.0%
+  2023-07              0          20     0.0%
+  2023-08              0          23     0.0%
+  2023-09              0          20     0.0%
+  2023-10              0          22     0.0%
+  2023-11              0          21     0.0%
+  2023-12              0          20     0.0%
+
+Yearly inversion frequency (2019-2023):
+  2019: 13 inverted / 252 days = 5.2%
+  2020: 53 inverted / 253 days = 20.9%
+  2021: 2 inverted / 252 days = 0.8%
+  2022: 15 inverted / 251 days = 6.0%
+  2023: 0 inverted / 250 days = 0.0%
+
+======================================================================
+STEP 3 — BASE SIGNAL AUDIT (IN-SAMPLE: 2019-2023 ONLY)
+======================================================================
+
+In-sample rows with valid next-day SPY return: 1258
+  Inverted days: 83
+  Normal days:   1175
+
+a) Mean next-day SPY return:
+   Inverted: 0.1692%
+   Normal:   0.0586%
+   Edge (inverted - normal): 0.1107%
+
+b) Win rate when inverted (next-day SPY > 0): 56.63%  (47/83)
+   Win rate when normal:                     54.72%  (643/1175)
+
+c) Binomial test (H0: win_rate = 0.50, alt: greater):
+   Inverted win count: 47  n: 83  win_rate: 0.5663
+   p-value: 0.136134
+   Statistically significant (p < 0.10): NO
+   Statistically significant (p < 0.05): NO
+
+d) Sample size n for inverted events (2019-2023): 83
+
+e) Annualized signal density:
+   Inversion events: 83 over 5 years
+   Events/year: 16.6
+   Events/week: 0.32
+   >= 1 event/week: NO
+
+======================================================================
+STEP 4 — TRANSACTION COST SURVIVAL (IN-SAMPLE: 2019-2023)
+======================================================================
+
+Edge per trade (gross): 0.1692%  (annualized: 42.64%)
+Edge per trade (net after 0.05% RT cost): 0.1192%  (annualized: 30.04%)
+Net edge survives 0.05% RT cost: YES
+
+Sharpe — Inverted-days strategy (net, IS 2019-2023): 0.5627
+Sharpe — Buy-and-hold SPY (IS 2019-2023): 0.7971
+
+Note: Inverted-days Sharpe computed only on days when signal fires (83 days).
+Buy-and-hold Sharpe computed on all IS days (1258 days).
+
+======================================================================
+STEP 5 — OOS SNIFF TEST (2024 ONLY)
+*** DO NOT USE FOR PARAMETER TUNING — OUT-OF-SAMPLE ONLY ***
+======================================================================
+
+OOS rows (2024): 252
+  Inverted days (OOS): 9 / 252 = 3.6%
+
+  a) Mean next-day SPY return (OOS):
+     Inverted: 0.5206%
+     Normal:   0.0767%
+
+  b) Win rate inverted (OOS): 66.67%  (6/9)
+
+  c) OOS Binomial test p-value: 0.253906
+     p < 0.10: NO
+
+  d) OOS sample size: 9
+
+  e) OOS signal density: 9 events in 2024
+     Events/week (OOS): 0.17
+
+  f) Net edge after costs (OOS): 0.4706%/trade
+     Net edge > 0: YES
+
+  g) OOS Sharpe (inverted-days, net): 4.5678
+     OOS Buy-and-hold SPY Sharpe: 1.8316
+
+======================================================================
+STEP 6 — BRUTAL HONESTY SUMMARY
+======================================================================
+
+  Is p-value < 0.10?                         NO  (p=0.1361)
+  Is signal density >= 1 event/week?         NO  (0.32 events/week)
+  Does net edge survive 0.05% RT cost?       YES  (net=0.1192%/trade)
+
+  Checks passed: 1 / 3
+
+  RECOMMENDATION: DROP — insufficient statistical support
+
+======================================================================
+END OF AUDIT
+======================================================================

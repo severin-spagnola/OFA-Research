@@ -1,0 +1,140 @@
+{
+  "delayTime": 962873,
+  "executionTime": 550202,
+  "id": "30cf15be-b04a-4457-9cd2-a7cb142097bb-u2",
+  "output": {
+    "diagnostic": {
+      "avg_trades": 0.7,
+      "best_fitness": 0.0588,
+      "max_trades": 303,
+      "n_negative_fitness": 246,
+      "n_positive_fitness": 4,
+      "n_with_trades": 250,
+      "n_zero_trades": 4750,
+      "preload_errors": 20821,
+      "preload_files": 20708,
+      "preload_first_error": "._NRBT_2025-08-21.parquet: Could not open Parquet input source '<Buffer>': Parquet magic bytes not found in footer. Either the file is corrupted or this is not a parquet file.",
+      "preload_sec": 18.7,
+      "train_eval_sec": 521.6,
+      "worst_fitness": -1
+    },
+    "n_candidates": 5000,
+    "n_killed_stress": 0,
+    "n_killed_train_gate": 1,
+    "n_val_pass": 1,
+    "n_viable": 4,
+    "preload_sec": 18.7,
+    "profile": "nasdaq_highvol",
+    "seed": 21000,
+    "status": "ok",
+    "timings": {
+      "data_download_sec": 0.1,
+      "total_sec": 550
+    },
+    "top_results": [
+      {
+        "genes": {
+          "confirmation_params": {},
+          "confirmation_type": "none",
+          "direction": "short",
+          "earliest_entry_min": 5,
+          "entry_delay_bars": 0,
+          "entry_params": {
+            "min_green_run": 3,
+            "min_run_pct": 8
+          },
+          "entry_type": "first_red_fade",
+          "eod_exit": true,
+          "latest_entry_min": 390,
+          "max_hold_minutes": 390,
+          "max_spread_pct": 999,
+          "min_first_bar_ret_pct": 0,
+          "min_vol_spike": 1.5,
+          "partial_exit": true,
+          "partial_pct": 0.25,
+          "partial_target_r": 1,
+          "require_vol_accel": false,
+          "sl_atr_mult": 0,
+          "sl_atr_period": 5,
+          "sl_buffer_pct": 0.25,
+          "sl_fixed_pct": 8,
+          "sl_type": "fixed_pct",
+          "tp_r": 3,
+          "trail_activation_r": 1.5,
+          "trail_distance_pct": 0.12,
+          "trail_ema_period": 5,
+          "trail_type": "bar_low"
+        },
+        "genes_desc": "S 1st-red(after3green) | TP=3.0R | SL=fixed_pct | trail=bar_low@1.5R | partial=25%@1.0R",
+        "stress_val_fitness": {
+          "avg_r": 0.0305,
+          "cum_r": 1.52,
+          "fitness": 0,
+          "max_dd_r": 6.36,
+          "n_trades": 50,
+          "profit_factor": 1.065,
+          "sharpe": 0.201,
+          "win_rate": 0.5
+        },
+        "train_fitness": {
+          "avg_r": 0.0432,
+          "cum_r": 4.88,
+          "fitness": 0.0394,
+          "max_dd_r": 8.21,
+          "n_trades": 113,
+          "profit_factor": 1.085,
+          "sharpe": 0.406,
+          "win_rate": 0.469
+        },
+        "train_summary": {
+          "avg_r": 0.0432,
+          "cum_r": 4.88,
+          "max_dd_r": 8.21,
+          "n_trades": 113,
+          "n_wins": 53,
+          "profit_factor": 1.085,
+          "sharpe": 0.406,
+          "win_rate": 46.9
+        },
+        "val_fitness": {
+          "avg_r": 0.1119,
+          "cum_r": 5.6,
+          "fitness": 0.0532,
+          "max_dd_r": 5.74,
+          "n_trades": 50,
+          "profit_factor": 1.26,
+          "sharpe": 0.726,
+          "win_rate": 0.5
+        },
+        "val_summary": {
+          "avg_r": 0.1119,
+          "cum_r": 5.6,
+          "max_dd_r": 5.74,
+          "n_trades": 50,
+          "n_wins": 25,
+          "profit_factor": 1.26,
+          "sharpe": 0.726,
+          "win_rate": 50
+        }
+      }
+    ],
+    "train_date_range": [
+      "2025-03-18",
+      "2025-11-26"
+    ],
+    "train_eval_sec": 521.6,
+    "train_ticker_days": 449,
+    "val_date_range": [
+      "2025-11-28",
+      "2026-03-11"
+    ],
+    "val_eval_sec": 3.2,
+    "val_ticker_days": 221,
+    "worker": {
+      "cpu_count": 32,
+      "workers_used": 32
+    }
+  },
+  "status": "COMPLETED",
+  "workerId": "t24lerieniv99b"
+}

@@ -1,0 +1,93 @@
+[vrp7] Starting exhaustive walk-forward run7
+[wf] Loading available days...
+[wf] 471 trading days: 2024-03-13 to 2026-03-12
+[wf] Generated 41 walk-forward windows (train=45, val=15, step=10, forward=kill-gated)
+[wf] First window: train 2024-03-13→2024-05-17, val 2024-05-20→2024-06-13, fwd 411d avail
+[wf] Last window:  train 2025-11-19→2026-01-29, val 2026-01-30→2026-02-25, fwd 11d avail
+  [W0] train: 252 candidates, best_fitness=-1.157 best_n_trades=44 viable=0 min_train_trades=3
+[wf] Window 1/41 | train 2024-03-13→2024-05-17 | 0 val-tested, 0 fwd-profitable | 11s | ~455s remaining
+  [W1] train: 252 candidates, best_fitness=-1.537 best_n_trades=45 viable=0 min_train_trades=3
+[wf] Window 2/41 | train 2024-04-01→2024-06-06 | 0 val-tested, 0 fwd-profitable | 11s | ~432s remaining
+  [W2] train: 252 candidates, best_fitness=0.069 best_n_trades=45 viable=2 min_train_trades=3
+[wf] Window 3/41 | train 2024-04-15→2024-06-21 | 1 val-tested, 0 fwd-profitable | 14s | ~457s remaining
+  [W3] train: 252 candidates, best_fitness=4.480 best_n_trades=45 viable=20 min_train_trades=3
+[wf] Window 4/41 | train 2024-04-29→2024-07-08 | 0 val-tested, 0 fwd-profitable | 10s | ~431s remaining
+  [W4] train: 252 candidates, best_fitness=0.624 best_n_trades=45 viable=4 min_train_trades=3
+[wf] Window 5/41 | train 2024-05-13→2024-07-22 | 2 val-tested, 0 fwd-profitable | 13s | ~428s remaining
+  [W5] train: 252 candidates, best_fitness=1.746 best_n_trades=45 viable=8 min_train_trades=3
+[wf] Window 6/41 | train 2024-05-31→2024-08-05 | 5 val-tested, 0 fwd-profitable | 11s | ~409s remaining
+  [W6] train: 252 candidates, best_fitness=2.841 best_n_trades=43 viable=13 min_train_trades=3
+[wf] Window 7/41 | train 2024-06-14→2024-08-19 | 0 val-tested, 0 fwd-profitable | 10s | ~389s remaining
+  [W7] train: 252 candidates, best_fitness=3.045 best_n_trades=43 viable=4 min_train_trades=3
+[wf] Window 8/41 | train 2024-07-01→2024-09-06 | 0 val-tested, 0 fwd-profitable | 11s | ~376s remaining
+  [W8] train: 252 candidates, best_fitness=4.446 best_n_trades=43 viable=14 min_train_trades=3
+[wf] Window 9/41 | train 2024-07-16→2024-09-20 | 0 val-tested, 0 fwd-profitable | 9s | ~356s remaining
+  [W9] train: 252 candidates, best_fitness=4.925 best_n_trades=43 viable=12 min_train_trades=3
+[wf] Window 10/41 | train 2024-07-30→2024-10-04 | 0 val-tested, 0 fwd-profitable | 10s | ~340s remaining
+  [W10] train: 252 candidates, best_fitness=0.950 best_n_trades=44 viable=1 min_train_trades=3
+[wf] Window 11/41 | train 2024-08-13→2024-10-18 | 0 val-tested, 0 fwd-profitable | 14s | ~339s remaining
+  [W11] train: 252 candidates, best_fitness=0.746 best_n_trades=45 viable=3 min_train_trades=3
+[wf] Window 12/41 | train 2024-08-27→2024-11-01 | 0 val-tested, 0 fwd-profitable | 10s | ~324s remaining
+  [W12] train: 252 candidates, best_fitness=1.161 best_n_trades=45 viable=9 min_train_trades=3
+[wf] Window 13/41 | train 2024-09-16→2024-11-15 | 0 val-tested, 0 fwd-profitable | 15s | ~322s remaining
+  [W13] train: 252 candidates, best_fitness=-0.927 best_n_trades=45 viable=0 min_train_trades=3
+[wf] Window 14/41 | train 2024-09-30→2024-12-02 | 0 val-tested, 0 fwd-profitable | 9s | ~305s remaining
+  [W14] train: 252 candidates, best_fitness=-0.298 best_n_trades=45 viable=0 min_train_trades=3
+[wf] Window 15/41 | train 2024-10-14→2024-12-16 | 0 val-tested, 0 fwd-profitable | 9s | ~291s remaining
+  [W15] train: 252 candidates, best_fitness=-1.371 best_n_trades=45 viable=0 min_train_trades=3
+[wf] Window 16/41 | train 2024-10-28→2024-12-31 | 0 val-tested, 0 fwd-profitable | 9s | ~275s remaining
+  [W16] train: 252 candidates, best_fitness=-0.921 best_n_trades=45 viable=0 min_train_trades=3
+[wf] Window 17/41 | train 2024-11-11→2025-01-22 | 0 val-tested, 0 fwd-profitable | 9s | ~261s remaining
+  [W17] train: 252 candidates, best_fitness=1.503 best_n_trades=45 viable=1 min_train_trades=3
+[wf] Window 18/41 | train 2024-11-25→2025-02-05 | 0 val-tested, 0 fwd-profitable | 9s | ~247s remaining
+  [W18] train: 252 candidates, best_fitness=0.676 best_n_trades=45 viable=1 min_train_trades=3
+[wf] Window 19/41 | train 2024-12-10→2025-02-25 | 1 val-tested, 1 fwd-profitable | 16s | ~243s remaining
+  [W19] train: 252 candidates, best_fitness=3.846 best_n_trades=45 viable=11 min_train_trades=3
+[wf] Window 20/41 | train 2024-12-24→2025-03-11 | 6 val-tested, 3 fwd-profitable | 14s | ~235s remaining
+  [W20] train: 252 candidates, best_fitness=6.818 best_n_trades=45 viable=24 min_train_trades=3
+[wf] Window 21/41 | train 2025-01-10→2025-03-25 | 22 val-tested, 8 fwd-profitable | 12s | ~224s remaining
+  [W21] train: 252 candidates, best_fitness=10.853 best_n_trades=45 viable=61 min_train_trades=3
+[wf] Window 22/41 | train 2025-01-30→2025-04-08 | 23 val-tested, 3 fwd-profitable | 10s | ~212s remaining
+  [W22] train: 252 candidates, best_fitness=10.469 best_n_trades=45 viable=104 min_train_trades=3
+[wf] Window 23/41 | train 2025-02-19→2025-04-25 | 9 val-tested, 1 fwd-profitable | 12s | ~202s remaining
+  [W23] train: 252 candidates, best_fitness=11.329 best_n_trades=45 viable=123 min_train_trades=3
+[wf] Window 24/41 | train 2025-03-05→2025-05-09 | 11 val-tested, 1 fwd-profitable | 11s | ~191s remaining
+  [W24] train: 252 candidates, best_fitness=9.034 best_n_trades=45 viable=102 min_train_trades=3
+[wf] Window 25/41 | train 2025-03-19→2025-05-29 | 11 val-tested, 0 fwd-profitable | 10s | ~178s remaining
+  [W25] train: 252 candidates, best_fitness=8.733 best_n_trades=45 viable=98 min_train_trades=3
+[wf] Window 26/41 | train 2025-04-02→2025-06-12 | 3 val-tested, 1 fwd-profitable | 9s | ~166s remaining
+  [W26] train: 252 candidates, best_fitness=6.986 best_n_trades=45 viable=56 min_train_trades=3
+[wf] Window 27/41 | train 2025-04-21→2025-06-27 | 0 val-tested, 0 fwd-profitable | 16s | ~157s remaining
+  [W27] train: 252 candidates, best_fitness=2.055 best_n_trades=45 viable=15 min_train_trades=3
+[wf] Window 28/41 | train 2025-05-05→2025-07-16 | 0 val-tested, 0 fwd-profitable | 12s | ~147s remaining
+  [W28] train: 252 candidates, best_fitness=-0.180 best_n_trades=45 viable=0 min_train_trades=3
+[wf] Window 29/41 | train 2025-05-19→2025-07-30 | 0 val-tested, 0 fwd-profitable | 14s | ~137s remaining
+  [W29] train: 252 candidates, best_fitness=-0.035 best_n_trades=45 viable=0 min_train_trades=3
+[wf] Window 30/41 | train 2025-06-06→2025-08-13 | 0 val-tested, 0 fwd-profitable | 9s | ~124s remaining
+  [W30] train: 252 candidates, best_fitness=-0.308 best_n_trades=45 viable=0 min_train_trades=3
+[wf] Window 31/41 | train 2025-06-23→2025-09-02 | 0 val-tested, 0 fwd-profitable | 9s | ~112s remaining
+  [W31] train: 252 candidates, best_fitness=-2.129 best_n_trades=44 viable=0 min_train_trades=3
+[wf] Window 32/41 | train 2025-07-10→2025-09-16 | 0 val-tested, 0 fwd-profitable | 14s | ~102s remaining
+  [W32] train: 252 candidates, best_fitness=-2.336 best_n_trades=44 viable=0 min_train_trades=3
+[wf] Window 33/41 | train 2025-07-24→2025-09-30 | 0 val-tested, 0 fwd-profitable | 10s | ~90s remaining
+  [W33] train: 252 candidates, best_fitness=-1.718 best_n_trades=44 viable=0 min_train_trades=3
+[wf] Window 34/41 | train 2025-08-07→2025-10-14 | 0 val-tested, 0 fwd-profitable | 9s | ~79s remaining
+  [W34] train: 252 candidates, best_fitness=1.201 best_n_trades=44 viable=1 min_train_trades=3
+[wf] Window 35/41 | train 2025-08-21→2025-10-28 | 1 val-tested, 1 fwd-profitable | 9s | ~67s remaining
+  [W35] train: 252 candidates, best_fitness=2.348 best_n_trades=45 viable=5 min_train_trades=3
+[wf] Window 36/41 | train 2025-09-10→2025-11-11 | 4 val-tested, 3 fwd-profitable | 10s | ~56s remaining
+  [W36] train: 252 candidates, best_fitness=5.016 best_n_trades=45 viable=26 min_train_trades=3
+[wf] Window 37/41 | train 2025-09-24→2025-11-25 | 7 val-tested, 3 fwd-profitable | 10s | ~45s remaining
+  [W37] train: 252 candidates, best_fitness=11.115 best_n_trades=45 viable=47 min_train_trades=3
+[wf] Window 38/41 | train 2025-10-08→2025-12-10 | 0 val-tested, 0 fwd-profitable | 11s | ~33s remaining
+  [W38] train: 252 candidates, best_fitness=8.533 best_n_trades=45 viable=33 min_train_trades=3
+[wf] Window 39/41 | train 2025-10-22→2025-12-24 | 4 val-tested, 1 fwd-profitable | 9s | ~22s remaining
+  [W39] train: 252 candidates, best_fitness=4.418 best_n_trades=45 viable=20 min_train_trades=3
+[wf] Window 40/41 | train 2025-11-05→2026-01-09 | 6 val-tested, 4 fwd-profitable | 14s | ~11s remaining
+  [W40] train: 252 candidates, best_fitness=2.149 best_n_trades=45 viable=11 min_train_trades=3
+[wf] Window 41/41 | train 2025-11-19→2026-01-29 | 8 val-tested, 8 fwd-profitable | 11s | ~0s remaining
+
+[wf] DONE: 124 regime records, 38 forward-profitable (30.6%)
+[wf] Exit reasons: {'data_end': 39, 'rolling_wr': 38, 'drawdown': 34, 'early_wr': 10, 'consecutive_loss_days': 3}
+[wf] Saved to results/options_vrp/regime_db.jsonl
+[vrp7] Done.

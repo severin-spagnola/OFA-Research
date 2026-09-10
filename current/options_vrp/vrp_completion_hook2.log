@@ -1,0 +1,8 @@
+[hook] Monitoring PID 40153 for 44-window walk-forward...
+[hook] PID 40153 has exited. Running completion steps.
+[hook] Copied regime_db.jsonl
+[hook] Copied vrp_full_run2.log
+[hook] regime_db.jsonl: 0 lines, 0 unique window_ids (expected 44)
+[hook] Wrote CSV with 0 windows: /Users/severinspagnola/Desktop/ATLAS/atlas/state/OFA-VRP/vrp_walkforward_summary.csv
+[hook] Discord POST failed: HTTP Error 403: Forbidden
+[hook] All completion steps done.
